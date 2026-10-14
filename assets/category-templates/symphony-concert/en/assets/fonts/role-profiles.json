@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0",
+  "profiles": {
+    "opera-classical": {
+      "category": "traditional-performance",
+      "status": "trial",
+      "purpose": "candidate typography; verify real rendered text",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "ma-shan-zheng/MaShanZheng-Regular.ttf",
+            "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "source-han-serif-cn/SourceHanSerifCN-Regular.otf",
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf"
+          ],
+          "body": [
+            "source-han-serif-cn/SourceHanSerifCN-Regular.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "spectral/Spectral-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "spectral/Spectral-SemiBold.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-serif-cn/SourceHanSerifCN-Bold.otf"
+          ],
+          "subtitle": [
+            "spectral/Spectral-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "spectral/Spectral-Regular.ttf",
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "spectral/Spectral-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        }
+      }
+    },
+    "xiangsheng-duo": {
+      "category": "traditional-performance",
+      "status": "trial",
+      "purpose": "candidate typography; verify real rendered text",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-serif-cn/SourceHanSerifCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "barlow/Barlow-Bold.ttf",
+            "spectral/Spectral-SemiBold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "barlow/Barlow-Regular.ttf",
+            "spectral/Spectral-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        }
+      }
+    },
+    "symphony-airy": {
+      "category": "traditional-performance",
+      "status": "trial",
+      "purpose": "candidate typography; verify real rendered text",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+            "source-han-serif-cn/SourceHanSerifCN-Regular.otf",
+            "source-han-serif-cn/SourceHanSerifCN-Bold.otf"
+          ],
+          "subtitle": [
+            "source-han-serif-cn/SourceHanSerifCN-Regular.otf",
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf"
+          ],
+          "body": [
+            "source-han-serif-cn/SourceHanSerifCN-Regular.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "spectral/Spectral-Regular.ttf",
+            "source-han-serif-cn/SourceHanSerifCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "spectral/Spectral-Regular.ttf",
+            "spectral/Spectral-SemiBold.ttf",
+            "source-han-serif-cn/SourceHanSerifCN-Regular.otf"
+          ],
+          "subtitle": [
+            "spectral/Spectral-Italic.ttf",
+            "spectral/Spectral-Regular.ttf",
+            "source-han-serif-cn/SourceHanSerifCN-Regular.otf"
+          ],
+          "body": [
+            "spectral/Spectral-Regular.ttf",
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "spectral/Spectral-Regular.ttf",
+            "source-han-serif-cn/SourceHanSerifCN-Regular.otf"
+          ]
+        }
+      }
+    },
+    "traditional-fusion": {
+      "category": "traditional-performance",
+      "status": "trial",
+      "purpose": "candidate typography; verify real rendered text",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "barlow/Barlow-Bold.ttf",
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "exact_originals_confirmed": 0,
+  "records": [
+    {
+      "case": "演出-053",
+      "role": "title",
+      "observed": "Light Chinese Song/Ming structure with stroke contrast and triangular serifs; exact face unknown",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-serif-cn"
+      ],
+      "candidate_font_ids": [
+        "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+        "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+        "source-han-serif-cn/SourceHanSerifCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P609.jpg"
+    },
+    {
+      "case": "演出-053",
+      "role": "subtitle",
+      "observed": "Central Latin: italic serif with generous tracking and scattered letters",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P609.jpg"
+    },
+    {
+      "case": "演出-053",
+      "role": "body",
+      "observed": "Performer/details: regular Chinese/Latin serif; lower English brand is a separate asset",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-serif-cn",
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+        "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+        "source-han-serif-cn/SourceHanSerifCN-Regular.otf",
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P609.jpg"
+    },
+    {
+      "case": "演出-053",
+      "role": "numeric",
+      "observed": "Date: serif numerals with light character and spacing",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P609.jpg"
+    },
+    {
+      "case": "演出-065",
+      "role": "title",
+      "observed": "Vertical Chinese title: stable heavy sans with clear straight structure",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-sans-cn"
+      ],
+      "candidate_font_ids": [
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P630.jpg"
+    },
+    {
+      "case": "演出-065",
+      "role": "subtitle",
+      "observed": "Format and AMS & DaGuan: sans with distinct sizes/directions",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-sans-cn",
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf",
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P630.jpg"
+    },
+    {
+      "case": "演出-065",
+      "role": "body",
+      "observed": "Guests/place/English detail: regular sans in functional areas",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-sans-cn",
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf",
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P630.jpg"
+    },
+    {
+      "case": "演出-065",
+      "role": "numeric",
+      "observed": "Sessions/times: conventional sans numerals grouped by activity",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P630.jpg"
+    },
+    {
+      "case": "演出-109",
+      "role": "title",
+      "observed": "Written Chinese headline, possibly custom strokes and composition",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "custom-lettering-unconfirmed",
+      "candidate_families": [
+        "ma-shan-zheng"
+      ],
+      "candidate_font_ids": [
+        "ma-shan-zheng/MaShanZheng-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P83.jpg"
+    },
+    {
+      "case": "演出-109",
+      "role": "subtitle",
+      "observed": "Latin name/format: contrasting serif in close line groups",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P83.jpg"
+    },
+    {
+      "case": "演出-109",
+      "role": "body",
+      "observed": "Credits/place/tickets: small Chinese serif; some text below reliable font identification size",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-serif-cn"
+      ],
+      "candidate_font_ids": [
+        "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+        "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+        "source-han-serif-cn/SourceHanSerifCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P83.jpg"
+    },
+    {
+      "case": "演出-109",
+      "role": "numeric",
+      "observed": "Session: contrasting serif numerals with year/month hierarchy",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P83.jpg"
+    }
+  ]
+}

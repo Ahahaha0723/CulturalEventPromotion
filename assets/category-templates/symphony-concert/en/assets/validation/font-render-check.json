@@ -1,0 +1,544 @@
+{
+  "fonts_loaded": [
+    {
+      "id": "anton/Anton-Regular.ttf",
+      "loaded": true
+    },
+    {
+      "id": "archivo-black/ArchivoBlack-Regular.ttf",
+      "loaded": true
+    },
+    {
+      "id": "barlow-condensed/BarlowCondensed-Bold.ttf",
+      "loaded": true
+    },
+    {
+      "id": "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+      "loaded": true
+    },
+    {
+      "id": "barlow-condensed/BarlowCondensed-Regular.ttf",
+      "loaded": true
+    },
+    {
+      "id": "barlow/Barlow-Bold.ttf",
+      "loaded": true
+    },
+    {
+      "id": "barlow/Barlow-Italic.ttf",
+      "loaded": true
+    },
+    {
+      "id": "barlow/Barlow-Regular.ttf",
+      "loaded": true
+    },
+    {
+      "id": "bebas-neue/BebasNeue-Regular.ttf",
+      "loaded": true
+    },
+    {
+      "id": "ma-shan-zheng/MaShanZheng-Regular.ttf",
+      "loaded": true
+    },
+    {
+      "id": "noto-sans-thai/NotoSansThai[wdth,wght].ttf",
+      "loaded": true
+    },
+    {
+      "id": "rajdhani/Rajdhani-Bold.ttf",
+      "loaded": true
+    },
+    {
+      "id": "rajdhani/Rajdhani-Regular.ttf",
+      "loaded": true
+    },
+    {
+      "id": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "loaded": true
+    },
+    {
+      "id": "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+      "loaded": true
+    },
+    {
+      "id": "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+      "loaded": true
+    },
+    {
+      "id": "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+      "loaded": true
+    },
+    {
+      "id": "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+      "loaded": true
+    },
+    {
+      "id": "source-han-serif-cn/SourceHanSerifCN-Regular.otf",
+      "loaded": true
+    },
+    {
+      "id": "spectral/Spectral-Italic.ttf",
+      "loaded": true
+    },
+    {
+      "id": "spectral/Spectral-Regular.ttf",
+      "loaded": true
+    },
+    {
+      "id": "spectral/Spectral-SemiBold.ttf",
+      "loaded": true
+    },
+    {
+      "id": "zcool-kuaile/ZCOOLKuaiLe-Regular.ttf",
+      "loaded": true
+    },
+    {
+      "id": "zcool-qingke-huangyou/ZCOOLQingKeHuangYou-Regular.ttf",
+      "loaded": true
+    }
+  ],
+  "rendered_samples": [
+    {
+      "case": "演出-001",
+      "font": "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+      "text": "GALI周延 (D.M.G)",
+      "size": 110,
+      "width": 957.3300170898438
+    },
+    {
+      "case": "演出-001",
+      "font": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "text": "GALI周延 (D.M.G)",
+      "size": 110,
+      "width": 924
+    },
+    {
+      "case": "演出-029",
+      "font": "archivo-black/ArchivoBlack-Regular.ttf",
+      "text": "AHTD",
+      "size": 110,
+      "width": 342.2099914550781
+    },
+    {
+      "case": "演出-029",
+      "font": "barlow/Barlow-Bold.ttf",
+      "text": "AHTD",
+      "size": 110,
+      "width": 275.2200012207031
+    },
+    {
+      "case": "演出-039",
+      "font": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "text": "黑白森林",
+      "size": 110,
+      "width": 440
+    },
+    {
+      "case": "演出-053",
+      "font": "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+      "text": "流光之海",
+      "size": 110,
+      "width": 440
+    },
+    {
+      "case": "演出-053",
+      "font": "source-han-serif-cn/SourceHanSerifCN-Regular.otf",
+      "text": "流光之海",
+      "size": 110,
+      "width": 440
+    },
+    {
+      "case": "演出-065",
+      "font": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "text": "山海·大观",
+      "size": 110,
+      "width": 550
+    },
+    {
+      "case": "演出-065",
+      "font": "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+      "text": "山海·大观",
+      "size": 110,
+      "width": 550
+    },
+    {
+      "case": "演出-109",
+      "font": "ma-shan-zheng/MaShanZheng-Regular.ttf",
+      "text": "颜真卿",
+      "size": 110,
+      "width": 330
+    },
+    {
+      "case": "演出-109",
+      "font": "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+      "text": "颜真卿",
+      "size": 110,
+      "width": 330
+    },
+    {
+      "case": "潮流-014",
+      "font": "barlow/Barlow-Bold.ttf",
+      "text": "OTAKUTHON",
+      "size": 110,
+      "width": 611.489990234375
+    },
+    {
+      "case": "潮流-014",
+      "font": "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+      "text": "OTAKUTHON",
+      "size": 110,
+      "width": 455.7300109863281
+    },
+    {
+      "case": "潮流-014",
+      "font": "archivo-black/ArchivoBlack-Regular.ttf",
+      "text": "OTAKUTHON",
+      "size": 110,
+      "width": 783.8599853515625
+    },
+    {
+      "case": "潮流-022",
+      "font": "archivo-black/ArchivoBlack-Regular.ttf",
+      "text": "MANGA",
+      "size": 110,
+      "width": 458.260009765625
+    },
+    {
+      "case": "潮流-022",
+      "font": "barlow/Barlow-Bold.ttf",
+      "text": "MANGA",
+      "size": 110,
+      "width": 364.9800109863281
+    },
+    {
+      "case": "潮流-052",
+      "font": "bebas-neue/BebasNeue-Regular.ttf",
+      "text": "ARCANE WORLD",
+      "size": 110,
+      "width": 511.2799987792969
+    },
+    {
+      "case": "潮流-052",
+      "font": "anton/Anton-Regular.ttf",
+      "text": "ARCANE WORLD",
+      "size": 110,
+      "width": 619.3900146484375
+    },
+    {
+      "case": "潮流-052",
+      "font": "barlow-condensed/BarlowCondensed-Bold.ttf",
+      "text": "ARCANE WORLD",
+      "size": 110,
+      "width": 611.489990234375
+    },
+    {
+      "case": "潮流-053",
+      "font": "archivo-black/ArchivoBlack-Regular.ttf",
+      "text": "NYCC / Table F20",
+      "size": 110,
+      "width": 1034
+    },
+    {
+      "case": "潮流-053",
+      "font": "barlow/Barlow-Bold.ttf",
+      "text": "NYCC / Table F20",
+      "size": 110,
+      "width": 842.489990234375
+    },
+    {
+      "case": "潮流-053",
+      "font": "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+      "text": "NYCC / Table F20",
+      "size": 110,
+      "width": 656.8099975585938
+    },
+    {
+      "font": "anton/Anton-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 684.5800170898438
+    },
+    {
+      "font": "archivo-black/ArchivoBlack-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 989.1300048828125
+    },
+    {
+      "font": "barlow-condensed/BarlowCondensed-Bold.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 643.9600219726562
+    },
+    {
+      "font": "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 624.5800170898438
+    },
+    {
+      "font": "barlow-condensed/BarlowCondensed-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 598.3300170898438
+    },
+    {
+      "font": "barlow/Barlow-Bold.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 792.4000244140625
+    },
+    {
+      "font": "barlow/Barlow-Italic.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 747.8599853515625
+    },
+    {
+      "font": "barlow/Barlow-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 768.5999755859375
+    },
+    {
+      "font": "bebas-neue/BebasNeue-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 572.6300048828125
+    },
+    {
+      "font": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 672.7899780273438
+    },
+    {
+      "font": "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 661.6400146484375
+    },
+    {
+      "font": "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 657.4199829101562
+    },
+    {
+      "font": "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 671.5
+    },
+    {
+      "font": "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 659.0599975585938
+    },
+    {
+      "font": "source-han-serif-cn/SourceHanSerifCN-Regular.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 662.52001953125
+    },
+    {
+      "font": "barlow/Barlow-Bold.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 792.4000244140625
+    },
+    {
+      "font": "barlow/Barlow-Italic.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 747.8599853515625
+    },
+    {
+      "font": "barlow/Barlow-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 768.5999755859375
+    },
+    {
+      "font": "ma-shan-zheng/MaShanZheng-Regular.ttf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 611.0499877929688
+    },
+    {
+      "font": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 672.7899780273438
+    },
+    {
+      "font": "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 661.6400146484375
+    },
+    {
+      "font": "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 657.4199829101562
+    },
+    {
+      "font": "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 671.5
+    },
+    {
+      "font": "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 659.0599975585938
+    },
+    {
+      "font": "source-han-serif-cn/SourceHanSerifCN-Regular.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 662.52001953125
+    },
+    {
+      "font": "spectral/Spectral-Italic.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 810.3599853515625
+    },
+    {
+      "font": "spectral/Spectral-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 845.989990234375
+    },
+    {
+      "font": "spectral/Spectral-SemiBold.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 874.1400146484375
+    },
+    {
+      "font": "anton/Anton-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 684.5800170898438
+    },
+    {
+      "font": "archivo-black/ArchivoBlack-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 989.1300048828125
+    },
+    {
+      "font": "barlow-condensed/BarlowCondensed-Bold.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 643.9600219726562
+    },
+    {
+      "font": "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 624.5800170898438
+    },
+    {
+      "font": "barlow-condensed/BarlowCondensed-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 598.3300170898438
+    },
+    {
+      "font": "barlow/Barlow-Bold.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 792.4000244140625
+    },
+    {
+      "font": "barlow/Barlow-Italic.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 747.8599853515625
+    },
+    {
+      "font": "barlow/Barlow-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 768.5999755859375
+    },
+    {
+      "font": "bebas-neue/BebasNeue-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 572.6300048828125
+    },
+    {
+      "font": "noto-sans-thai/NotoSansThai[wdth,wght].ttf",
+      "text": "เจอกันที่ PARAGON HALL 2026",
+      "size": 68,
+      "width": 910.7899780273438
+    },
+    {
+      "font": "rajdhani/Rajdhani-Bold.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 721.9600219726562
+    },
+    {
+      "font": "rajdhani/Rajdhani-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 709.989990234375
+    },
+    {
+      "font": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 672.7899780273438
+    },
+    {
+      "font": "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 661.6400146484375
+    },
+    {
+      "font": "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 657.4199829101562
+    },
+    {
+      "font": "spectral/Spectral-Italic.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 810.3599853515625
+    },
+    {
+      "font": "spectral/Spectral-Regular.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 845.989990234375
+    },
+    {
+      "font": "spectral/Spectral-SemiBold.ttf",
+      "text": "LIVE ART / Main Title 2026",
+      "size": 68,
+      "width": 874.1400146484375
+    },
+    {
+      "font": "zcool-kuaile/ZCOOLKuaiLe-Regular.ttf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 649.4000244140625
+    },
+    {
+      "font": "zcool-qingke-huangyou/ZCOOLQingKeHuangYou-Regular.ttf",
+      "text": "文化演出 主标题 2026",
+      "size": 68,
+      "width": 526.6599731445312
+    }
+  ]
+}
