@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.1",
+  "language": "en",
+  "all_fonts_bundled": true,
+  "fonts": [
+    {
+      "id": "source-han-sans",
+      "file": "../../../fonts/member-modules/source-han-sans/SourceHanSansSC-Regular.otf",
+      "license_file": "../../../fonts/member-modules/source-han-sans/OFL-LICENSE.txt",
+      "sha256": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256",
+      "unicode_points": 44853,
+      "sample_missing_chars": "",
+      "status": "bundled",
+      "role": "body/display",
+      "original_file": "fonts/source-han-sans/SourceHanSansSC-Regular.otf"
+    },
+    {
+      "id": "source-han-sans",
+      "file": "../../../fonts/member-modules/source-han-sans/SourceHanSansSC-Bold.otf",
+      "license_file": "../../../fonts/member-modules/source-han-sans/OFL-LICENSE.txt",
+      "sha256": "df2b90f5bcc6d01dfc964cec5f6d535d6b6aebd26ed7fd79a9c1b3f2112fcb6b",
+      "unicode_points": 44853,
+      "sample_missing_chars": "",
+      "status": "bundled",
+      "role": "body/display",
+      "original_file": "fonts/source-han-sans/SourceHanSansSC-Bold.otf"
+    },
+    {
+      "id": "source-han-sans",
+      "file": "../../../fonts/member-modules/source-han-sans/SourceHanSansSC-Heavy.otf",
+      "license_file": "../../../fonts/member-modules/source-han-sans/OFL-LICENSE.txt",
+      "sha256": "6374b11bc4c2cd4bd7be1a1d64cf5047906c8a6a025c64e023c6792e50ba985e",
+      "unicode_points": 44853,
+      "sample_missing_chars": "",
+      "status": "bundled",
+      "role": "body/display",
+      "original_file": "fonts/source-han-sans/SourceHanSansSC-Heavy.otf"
+    },
+    {
+      "id": "chillround",
+      "file": "../../../fonts/member-modules/chillround/ChillRoundF.ttf",
+      "license_file": "../../../fonts/member-modules/chillround/OFL-LICENSE.txt",
+      "sha256": "ebeb471ae9778a26012a18136f8a9ae99450832cd8bb259265684720d60839f0",
+      "unicode_points": 12162,
+      "sample_missing_chars": "",
+      "status": "bundled",
+      "role": "optional-display",
+      "original_file": "fonts/chillround/ChillRoundF.ttf"
+    },
+    {
+      "id": "xiaolai",
+      "file": "../../../fonts/member-modules/xiaolai/Kosefont-JP.ttf",
+      "license_file": "../../../fonts/member-modules/xiaolai/OFL-LICENSE.txt",
+      "sha256": "4a115d6a55a7c330a04239de57f703a65fe630c4edc559deb62111ef85be72af",
+      "unicode_points": 44245,
+      "sample_missing_chars": "",
+      "status": "bundled",
+      "role": "optional-display",
+      "original_file": "fonts/xiaolai/Kosefont-JP.ttf"
+    },
+    {
+      "id": "nunito",
+      "file": "../../../fonts/member-modules/nunito/Nunito-Regular.ttf",
+      "license_file": "../../../fonts/member-modules/nunito/OFL-LICENSE.txt",
+      "sha256": "b0885056b60511b29aa9f69198055fe3bad13e76ec8a9b9e37cd61da7b4ee1e5",
+      "unicode_points": 938,
+      "sample_missing_chars": "乐人免入出地场奇快怪所时星林森点研究记费趣逃遇间",
+      "status": "bundled",
+      "role": "latin",
+      "original_file": "fonts/nunito/Nunito-Regular.ttf"
+    },
+    {
+      "id": "nunito",
+      "file": "../../../fonts/member-modules/nunito/Nunito-Bold.ttf",
+      "license_file": "../../../fonts/member-modules/nunito/OFL-LICENSE.txt",
+      "sha256": "ad443e47990c5fc4b263693b3018b7807868263b8c42ccb1115e030158931960",
+      "unicode_points": 938,
+      "sample_missing_chars": "乐人免入出地场奇快怪所时星林森点研究记费趣逃遇间",
+      "status": "bundled",
+      "role": "latin",
+      "original_file": "fonts/nunito/Nunito-Bold.ttf"
+    }
+  ],
+  "note": "Smiley Sans is optional and omitted: user-provided GitHub source ZIP contains no build binaries.",
+  "path_base": "Resolve from this member SKILL.md directory; shared files remain inside the main skill.",
+  "integration": "Font binaries and license texts match source; shared path binding, no global font installation."
+}
