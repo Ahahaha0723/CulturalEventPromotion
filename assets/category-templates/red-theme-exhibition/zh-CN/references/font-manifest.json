@@ -1,0 +1,186 @@
+{
+  "format": "red-theme-font-manifest-v1",
+  "scope": "red-theme-exhibition",
+  "fonts": [
+    {
+      "family": "source-han-serif",
+      "weight": "regular",
+      "file": "../../../fonts/member-modules/source-han-serif/SourceHanSerifSC-Regular.otf",
+      "sha256": "78aa7a328fd974df2d688c8a9fd74a33d8334dfa84ab24d9d11efb2ffc464117",
+      "bytes": 24543332,
+      "covers_cjk": true,
+      "glyphs": 44779,
+      "license_file": "../../../fonts/member-modules/source-han-serif/LICENSE.txt",
+      "source_archive": "09_SourceHanSerifSC.zip",
+      "expected_status": "installed in shared skill resource pool; member SHA256 verified",
+      "original_file": "fonts/source-han-serif/SourceHanSerifSC-Regular.otf",
+      "status": "bundled"
+    },
+    {
+      "family": "source-han-serif",
+      "weight": "bold",
+      "file": "../../../fonts/member-modules/source-han-serif/SourceHanSerifSC-Bold.otf",
+      "sha256": "706b8c0de2deff6cbc0c87e2cdedfd33a78b7ffd76cebb4549012f197ba611fe",
+      "bytes": 25521732,
+      "covers_cjk": true,
+      "glyphs": 44779,
+      "license_file": "../../../fonts/member-modules/source-han-serif/LICENSE.txt",
+      "source_archive": "09_SourceHanSerifSC.zip",
+      "expected_status": "installed in shared skill resource pool; member SHA256 verified",
+      "original_file": "fonts/source-han-serif/SourceHanSerifSC-Bold.otf",
+      "status": "bundled"
+    },
+    {
+      "family": "source-han-sans",
+      "weight": "regular",
+      "file": "../../../fonts/member-modules/source-han-sans/SourceHanSansSC-Regular.otf",
+      "sha256": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256",
+      "bytes": 16529832,
+      "covers_cjk": true,
+      "glyphs": 44853,
+      "license_file": "../../../fonts/member-modules/source-han-sans/OFL-LICENSE.txt",
+      "source_archive": "09_SourceHanSansSC.zip",
+      "expected_status": "installed in shared skill resource pool; member SHA256 verified",
+      "original_file": "fonts/source-han-sans/SourceHanSansSC-Regular.otf",
+      "status": "bundled"
+    },
+    {
+      "family": "source-han-sans",
+      "weight": "bold",
+      "file": "../../../fonts/member-modules/source-han-sans/SourceHanSansSC-Bold.otf",
+      "sha256": "df2b90f5bcc6d01dfc964cec5f6d535d6b6aebd26ed7fd79a9c1b3f2112fcb6b",
+      "bytes": 16963428,
+      "covers_cjk": true,
+      "glyphs": 44853,
+      "license_file": "../../../fonts/member-modules/source-han-sans/OFL-LICENSE.txt",
+      "source_archive": "09_SourceHanSansSC.zip",
+      "expected_status": "installed in shared skill resource pool; member SHA256 verified",
+      "original_file": "fonts/source-han-sans/SourceHanSansSC-Bold.otf",
+      "status": "bundled"
+    },
+    {
+      "family": "ma-shan-zheng",
+      "weight": "display",
+      "file": "../../../fonts/member-modules/ma-shan-zheng/MaShanZheng-Regular.ttf",
+      "sha256": "016752d5574878419a95d6e89304613a7bf8b44199ec0f25308d999dfd75c7de",
+      "bytes": 5857936,
+      "covers_cjk": true,
+      "glyphs": 7017,
+      "license_file": "../../../fonts/member-modules/ma-shan-zheng/OFL.txt",
+      "source_archive": "Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing.zip",
+      "expected_status": "User-supplied original font bundled; exact member SHA256 verified.",
+      "original_file": "fonts/ma-shan-zheng/MaShanZheng-Regular.ttf",
+      "status": "bundled",
+      "unicode_characters": 7015,
+      "internal_names": {
+        "1": [
+          "Ma Shan Zheng"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "4": [
+          "Ma Shan Zheng Regular"
+        ],
+        "5": [
+          "Version 2.003"
+        ],
+        "6": [
+          "MaShanZheng-Regular"
+        ]
+      },
+      "license_sha256": "dfea3d8e56e07329539b37f988cf509e9d0fe7cbd09eb799e19cc7d2e044e114",
+      "source_file": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing/Ma_Shan_Zheng/MaShanZheng-Regular.ttf",
+      "source_license_file": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing/Ma_Shan_Zheng/OFL.txt",
+      "availability_updated_on": "2026-10-12"
+    },
+    {
+      "family": "zhi-mang-xing",
+      "weight": "display",
+      "file": "../../../fonts/member-modules/zhi-mang-xing/ZhiMangXing-Regular.ttf",
+      "sha256": "b4ca573ec88909424f38a96dc402c61950f6987c57e92bbe88cf4c1360625d2f",
+      "bytes": 4052388,
+      "covers_cjk": true,
+      "glyphs": 7016,
+      "license_file": "../../../fonts/member-modules/zhi-mang-xing/OFL.txt",
+      "source_archive": "Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing.zip",
+      "expected_status": "User-supplied original font bundled; exact member SHA256 verified.",
+      "original_file": "fonts/zhi-mang-xing/ZhiMangXing-Regular.ttf",
+      "status": "bundled",
+      "unicode_characters": 7015,
+      "internal_names": {
+        "1": [
+          "Zhi Mang Xing"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "4": [
+          "Zhi Mang Xing Regular"
+        ],
+        "5": [
+          "Version 2.001"
+        ],
+        "6": [
+          "ZhiMangXing-Regular"
+        ]
+      },
+      "license_sha256": "986368a957fb202365f0edf7f8932fda5ef440a8c6dabf1000bef8d18b05b46c",
+      "source_file": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing/Zhi_Mang_Xing/ZhiMangXing-Regular.ttf",
+      "source_license_file": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing/Zhi_Mang_Xing/OFL.txt",
+      "availability_updated_on": "2026-10-12"
+    },
+    {
+      "family": "nunito",
+      "weight": "regular",
+      "file": "../../../fonts/member-modules/nunito/Nunito-Regular.ttf",
+      "sha256": "b0885056b60511b29aa9f69198055fe3bad13e76ec8a9b9e37cd61da7b4ee1e5",
+      "bytes": 132200,
+      "covers_cjk": false,
+      "glyphs": 938,
+      "license_file": "../../../fonts/member-modules/nunito/OFL-LICENSE.txt",
+      "source_archive": "Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing.zip",
+      "expected_status": "installed in shared skill resource pool; member SHA256 verified",
+      "original_file": "fonts/nunito/Nunito-Regular.ttf",
+      "status": "bundled"
+    },
+    {
+      "family": "nunito",
+      "weight": "bold",
+      "file": "../../../fonts/member-modules/nunito/Nunito-Bold.ttf",
+      "sha256": "ad443e47990c5fc4b263693b3018b7807868263b8c42ccb1115e030158931960",
+      "bytes": 132148,
+      "covers_cjk": false,
+      "glyphs": 938,
+      "license_file": "../../../fonts/member-modules/nunito/OFL-LICENSE.txt",
+      "source_archive": "Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing.zip",
+      "expected_status": "installed in shared skill resource pool; member SHA256 verified",
+      "original_file": "fonts/nunito/Nunito-Bold.ttf",
+      "status": "bundled"
+    },
+    {
+      "family": "lxgw-wenkai",
+      "weight": "regular",
+      "file": "../../../fonts/member-modules/lxgw-wenkai/LXGWWenKai-Regular.ttf",
+      "sha256": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009",
+      "bytes": 25575676,
+      "covers_cjk": true,
+      "glyphs": 46490,
+      "license_file": "../../../fonts/member-modules/lxgw-wenkai/OFL.txt",
+      "notice": "OFL license general text; check font upstream attribution and copyright notice before redistribution",
+      "source_archive": "LXGWWenKai-Regular.ttf",
+      "expected_status": "installed in shared skill resource pool; member SHA256 verified",
+      "original_file": "fonts/lxgw-wenkai/LXGWWenKai-Regular.ttf",
+      "status": "bundled"
+    }
+  ],
+  "notes": [
+    "所有路径相对于本模块SKILL.md所在根目录",
+    "必须在真实排版工具中加载，生图提示词不会强制应用字体"
+  ],
+  "language": "zh-CN",
+  "all_fonts_bundled": true,
+  "path_base": "Member SKILL.md directory; shared font paths may leave the member directory but stay inside the main skill.",
+  "integration": "Shared resources, verified hashes, explicit per-font availability; no system-wide installation.",
+  "availability_updated_on": "2026-10-12"
+}
