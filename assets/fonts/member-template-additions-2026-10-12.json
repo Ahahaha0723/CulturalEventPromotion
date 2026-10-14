@@ -1,0 +1,116 @@
+[
+  {
+    "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/261011海报出图及skill/传统文化 文物 考古展览/heritage-archaeology-poster-zh",
+    "target": "assets/category-templates/traditional-cultural-exhibition/zh-CN",
+    "files": {
+      "SKILL.md": "4936396b1df3ba481743470765fd5c21ceb4ad74bb438fd6e39e28c6f135c189",
+      "assets/background.png": "de3a770f26cd63df845a8eff3872eaf930397188fcbaad1a0944ab4fd3f024c6",
+      "assets/content.json": "9ba0725011f3f6bbe504075d28ee698f23c192582bb30ce2dbbbaec3e860209f",
+      "assets/fonts/BodoniModa-OFL.txt": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+      "assets/fonts/BodoniModa.ttf": "550f5e34ee0a828d7941b1fe9bc58b34e5260d3f33a61532e6d0a0114e79a5cf",
+      "assets/fonts/Inter-OFL.txt": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+      "assets/fonts/Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+      "assets/fonts/MaShanZheng-OFL.txt": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08",
+      "assets/fonts/MaShanZheng-Regular.ttf": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+      "assets/fonts/NotoSerifSC-OFL.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+      "assets/fonts/NotoSerifSC.ttf": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "assets/poster-reference.png": "0d5096151cd419f04c7ba05ef6bc1832f7fbe6621fa8aa43643c5abd63bb1e04",
+      "assets/reference-original.png": "e7d46026a2c4572d492d2767f217ea96891ca95b43727a8acf085c3b249f46fb",
+      "references/case.md": "9d57d600c749e85c786669f60ad7daa6b52f741dc1285cf4ac40613562098780",
+      "scripts/render.py": "94a21ef71d28027de3061d4364c9570a8a23b5aa24b33dc912a2484006b04f54"
+    }
+  },
+  {
+    "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/261011海报出图及skill/传统文化 文物 考古展览 En/heritage-archaeology-poster-en",
+    "target": "assets/category-templates/traditional-cultural-exhibition/en",
+    "files": {
+      "SKILL.md": "eab6f70cab22e5f877796c3150c1ed3af36b615dae7aaf82784219876a695a8c",
+      "assets/background.png": "de3a770f26cd63df845a8eff3872eaf930397188fcbaad1a0944ab4fd3f024c6",
+      "assets/content.json": "984376b5efc92c2f0c75b567f4c5ce9dae0645edb32bb01eaa726bbccb5717ce",
+      "assets/fonts/BodoniModa-OFL.txt": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+      "assets/fonts/BodoniModa.ttf": "550f5e34ee0a828d7941b1fe9bc58b34e5260d3f33a61532e6d0a0114e79a5cf",
+      "assets/fonts/Inter-OFL.txt": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+      "assets/fonts/Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+      "assets/fonts/MaShanZheng-OFL.txt": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08",
+      "assets/fonts/MaShanZheng-Regular.ttf": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+      "assets/fonts/NotoSerifSC-OFL.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+      "assets/fonts/NotoSerifSC.ttf": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "assets/poster-reference.png": "cafe17685290db955209a18466d0bc15599db60354d4a95921bff31b82b01f54",
+      "assets/reference-original.png": "e7d46026a2c4572d492d2767f217ea96891ca95b43727a8acf085c3b249f46fb",
+      "references/case.md": "34b29dc4b7f7206dfd8d1bce026b9ec59090e99ae81441459990ddb511c79626",
+      "scripts/render.py": "94a21ef71d28027de3061d4364c9570a8a23b5aa24b33dc912a2484006b04f54"
+    }
+  },
+  {
+    "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/261011海报出图及skill/春节 国庆/spring-national-day-poster-zh",
+    "target": "assets/category-templates/festival-lantern/zh-CN",
+    "files": {
+      "SKILL.md": "be038bda65bc5d7a069571ba34ae1c3ee89cf854d5ca28e3a40d3c3fcf235e19",
+      "assets/background.png": "68bfa798b71e099e0de05590c64c61fe57b66c4c3e71480c641c0134ac6931e5",
+      "assets/content.json": "99f25cc3df332a7db27de08f19a68ae8db6a0dee5e24638c0c54fb48f66a5b1a",
+      "assets/fonts/BodoniModa-OFL.txt": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+      "assets/fonts/BodoniModa.ttf": "550f5e34ee0a828d7941b1fe9bc58b34e5260d3f33a61532e6d0a0114e79a5cf",
+      "assets/fonts/Inter-OFL.txt": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+      "assets/fonts/Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+      "assets/fonts/NotoSerifSC-OFL.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+      "assets/fonts/NotoSerifSC.ttf": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "assets/poster-reference.png": "78a89801bbf71c314f0ce6be480d8e46437c8b6d2e0cde0643bef58a9662a860",
+      "assets/reference-original.png": "3a9b7aa64d9bfbc88c1f061175db9fcc92ab2a4391af0ef7e3956fbd8a13a146",
+      "references/case.md": "9f6ad156fb0e4e2ddbcadd3508f6d33129fefebe7300bf0c516989c7bd2dfd7e",
+      "scripts/render.py": "e12751eef8a962c2f5766b91aca60b44bdc41d0f48e14f3b2b0627cbea50aa71"
+    }
+  },
+  {
+    "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/261011海报出图及skill/春节 国庆 En/spring-national-day-poster-en",
+    "target": "assets/category-templates/festival-lantern/en",
+    "files": {
+      "SKILL.md": "03d68228da0288d2ed8ebe8fee3b9a2489a8175fc693a5f376e53a2b3225f0c1",
+      "assets/background.png": "68bfa798b71e099e0de05590c64c61fe57b66c4c3e71480c641c0134ac6931e5",
+      "assets/content.json": "5e7a7bef6e002e3730d799ae7f5e4e6541775eba677b58a1336aa986a1d29cf7",
+      "assets/fonts/BodoniModa-OFL.txt": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+      "assets/fonts/BodoniModa.ttf": "550f5e34ee0a828d7941b1fe9bc58b34e5260d3f33a61532e6d0a0114e79a5cf",
+      "assets/fonts/Inter-OFL.txt": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+      "assets/fonts/Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+      "assets/fonts/NotoSerifSC-OFL.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+      "assets/fonts/NotoSerifSC.ttf": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "assets/poster-reference.png": "1934eb050d5d9969f07c704a1625c4b099be569938f4595fe3f53a58aa839ef8",
+      "assets/reference-original.png": "3a9b7aa64d9bfbc88c1f061175db9fcc92ab2a4391af0ef7e3956fbd8a13a146",
+      "references/case.md": "d6bab496b6ad765096c25dcd59063157501d6fea09f8c9a0f988f3ac770ca8d5",
+      "scripts/render.py": "e12751eef8a962c2f5766b91aca60b44bdc41d0f48e14f3b2b0627cbea50aa71"
+    }
+  },
+  {
+    "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/261011海报出图及skill/数字艺术 绘画 摄影展览/skill",
+    "target": "assets/category-templates/digital-art-exhibition/zh-CN",
+    "files": {
+      "SKILL.md": "841dda1e2ab1dde159645e437000bd2e38bf764135689bad7948926cf581301c",
+      "assets/background.png": "843aed5c51ead2edfa0f67538650dbdcaf010f49a35a36ed5e8398c08f0bf902",
+      "assets/content.json": "e788666a62cab003588a0d0ec377f34acf84f8097afa41082a1c1c7ed2449014",
+      "assets/fonts/Inter-OFL.txt": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+      "assets/fonts/Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+      "assets/fonts/NotoSansSC-OFL.txt": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "assets/fonts/NotoSansSC.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "assets/poster-reference.png": "efc1fc4feed9bef80ce352dd1c63cb3407f1ee5d50f1ce33e8327a6b82477aea",
+      "assets/reference-original.png": "a420ad29ff26e73d7d831f8652a3dcd03526519e7fdc595458fe93d90196da13",
+      "references/design-system.md": "f805b6bd8a6b8127a9e22f5f263ad87c4db62c9f3a34b47eb881e09130065c5b",
+      "scripts/render.py": "2d84815d733441f7c4cc64b38e341bcc048e5f636d494513a3ad70f466085039"
+    }
+  },
+  {
+    "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/261011海报出图及skill/数字艺术 绘画 摄影展览 En/skill",
+    "target": "assets/category-templates/digital-art-exhibition/en",
+    "files": {
+      "SKILL.md": "709d8e74e3c36250f80f3e42f71d056f5b13a816f75e560748a415c8d3137c1c",
+      "assets/background.png": "843aed5c51ead2edfa0f67538650dbdcaf010f49a35a36ed5e8398c08f0bf902",
+      "assets/content.json": "a6415e79e259f4fe2b136b25dc124d6e2e16b18c76fe949ca75379bc6d9fa6c1",
+      "assets/fonts/Inter-OFL.txt": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+      "assets/fonts/Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+      "assets/fonts/NotoSansSC-OFL.txt": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "assets/fonts/NotoSansSC.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "assets/poster-reference.png": "773a41beac3fccfb5db403b085dceba1a47bea383e2b28325109f0409d56b302",
+      "assets/reference-original.png": "a420ad29ff26e73d7d831f8652a3dcd03526519e7fdc595458fe93d90196da13",
+      "references/design-system.md": "c2f2f29f4ebae01dcc975a06c097ddbde5d8222740805f5109a1c566b4d81d6a",
+      "scripts/render.py": "2d84815d733441f7c4cc64b38e341bcc048e5f636d494513a3ad70f466085039"
+    }
+  }
+]
