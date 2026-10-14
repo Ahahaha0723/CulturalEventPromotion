@@ -1,0 +1,305 @@
+{
+  "packages": [
+    {
+      "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/university-anniversary-editorial-zh",
+      "template_id": "university-anniversary/zh-CN",
+      "original_manifest": {
+        "SKILL.md": "f35a4fc8e6164e5b47543cfb5f2ba108a24ee36adddc337e859602a91a57ae4c",
+        "assets/examples/typography-review.png": "2ae4eec263179eb07e96f720b39670f6b1b79361608dcc3893f849fa8a042c1d",
+        "assets/reference/approved-chinese-geometry.png": "87447de6d32c0f3f214d3bc81f61aeedfa0c4d1788006007c8f453535d6476de",
+        "assets/reference/iteration-layout-reference.png": "e81a72816ac986bba8f810784c06a6c8d5d2a4163bca81a4a74556160ecbf8b9",
+        "assets/reference/photo-style-reference.jpg": "c9fb8deb08278f05530834101e44eb41f7ac372d9da73b6d93ef358dab183f1e",
+        "assets/reference/typography-reference.jpg": "a93110de5531dcb9bbec502afeccc572540182d39edd57924e4cde3b8216c82c",
+        "fonts/NotoSerifSC-Black.ttf": "723e9a6b062f1c6b85c274d1da8724c5d81094c9c8f45c9da8feeba7a60ac3bc",
+        "fonts/NotoSerifSC-Bold.ttf": "ab5d9a7a66779598f267aeedc6f3ad9c7d7eadca7a7673a0ad24adab18821913",
+        "fonts/NotoSerifSC-ExtraBold.ttf": "bf0d23bb3fa6fed95d96a0c011dd75d91535766943d34ff39bbe3c8517f291dd",
+        "fonts/NotoSerifSC-ExtraLight.ttf": "f3659de2e630a84711ed838f1cfb9fb7d3a04dd44a0749290d9ad4eb4fd22590",
+        "fonts/NotoSerifSC-Light.ttf": "a80b4b098c56acff965940a051262be4802a552c46fb98b1450124684e94ad5c",
+        "fonts/NotoSerifSC-Medium.ttf": "d5ec1c5da8027b5f3c6d8f21e9cb898101cbf423ffbc8d2c6c7a38b6b9b10814",
+        "fonts/NotoSerifSC-Regular.ttf": "29fbafc9d5b244b7f5d4a0d27973763927522452675203230179280cd3d1d231",
+        "fonts/NotoSerifSC-SemiBold.ttf": "73bb1df903dc81dc528153b40c5602e516005482723255f6767e72281e317821",
+        "references/anniversary-copy.example.md": "2a3b2be2d771001a34bab5eaab8b04c499d89ab3d3330cff5b9173b9f3a70b4a",
+        "references/color-and-visual.md": "f5f8c54aba5066cdbf3bc2ae77e25058f2af5133d3e495bc9b0a574e3c446401",
+        "references/emblem-cutout.md": "c43cffd66c48df560aa195139f2adce32908a8be2e29cb1708c900fb0455b9a0",
+        "references/font-assets.json": "bccc7d2f6cd3fc9c8e9e20ca64ce119d0c53b8b6757313a96d0aa878388cf5fd",
+        "references/layout-input.example.json": "49940fa92563597cfb39fe8b832c53da1cdaf8549a3299d7a3dfee258e523b07",
+        "references/layout-rules.md": "f0870a57999a92a280ba2486d6fb989c2425306f7ef533b317244e173a8524e9",
+        "references/layout-spec.json": "0acc60f6a8105b3dcf0340b3a70b482675fc87c9db8223fc5be8829239df4247",
+        "references/photo-style-prompts.md": "d5e8c85426814860078629bde4362bc434315c50403b59e7ce5f43fef2770453",
+        "scripts/check_assets.py": "4b4ce719e69161b2e39ffa6e3947032f932cf024929caea7c65a70066ba411db",
+        "scripts/render_type_demo.cjs": "5e08721260dded93d745a9c97870c7fec2f2364359d92024295b6279ec51804f",
+        "scripts/sample_emblem_color.py": "715d5f1cfa789333a2f782b9e31deb46e2ee829b171be9c6452c72eb853c70ff"
+      }
+    },
+    {
+      "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/university-anniversary-editorial-en",
+      "template_id": "university-anniversary/en",
+      "original_manifest": {
+        "SKILL.md": "f9fc227838b172baf80b2835efddd34504e3804ae527a2a9e8f12d5ed1d3d419",
+        "assets/examples/typography-review.png": "6a2fce04928b2bb8e5fa523ea68064d8bfcf02fbbfb91d7014e807672346fc66",
+        "assets/reference/approved-chinese-geometry.png": "87447de6d32c0f3f214d3bc81f61aeedfa0c4d1788006007c8f453535d6476de",
+        "assets/reference/iteration-layout-reference.png": "e81a72816ac986bba8f810784c06a6c8d5d2a4163bca81a4a74556160ecbf8b9",
+        "assets/reference/photo-style-reference.jpg": "c9fb8deb08278f05530834101e44eb41f7ac372d9da73b6d93ef358dab183f1e",
+        "assets/reference/typography-reference.jpg": "a93110de5531dcb9bbec502afeccc572540182d39edd57924e4cde3b8216c82c",
+        "fonts/NotoSerifSC-Black.ttf": "723e9a6b062f1c6b85c274d1da8724c5d81094c9c8f45c9da8feeba7a60ac3bc",
+        "fonts/NotoSerifSC-Bold.ttf": "ab5d9a7a66779598f267aeedc6f3ad9c7d7eadca7a7673a0ad24adab18821913",
+        "fonts/NotoSerifSC-ExtraBold.ttf": "bf0d23bb3fa6fed95d96a0c011dd75d91535766943d34ff39bbe3c8517f291dd",
+        "fonts/NotoSerifSC-ExtraLight.ttf": "f3659de2e630a84711ed838f1cfb9fb7d3a04dd44a0749290d9ad4eb4fd22590",
+        "fonts/NotoSerifSC-Light.ttf": "a80b4b098c56acff965940a051262be4802a552c46fb98b1450124684e94ad5c",
+        "fonts/NotoSerifSC-Medium.ttf": "d5ec1c5da8027b5f3c6d8f21e9cb898101cbf423ffbc8d2c6c7a38b6b9b10814",
+        "fonts/NotoSerifSC-Regular.ttf": "29fbafc9d5b244b7f5d4a0d27973763927522452675203230179280cd3d1d231",
+        "fonts/NotoSerifSC-SemiBold.ttf": "73bb1df903dc81dc528153b40c5602e516005482723255f6767e72281e317821",
+        "references/anniversary-copy.example.md": "2a3b2be2d771001a34bab5eaab8b04c499d89ab3d3330cff5b9173b9f3a70b4a",
+        "references/color-and-visual.md": "e263bfad763427c2a0e788887742ab11843c3511bb5deff9a25e981459e5419a",
+        "references/emblem-cutout.md": "3b72e58b94560117137677f29311b94433767c5bcd5ec2b495758602bb5b76c2",
+        "references/font-assets.json": "bccc7d2f6cd3fc9c8e9e20ca64ce119d0c53b8b6757313a96d0aa878388cf5fd",
+        "references/layout-input.example.json": "7a1837967dc1e85faf9e297425fb7c995a995121ea98825bfda5a9e0f3619af2",
+        "references/layout-rules.md": "9187307995bf78738bbfcfb2e5b48369d988f475a28f8e3a024b0fe2ef898806",
+        "references/layout-spec.json": "0974ea60f8dd589c8bcc4294a483d37d2f619e2f68a4363ffaf59430365c423e",
+        "references/photo-style-prompts.md": "ea3be2b5fc3f801b836b4ae4621288c8b9d659e82b933929e0323f09354baefb",
+        "references/translation-map.example.json": "1571a1986f1a405f8fb78e3ae171a39b573680b0a97ac0a1c33d27cdd432ebd5",
+        "scripts/check_assets.py": "b07dfcda1784e4da0654e7fbf3faeda8cad451b6d55bcadf2908a08cf0bf28e3",
+        "scripts/render_type_demo.cjs": "ee95b2f5fa43a87c1ee95580df344f7c36f294205c5fa33eaf3ccb3ee5cf9b45",
+        "scripts/sample_emblem_color.py": "715d5f1cfa789333a2f782b9e31deb46e2ee829b171be9c6452c72eb853c70ff"
+      }
+    }
+  ],
+  "fonts": [
+    {
+      "file": "assets/category-templates/university-anniversary/zh-CN/fonts/NotoSerifSC-ExtraLight.ttf",
+      "style": "ExtraLight",
+      "weight": 250,
+      "names": [
+        "Noto Serif SC ExtraLight",
+        "Regular",
+        "Noto Serif SC",
+        "ExtraLight"
+      ],
+      "bytes": 14805944,
+      "sha256": "f3659de2e630a84711ed838f1cfb9fb7d3a04dd44a0749290d9ad4eb4fd22590",
+      "template_id": "university-anniversary/zh-CN",
+      "original_file": "NotoSerifSC-ExtraLight.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/zh-CN/fonts/NotoSerifSC-Light.ttf",
+      "style": "Light",
+      "weight": 300,
+      "names": [
+        "Noto Serif SC Light",
+        "Regular",
+        "Noto Serif SC",
+        "Light"
+      ],
+      "bytes": 14807720,
+      "sha256": "a80b4b098c56acff965940a051262be4802a552c46fb98b1450124684e94ad5c",
+      "template_id": "university-anniversary/zh-CN",
+      "original_file": "NotoSerifSC-Light.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/zh-CN/fonts/NotoSerifSC-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "names": [
+        "Noto Serif SC",
+        "Regular"
+      ],
+      "bytes": 14808464,
+      "sha256": "29fbafc9d5b244b7f5d4a0d27973763927522452675203230179280cd3d1d231",
+      "template_id": "university-anniversary/zh-CN",
+      "original_file": "NotoSerifSC-Regular.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/zh-CN/fonts/NotoSerifSC-Medium.ttf",
+      "style": "Medium",
+      "weight": 500,
+      "names": [
+        "Noto Serif SC Medium",
+        "Regular",
+        "Noto Serif SC",
+        "Medium"
+      ],
+      "bytes": 14808480,
+      "sha256": "d5ec1c5da8027b5f3c6d8f21e9cb898101cbf423ffbc8d2c6c7a38b6b9b10814",
+      "template_id": "university-anniversary/zh-CN",
+      "original_file": "NotoSerifSC-Medium.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/zh-CN/fonts/NotoSerifSC-SemiBold.ttf",
+      "style": "SemiBold",
+      "weight": 600,
+      "names": [
+        "Noto Serif SC SemiBold",
+        "Regular",
+        "Noto Serif SC",
+        "SemiBold"
+      ],
+      "bytes": 14807872,
+      "sha256": "73bb1df903dc81dc528153b40c5602e516005482723255f6767e72281e317821",
+      "template_id": "university-anniversary/zh-CN",
+      "original_file": "NotoSerifSC-SemiBold.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/zh-CN/fonts/NotoSerifSC-Bold.ttf",
+      "style": "Bold",
+      "weight": 700,
+      "names": [
+        "Noto Serif SC",
+        "Bold"
+      ],
+      "bytes": 14807412,
+      "sha256": "ab5d9a7a66779598f267aeedc6f3ad9c7d7eadca7a7673a0ad24adab18821913",
+      "template_id": "university-anniversary/zh-CN",
+      "original_file": "NotoSerifSC-Bold.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/zh-CN/fonts/NotoSerifSC-ExtraBold.ttf",
+      "style": "ExtraBold",
+      "weight": 800,
+      "names": [
+        "Noto Serif SC ExtraBold",
+        "Regular",
+        "Noto Serif SC",
+        "ExtraBold"
+      ],
+      "bytes": 14808148,
+      "sha256": "bf0d23bb3fa6fed95d96a0c011dd75d91535766943d34ff39bbe3c8517f291dd",
+      "template_id": "university-anniversary/zh-CN",
+      "original_file": "NotoSerifSC-ExtraBold.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/zh-CN/fonts/NotoSerifSC-Black.ttf",
+      "style": "Black",
+      "weight": 900,
+      "names": [
+        "Noto Serif SC Black",
+        "Regular",
+        "Noto Serif SC",
+        "Black"
+      ],
+      "bytes": 14808452,
+      "sha256": "723e9a6b062f1c6b85c274d1da8724c5d81094c9c8f45c9da8feeba7a60ac3bc",
+      "template_id": "university-anniversary/zh-CN",
+      "original_file": "NotoSerifSC-Black.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/en/fonts/NotoSerifSC-ExtraLight.ttf",
+      "style": "ExtraLight",
+      "weight": 250,
+      "names": [
+        "Noto Serif SC ExtraLight",
+        "Regular",
+        "Noto Serif SC",
+        "ExtraLight"
+      ],
+      "bytes": 14805944,
+      "sha256": "f3659de2e630a84711ed838f1cfb9fb7d3a04dd44a0749290d9ad4eb4fd22590",
+      "template_id": "university-anniversary/en",
+      "original_file": "NotoSerifSC-ExtraLight.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/en/fonts/NotoSerifSC-Light.ttf",
+      "style": "Light",
+      "weight": 300,
+      "names": [
+        "Noto Serif SC Light",
+        "Regular",
+        "Noto Serif SC",
+        "Light"
+      ],
+      "bytes": 14807720,
+      "sha256": "a80b4b098c56acff965940a051262be4802a552c46fb98b1450124684e94ad5c",
+      "template_id": "university-anniversary/en",
+      "original_file": "NotoSerifSC-Light.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/en/fonts/NotoSerifSC-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "names": [
+        "Noto Serif SC",
+        "Regular"
+      ],
+      "bytes": 14808464,
+      "sha256": "29fbafc9d5b244b7f5d4a0d27973763927522452675203230179280cd3d1d231",
+      "template_id": "university-anniversary/en",
+      "original_file": "NotoSerifSC-Regular.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/en/fonts/NotoSerifSC-Medium.ttf",
+      "style": "Medium",
+      "weight": 500,
+      "names": [
+        "Noto Serif SC Medium",
+        "Regular",
+        "Noto Serif SC",
+        "Medium"
+      ],
+      "bytes": 14808480,
+      "sha256": "d5ec1c5da8027b5f3c6d8f21e9cb898101cbf423ffbc8d2c6c7a38b6b9b10814",
+      "template_id": "university-anniversary/en",
+      "original_file": "NotoSerifSC-Medium.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/en/fonts/NotoSerifSC-SemiBold.ttf",
+      "style": "SemiBold",
+      "weight": 600,
+      "names": [
+        "Noto Serif SC SemiBold",
+        "Regular",
+        "Noto Serif SC",
+        "SemiBold"
+      ],
+      "bytes": 14807872,
+      "sha256": "73bb1df903dc81dc528153b40c5602e516005482723255f6767e72281e317821",
+      "template_id": "university-anniversary/en",
+      "original_file": "NotoSerifSC-SemiBold.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/en/fonts/NotoSerifSC-Bold.ttf",
+      "style": "Bold",
+      "weight": 700,
+      "names": [
+        "Noto Serif SC",
+        "Bold"
+      ],
+      "bytes": 14807412,
+      "sha256": "ab5d9a7a66779598f267aeedc6f3ad9c7d7eadca7a7673a0ad24adab18821913",
+      "template_id": "university-anniversary/en",
+      "original_file": "NotoSerifSC-Bold.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/en/fonts/NotoSerifSC-ExtraBold.ttf",
+      "style": "ExtraBold",
+      "weight": 800,
+      "names": [
+        "Noto Serif SC ExtraBold",
+        "Regular",
+        "Noto Serif SC",
+        "ExtraBold"
+      ],
+      "bytes": 14808148,
+      "sha256": "bf0d23bb3fa6fed95d96a0c011dd75d91535766943d34ff39bbe3c8517f291dd",
+      "template_id": "university-anniversary/en",
+      "original_file": "NotoSerifSC-ExtraBold.ttf"
+    },
+    {
+      "file": "assets/category-templates/university-anniversary/en/fonts/NotoSerifSC-Black.ttf",
+      "style": "Black",
+      "weight": 900,
+      "names": [
+        "Noto Serif SC Black",
+        "Regular",
+        "Noto Serif SC",
+        "Black"
+      ],
+      "bytes": 14808452,
+      "sha256": "723e9a6b062f1c6b85c274d1da8724c5d81094c9c8f45c9da8feeba7a60ac3bc",
+      "template_id": "university-anniversary/en",
+      "original_file": "NotoSerifSC-Black.ttf"
+    }
+  ],
+  "binary_files_unchanged": true,
+  "license_status": "No license document supplied in either member package; retain original status.",
+  "path_base": "Each language member SKILL.md directory; original relative paths retained.",
+  "examples": "Historical test/review assets; not live event facts or production QA."
+}
