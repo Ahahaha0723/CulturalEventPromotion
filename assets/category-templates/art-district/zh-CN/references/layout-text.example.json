@@ -1,0 +1,51 @@
+{
+  "title_lines": [
+    "巷间",
+    "生长"
+  ],
+  "subtitle_lines": [
+    "青禾艺术街区",
+    "开放周末"
+  ],
+  "date": "2026年11月14日至15日",
+  "opening_hours": "每日 11:00—20:00",
+  "slogan_lines": [
+    "转过",
+    [
+      {
+        "text": "一个",
+        "bold": false
+      },
+      {
+        "text": "街角",
+        "bold": true
+      },
+      {
+        "text": "，",
+        "bold": false
+      }
+    ],
+    [
+      {
+        "text": "让",
+        "bold": false
+      },
+      {
+        "text": "艺术",
+        "bold": true
+      }
+    ],
+    "走进日常"
+  ],
+  "venue": "青禾艺术街区｜南门入口",
+  "address": "青禾市云川区织厂路18号",
+  "participation": "街区免费开放，工作坊需现场预约",
+  "call_to_action": "从南门出发，领取街区探索地图",
+  "organizer": "青禾艺术街区运营中心",
+  "activity_labels": [
+    "巷道艺术展",
+    "手作工作坊",
+    "独立创作市集",
+    "开放工作室"
+  ]
+}
