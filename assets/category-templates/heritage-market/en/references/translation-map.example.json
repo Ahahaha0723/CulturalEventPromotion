@@ -1,0 +1,165 @@
+{
+  "status": "fictional-event-test",
+  "nameStatus": "All English event, institution and place names are working translations, not verified official names",
+  "mapping": [
+    {
+      "id": "title",
+      "source_lines": [
+        "纸间相逢"
+      ],
+      "english_lines": [
+        "Paper Encounters"
+      ]
+    },
+    {
+      "id": "subtitle",
+      "source_lines": [
+        "非遗文创与书籍市集"
+      ],
+      "english_lines": [
+        "Heritage Crafts & Book Market"
+      ]
+    },
+    {
+      "id": "slogan",
+      "source_lines": [
+        "让手艺被看见，让好书被遇见。"
+      ],
+      "english_lines": [
+        "Let crafts be seen. Let good books be discovered."
+      ]
+    },
+    {
+      "id": "time-heading",
+      "source_lines": [
+        "时间与入场"
+      ],
+      "english_lines": [
+        "Time & Admission"
+      ]
+    },
+    {
+      "id": "date",
+      "source_lines": [
+        "2026.11.21—11.22"
+      ],
+      "english_lines": [
+        "21–22 NOV 2026"
+      ]
+    },
+    {
+      "id": "day",
+      "source_lines": [
+        "周六、周日"
+      ],
+      "english_lines": [
+        "Saturday & Sunday"
+      ]
+    },
+    {
+      "id": "time",
+      "source_lines": [
+        "10:00—18:00"
+      ],
+      "english_lines": [
+        "10:00–18:00"
+      ]
+    },
+    {
+      "id": "entry",
+      "source_lines": [
+        "免费入场"
+      ],
+      "english_lines": [
+        "Free Admission"
+      ]
+    },
+    {
+      "id": "venue-heading",
+      "source_lines": [
+        "地点"
+      ],
+      "english_lines": [
+        "Venue"
+      ]
+    },
+    {
+      "id": "venue",
+      "source_lines": [
+        "青禾纸坊文化空间"
+      ],
+      "english_lines": [
+        "Qinghe Paper Mill",
+        "Cultural Space"
+      ]
+    },
+    {
+      "id": "address",
+      "source_lines": [
+        "青禾市南岸区",
+        "纸坊路16号"
+      ],
+      "english_lines": [
+        "16 Zhifang Road",
+        "Nan'an District, Qinghe"
+      ]
+    },
+    {
+      "id": "organizer-heading",
+      "source_lines": [
+        "主办与策划"
+      ],
+      "english_lines": [
+        "Organizers"
+      ]
+    },
+    {
+      "id": "host-heading",
+      "source_lines": [
+        "主办"
+      ],
+      "english_lines": [
+        "Hosted by"
+      ]
+    },
+    {
+      "id": "host",
+      "source_lines": [
+        "青禾纸坊文化空间"
+      ],
+      "english_lines": [
+        "Qinghe Paper Mill",
+        "Cultural Space"
+      ]
+    },
+    {
+      "id": "coplanning-heading",
+      "source_lines": [
+        "联合策划"
+      ],
+      "english_lines": [
+        "Co-curated by"
+      ]
+    },
+    {
+      "id": "coplanning",
+      "source_lines": [
+        "纸间阅读计划",
+        "手作日常工作室"
+      ],
+      "english_lines": [
+        "Paper Reading Project",
+        "Everyday Crafts Studio"
+      ]
+    },
+    {
+      "id": "test-notice",
+      "source_lines": [
+        "虚构活动测试资料"
+      ],
+      "english_lines": [
+        "Fictional event test copy"
+      ]
+    }
+  ]
+}

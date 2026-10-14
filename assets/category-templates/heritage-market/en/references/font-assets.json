@@ -1,0 +1,123 @@
+{
+  "fonts": [
+    {
+      "file": "NotoSerifSC-ExtraLight.ttf",
+      "style": "ExtraLight",
+      "weight": 250,
+      "names": [
+        "Noto Serif SC ExtraLight",
+        "Regular",
+        "Noto Serif SC",
+        "ExtraLight"
+      ],
+      "bytes": 14805944,
+      "sha256": "f3659de2e630a84711ed838f1cfb9fb7d3a04dd44a0749290d9ad4eb4fd22590"
+    },
+    {
+      "file": "NotoSerifSC-Light.ttf",
+      "style": "Light",
+      "weight": 300,
+      "names": [
+        "Noto Serif SC Light",
+        "Regular",
+        "Noto Serif SC",
+        "Light"
+      ],
+      "bytes": 14807720,
+      "sha256": "a80b4b098c56acff965940a051262be4802a552c46fb98b1450124684e94ad5c"
+    },
+    {
+      "file": "NotoSerifSC-Regular.ttf",
+      "style": "Regular",
+      "weight": 400,
+      "names": [
+        "Noto Serif SC",
+        "Regular"
+      ],
+      "bytes": 14808464,
+      "sha256": "29fbafc9d5b244b7f5d4a0d27973763927522452675203230179280cd3d1d231"
+    },
+    {
+      "file": "NotoSerifSC-Medium.ttf",
+      "style": "Medium",
+      "weight": 500,
+      "names": [
+        "Noto Serif SC Medium",
+        "Regular",
+        "Noto Serif SC",
+        "Medium"
+      ],
+      "bytes": 14808480,
+      "sha256": "d5ec1c5da8027b5f3c6d8f21e9cb898101cbf423ffbc8d2c6c7a38b6b9b10814"
+    },
+    {
+      "file": "NotoSerifSC-SemiBold.ttf",
+      "style": "SemiBold",
+      "weight": 600,
+      "names": [
+        "Noto Serif SC SemiBold",
+        "Regular",
+        "Noto Serif SC",
+        "SemiBold"
+      ],
+      "bytes": 14807872,
+      "sha256": "73bb1df903dc81dc528153b40c5602e516005482723255f6767e72281e317821"
+    },
+    {
+      "file": "NotoSerifSC-Bold.ttf",
+      "style": "Bold",
+      "weight": 700,
+      "names": [
+        "Noto Serif SC",
+        "Bold"
+      ],
+      "bytes": 14807412,
+      "sha256": "ab5d9a7a66779598f267aeedc6f3ad9c7d7eadca7a7673a0ad24adab18821913"
+    },
+    {
+      "file": "NotoSerifSC-ExtraBold.ttf",
+      "style": "ExtraBold",
+      "weight": 800,
+      "names": [
+        "Noto Serif SC ExtraBold",
+        "Regular",
+        "Noto Serif SC",
+        "ExtraBold"
+      ],
+      "bytes": 14808148,
+      "sha256": "bf0d23bb3fa6fed95d96a0c011dd75d91535766943d34ff39bbe3c8517f291dd"
+    },
+    {
+      "file": "NotoSerifSC-Black.ttf",
+      "style": "Black",
+      "weight": 900,
+      "names": [
+        "Noto Serif SC Black",
+        "Regular",
+        "Noto Serif SC",
+        "Black"
+      ],
+      "bytes": 14808452,
+      "sha256": "723e9a6b062f1c6b85c274d1da8724c5d81094c9c8f45c9da8feeba7a60ac3bc"
+    },
+    {
+      "file": "字制区喜脉喜欢体.ttf",
+      "style": "Ximai",
+      "weight": 400,
+      "names": [
+        "FontQu Smile __",
+        "Regular",
+        "___ _____",
+        "xihuanti",
+        "FontQu Smile 常规",
+        "字制区 喜脉喜欢体",
+        "FontQu Smile",
+        "常规",
+        "字制区喜脉喜欢体"
+      ],
+      "bytes": 9487256,
+      "sha256": "3f8d7e25a4c44a39530feae176bc80161de7dab397a639cda3da92edb9662eae"
+    }
+  ],
+  "license_status": "用户提供字体文件；未附许可文件，不将文件名或字族名视为已核验的授权范围。"
+}

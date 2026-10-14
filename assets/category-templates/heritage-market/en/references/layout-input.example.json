@@ -1,0 +1,263 @@
+{
+  "status": "review",
+  "paperColor": "#F5F1E8",
+  "textColor": "#2D2D2D",
+  "sceneImage": null,
+  "visualContext": {
+    "theme": "Materials meet reading",
+    "keywords": [
+      "paper",
+      "cloth",
+      "bamboo",
+      "wood",
+      "books",
+      "handwork"
+    ],
+    "mainObject": "open pages",
+    "supportingStructures": [
+      "binding thread",
+      "local woven crossings"
+    ]
+  },
+  "blocks": [
+    {
+      "id": "title",
+      "lines": [
+        "Paper Encounters"
+      ],
+      "x": 1200,
+      "top": 100,
+      "size": 296,
+      "font": "Ximai",
+      "width": 2120,
+      "align": "center",
+      "lineHeight": 400
+    },
+    {
+      "id": "subtitle",
+      "lines": [
+        "Heritage Crafts & Book Market"
+      ],
+      "x": 1200,
+      "top": 455,
+      "size": 80,
+      "font": "SemiBold",
+      "width": 2120,
+      "align": "center",
+      "lineHeight": 116
+    },
+    {
+      "id": "slogan",
+      "lines": [
+        "Let crafts be seen. Let good books be discovered."
+      ],
+      "x": 1200,
+      "top": 565,
+      "size": 52,
+      "font": "Medium",
+      "width": 2120,
+      "align": "center",
+      "lineHeight": 76
+    },
+    {
+      "id": "time-heading",
+      "lines": [
+        "Time & Admission"
+      ],
+      "x": 140,
+      "top": 2400,
+      "size": 42,
+      "font": "Bold",
+      "width": 640,
+      "align": "left",
+      "lineHeight": 62,
+      "column": "time"
+    },
+    {
+      "id": "date",
+      "lines": [
+        "21–22 NOV 2026"
+      ],
+      "x": 140,
+      "top": 2500,
+      "size": 42,
+      "font": "SemiBold",
+      "width": 640,
+      "align": "left",
+      "lineHeight": 62,
+      "column": "time"
+    },
+    {
+      "id": "day",
+      "lines": [
+        "Saturday & Sunday"
+      ],
+      "x": 140,
+      "top": 2570,
+      "size": 42,
+      "font": "Medium",
+      "width": 640,
+      "align": "left",
+      "lineHeight": 62,
+      "column": "time"
+    },
+    {
+      "id": "time",
+      "lines": [
+        "10:00–18:00"
+      ],
+      "x": 140,
+      "top": 2640,
+      "size": 42,
+      "font": "Medium",
+      "width": 640,
+      "align": "left",
+      "lineHeight": 62,
+      "column": "time"
+    },
+    {
+      "id": "entry",
+      "lines": [
+        "Free Admission"
+      ],
+      "x": 140,
+      "top": 2710,
+      "size": 42,
+      "font": "Bold",
+      "width": 640,
+      "align": "left",
+      "lineHeight": 62,
+      "column": "time"
+    },
+    {
+      "id": "venue-heading",
+      "lines": [
+        "Venue"
+      ],
+      "x": 1200,
+      "top": 2400,
+      "size": 42,
+      "font": "Bold",
+      "width": 640,
+      "align": "center",
+      "lineHeight": 62,
+      "column": "venue"
+    },
+    {
+      "id": "venue",
+      "lines": [
+        "Qinghe Paper Mill",
+        "Cultural Space"
+      ],
+      "x": 1200,
+      "top": 2500,
+      "size": 42,
+      "font": "SemiBold",
+      "width": 640,
+      "align": "center",
+      "lineHeight": 62,
+      "column": "venue"
+    },
+    {
+      "id": "address",
+      "lines": [
+        "16 Zhifang Road",
+        "Nan'an District, Qinghe"
+      ],
+      "x": 1200,
+      "top": 2640,
+      "size": 42,
+      "font": "Medium",
+      "width": 640,
+      "align": "center",
+      "lineHeight": 62,
+      "column": "venue"
+    },
+    {
+      "id": "organizer-heading",
+      "lines": [
+        "Organizers"
+      ],
+      "x": 2260,
+      "top": 2400,
+      "size": 42,
+      "font": "Bold",
+      "width": 640,
+      "align": "right",
+      "lineHeight": 62,
+      "column": "organizer"
+    },
+    {
+      "id": "host-heading",
+      "lines": [
+        "Hosted by"
+      ],
+      "x": 2260,
+      "top": 2480,
+      "size": 42,
+      "font": "Bold",
+      "width": 640,
+      "align": "right",
+      "lineHeight": 62,
+      "column": "organizer"
+    },
+    {
+      "id": "host",
+      "lines": [
+        "Qinghe Paper Mill",
+        "Cultural Space"
+      ],
+      "x": 2260,
+      "top": 2542,
+      "size": 42,
+      "font": "Medium",
+      "width": 640,
+      "align": "right",
+      "lineHeight": 62,
+      "column": "organizer"
+    },
+    {
+      "id": "coplanning-heading",
+      "lines": [
+        "Co-curated by"
+      ],
+      "x": 2260,
+      "top": 2680,
+      "size": 42,
+      "font": "Bold",
+      "width": 640,
+      "align": "right",
+      "lineHeight": 62,
+      "column": "organizer"
+    },
+    {
+      "id": "coplanning",
+      "lines": [
+        "Paper Reading Project",
+        "Everyday Crafts Studio"
+      ],
+      "x": 2260,
+      "top": 2742,
+      "size": 42,
+      "font": "Medium",
+      "width": 640,
+      "align": "right",
+      "lineHeight": 62,
+      "column": "organizer"
+    },
+    {
+      "id": "test-notice",
+      "lines": [
+        "Fictional event test copy"
+      ],
+      "x": 2260,
+      "top": 2910,
+      "size": 42,
+      "font": "Medium",
+      "width": 700,
+      "align": "right",
+      "lineHeight": 62
+    }
+  ],
+  "inkTexture": true
+}
