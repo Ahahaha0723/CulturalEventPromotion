@@ -1,0 +1,22 @@
+schema_version: "1.0"
+project_id: "replace-with-project-id"
+source_brief: "../state/brief.yaml"
+output_root: "../output"
+files:
+  - path: "replace-with-output-file.png"
+    language: zh-CN
+    format: png
+    width_px: 2400
+    height_px: 3000
+    status: review
+    editable: false
+    notes: "Replace this example entry with an actual exported file."
+
+  - path: "replace-with-english-output-file.png"
+    language: en
+    format: png
+    width_px: 2400
+    height_px: 3000
+    status: review
+    editable: false
+    notes: "English complete poster paired with the Chinese output."

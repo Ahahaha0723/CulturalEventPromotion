@@ -1,0 +1,74 @@
+schema_version: "1.0"
+project_id: "replace-with-project-id"
+concept_status: proposed
+selected_direction: ""
+cultural_evidence:
+  - claim_or_symbol: ""
+    source: ""
+    evidence_level: D
+    confidence: low
+    usage: reference
+design_proposition: ""
+visual_motif: ""
+composition:
+  focal_subject: ""
+  reading_path: ""
+  text_safe_areas: []
+  crop_constraints: []
+generation_prompt:
+  objective: ""
+  subject: ""
+  environment: ""
+  composition: ""
+  material_and_medium: ""
+  lighting: ""
+  color_roles: ""
+  cultural_constraints: []
+  output_ratio: "4:5"
+negative_constraints:
+  - random or illegible text
+  - fabricated logos or QR codes
+  - unrelated cultural symbols
+  - unsupported historical mixtures
+  - elements covering reserved text areas
+tool_plan: []
+human_approval:
+  concept: pending
+  cultural_elements: pending
+  asset_rights: pending
+
+language_execution:
+  zh-CN:
+    template_id: ""
+    template_entry: ""
+    instruction_files: []
+    prompt_source_files: []
+    locked_copy_file: ""
+    image_prompt: ""
+    layout_constraints: []
+    resolved_assets: []
+    allowed_adjustments: []
+    explicit_user_overrides: []
+  en:
+    template_id: ""
+    template_entry: ""
+    instruction_files: []
+    prompt_source_files: []
+    locked_copy_file: ""
+    image_prompt: ""
+    layout_constraints: []
+    resolved_assets: []
+    allowed_adjustments: []
+    explicit_user_overrides: []
+
+# Optional role-specific adaptation; populate only for this project's confirmed scope.
+layered_adaptation:
+  primary_category: ""
+  supporting_categories: []
+  role_assignments: []
+  # Each layer records id, source, role, opacity (0..1), bbox, crop, protected, and user_basis.
+  layers: []
+  # Each relation records target, reference, property, resolved_value, and user_basis.
+  layout_relations: []
+  expected_change_regions: []
+  copy_adaptations: []

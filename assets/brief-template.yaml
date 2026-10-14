@@ -1,0 +1,118 @@
+schema_version: "1.0"
+project:
+  id: "replace-with-project-id"
+  draft_only: true
+  purpose: ""
+  communication_goal: ""
+  usage_scene: ""
+event:
+  name:
+    value: ""
+    status: missing
+    source: []
+    confidence: unknown
+    must_appear: true
+    notes: ""
+  organizer:
+    value: ""
+    status: missing
+    source: []
+    confidence: unknown
+    must_appear: true
+    notes: ""
+  co_organizers: []
+  theme:
+    value: ""
+    status: missing
+    source: []
+    confidence: unknown
+    must_appear: false
+    notes: ""
+  slogan:
+    value: ""
+    status: missing
+    source: []
+    confidence: unknown
+    must_appear: false
+    notes: ""
+schedule:
+  date:
+    value: ""
+    status: missing
+    source: []
+    confidence: unknown
+    must_appear: true
+    notes: ""
+  start_time: ""
+  end_time: ""
+  timezone: "Asia/Shanghai"
+venue:
+  name:
+    value: ""
+    status: missing
+    source: []
+    confidence: unknown
+    must_appear: true
+    notes: ""
+  address: ""
+  online_url: ""
+audience:
+  target:
+    value: ""
+    status: missing
+    source: []
+    confidence: unknown
+    must_appear: false
+    notes: ""
+  desired_action: ""
+registration:
+  mode: none
+  price: ""
+  call_to_action: ""
+  url: ""
+  qr_asset: ""
+languages:
+  source: zh-CN
+  required: [zh-CN, en]
+  official_names: {}
+  translation_status: pending
+deliverables:
+  canvas:
+    orientation: portrait
+    ratio: "4:5"
+    width_px: 2400
+    height_px: 3000
+  formats: [png]
+  quantity_per_language: 1
+  editable_source_required: false
+  platform_or_print_notes: ""
+content_rules:
+  must_appear: []
+  optional: []
+  forbidden: []
+classification:
+  primary_type: other
+  secondary_types: []
+  attributes: []
+  confidence: low
+  evidence: []
+assets: []
+
+
+human_review:
+  content_master:
+    revision: "v01"
+    status: pending
+    confirmed_revision: ""
+    scope: []
+    user_confirmation_source: ""
+    decision: ""
+  production_issues: []
+
+asset_usage:
+  status: pending
+  count: null
+  selected_ids: []
+  usage: ""
+  user_confirmation_source: ""
+  notes: "Count distinct eligible subject source files; exclude logos, fonts and style references. Reuse explicit user selection."
