@@ -1,0 +1,3197 @@
+{
+  "summary": {
+    "date": "2026-10-09",
+    "members": 5,
+    "expectedCaseRecords": 50,
+    "touchedCaseRecords": 49,
+    "completeCaseRecords": 36,
+    "uniqueTouchedCases": 32,
+    "choicesSubmitted": 10,
+    "completeChoices": 9,
+    "verdictCounts": {
+      "基本认可": 38,
+      "部分认可": 10
+    },
+    "mechanismCounts": {
+      "材质与真实感": 4,
+      "主视觉与主题关联": 16,
+      "信息组织": 2,
+      "主次与留白": 17,
+      "色彩情绪": 5,
+      "字体表达": 4
+    },
+    "riskCounts": {
+      "文化／事实需核对": 6,
+      "无明显问题": 20,
+      "视觉元素拥挤": 1,
+      "活动定位不清": 4,
+      "信息难读": 11,
+      "只适合特定受众": 3,
+      "创意与主题关联弱": 3
+    },
+    "audienceTestsSubmitted": 0,
+    "nonBlankDimensionScores": 0,
+    "missing": [
+      {
+        "name": "吴雅琪",
+        "displayId": "展览-002",
+        "missing": [
+          "risk"
+        ]
+      },
+      {
+        "name": "吴雅琪",
+        "displayId": "街区-018",
+        "missing": [
+          "transfer"
+        ]
+      },
+      {
+        "name": "吴雅琪",
+        "displayId": "体育-036",
+        "missing": [
+          "strength",
+          "verdict"
+        ]
+      },
+      {
+        "name": "吴雅琪",
+        "displayId": "潮流-022",
+        "missing": [
+          "整条记录"
+        ]
+      },
+      {
+        "name": "王吉辉",
+        "displayId": "展览-167",
+        "missing": [
+          "note"
+        ]
+      },
+      {
+        "name": "王吉辉",
+        "displayId": "潮流-022",
+        "missing": [
+          "note"
+        ]
+      },
+      {
+        "name": "王吉辉",
+        "displayId": "学术-013",
+        "missing": [
+          "note"
+        ]
+      },
+      {
+        "name": "王吉辉",
+        "displayId": "学术-076",
+        "missing": [
+          "note"
+        ]
+      },
+      {
+        "name": "王吉辉",
+        "briefId": "T01",
+        "missing": [
+          "rejectTag"
+        ]
+      },
+      {
+        "name": "邓语晨",
+        "displayId": "展览-186",
+        "missing": [
+          "note"
+        ]
+      },
+      {
+        "name": "邓语晨",
+        "displayId": "演出-097",
+        "missing": [
+          "note"
+        ]
+      },
+      {
+        "name": "邓语晨",
+        "displayId": "市集-049",
+        "missing": [
+          "note"
+        ]
+      },
+      {
+        "name": "郑旭洋",
+        "displayId": "展览-125",
+        "missing": [
+          "note"
+        ]
+      },
+      {
+        "name": "郑旭洋",
+        "displayId": "潮流-014",
+        "missing": [
+          "note"
+        ]
+      },
+      {
+        "name": "郑旭洋",
+        "displayId": "潮流-022",
+        "missing": [
+          "note"
+        ]
+      }
+    ],
+    "audits": [
+      {
+        "name": "伍强",
+        "filename": "视觉训练_伍强_2026-10-08.json",
+        "sha256": "c40972c6107080cadb8351f51440e96ce918ea03f4cf3f10439f2e055531fb7e",
+        "exportedAt": "2026-10-08T12:11:17.023Z",
+        "version": "V0.4",
+        "assignedSamples": 10,
+        "touchedSamples": 10,
+        "completeSamples": 10,
+        "submittedBriefs": 2,
+        "completeChoices": 2,
+        "outsideAssignment": []
+      },
+      {
+        "name": "吴雅琪",
+        "filename": "视觉训练_吴雅琪_2026-10-09.json",
+        "sha256": "290f1349fc7f138116302853c435a3e41bcb187551a996e992d2c06c370dbe7d",
+        "exportedAt": "2026-10-09T02:46:14.475Z",
+        "version": "V0.4",
+        "assignedSamples": 10,
+        "touchedSamples": 9,
+        "completeSamples": 6,
+        "submittedBriefs": 2,
+        "completeChoices": 2,
+        "outsideAssignment": []
+      },
+      {
+        "name": "王吉辉",
+        "filename": "视觉训练_王吉辉_2026-10-09.json",
+        "sha256": "bb4320622a77ac415eaae4b80c555b09650b260152184b256955d4d65ef38396",
+        "exportedAt": "2026-10-09T02:48:53.492Z",
+        "version": "V0.4",
+        "assignedSamples": 10,
+        "touchedSamples": 10,
+        "completeSamples": 6,
+        "submittedBriefs": 2,
+        "completeChoices": 1,
+        "outsideAssignment": []
+      },
+      {
+        "name": "邓语晨",
+        "filename": "视觉训练_邓语晨_2026-10-08.json",
+        "sha256": "047ff6dd4a47f84b60c8eeb6c891ceb029cc8919bcf7c5c151879550a41b97ec",
+        "exportedAt": "2026-10-08T12:22:23.682Z",
+        "version": "V0.4",
+        "assignedSamples": 10,
+        "touchedSamples": 10,
+        "completeSamples": 7,
+        "submittedBriefs": 2,
+        "completeChoices": 2,
+        "outsideAssignment": []
+      },
+      {
+        "name": "郑旭洋",
+        "filename": "视觉训练_郑旭洋_2026-10-08.json",
+        "sha256": "3f780d1e7b015658627f7b3f1db2d2e6a54f4f2919b4b954684a081e9e5f9f29",
+        "exportedAt": "2026-10-08T12:26:18.446Z",
+        "version": "V0.4",
+        "assignedSamples": 10,
+        "touchedSamples": 10,
+        "completeSamples": 7,
+        "submittedBriefs": 2,
+        "completeChoices": 2,
+        "outsideAssignment": []
+      }
+    ],
+    "shared": [
+      "展览-002",
+      "演出-097",
+      "潮流-022",
+      "学术-113"
+    ]
+  },
+  "cases": [
+    {
+      "id": "P442",
+      "displayId": "体育-004",
+      "main": "体育类",
+      "sub": "足球赛事",
+      "title": "No.275创意分享 _ 高级感足球赛事海报",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主次与留白": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "id": "P442",
+          "displayId": "体育-004",
+          "main": "体育类",
+          "sub": "足球赛事",
+          "title": "No.275创意分享 _ 高级感足球赛事海报",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:06:49.717Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P424",
+      "displayId": "体育-024",
+      "main": "体育类",
+      "sub": "赛车／F1赛事",
+      "title": "2026 F1巴林大奖赛马来西亚雪邦车队海报",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主视觉与主题关联": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "信息难读": 1
+      },
+      "transfer": {
+        "需限制受众或媒介": 1
+      },
+      "votes": [
+        {
+          "member": "邓语晨",
+          "id": "P424",
+          "displayId": "体育-024",
+          "main": "体育类",
+          "sub": "赛车／F1赛事",
+          "title": "2026 F1巴林大奖赛马来西亚雪邦车队海报",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-08T12:09:40.596Z",
+            "verdict": "基本认可",
+            "risk": "信息难读",
+            "transfer": "需限制受众或媒介"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P434",
+      "displayId": "体育-036",
+      "main": "体育类",
+      "sub": "马拉松／路跑赛事",
+      "title": "2026东京马拉松主视觉发布（附历届海报）",
+      "participants": 1,
+      "complete": 0,
+      "strength": {},
+      "verdict": {},
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "吴雅琪",
+          "id": "P434",
+          "displayId": "体育-036",
+          "main": "体育类",
+          "sub": "马拉松／路跑赛事",
+          "title": "2026东京马拉松主视觉发布（附历届海报）",
+          "quick": {
+            "transfer": "可用于同小类活动",
+            "updatedAt": "2026-10-09T02:23:50.429Z",
+            "risk": "无明显问题"
+          },
+          "complete": false,
+          "missing": [
+            "strength",
+            "verdict"
+          ],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P458",
+      "displayId": "体育-052",
+      "main": "体育类",
+      "sub": "运动形象参考（非赛事）",
+      "title": "文字混排版式灵感积累",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主视觉与主题关联": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "郑旭洋",
+          "id": "P458",
+          "displayId": "体育-052",
+          "main": "体育类",
+          "sub": "运动形象参考（非赛事）",
+          "title": "文字混排版式灵感积累",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-08T12:19:25.585Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P516",
+      "displayId": "学术-013",
+      "main": "学术类",
+      "sub": "学术论坛",
+      "title": "第五届汉代图像研究青年论坛_海报其 1",
+      "participants": 1,
+      "complete": 0,
+      "strength": {
+        "字体表达": 1
+      },
+      "verdict": {
+        "部分认可": 1
+      },
+      "risk": {
+        "文化／事实需核对": 1
+      },
+      "transfer": {
+        "仅作为局部视觉参考": 1
+      },
+      "votes": [
+        {
+          "member": "王吉辉",
+          "id": "P516",
+          "displayId": "学术-013",
+          "main": "学术类",
+          "sub": "学术论坛",
+          "title": "第五届汉代图像研究青年论坛_海报其 1",
+          "quick": {
+            "strength": "字体表达",
+            "updatedAt": "2026-10-09T02:43:20.572Z",
+            "verdict": "部分认可",
+            "risk": "文化／事实需核对",
+            "transfer": "仅作为局部视觉参考"
+          },
+          "complete": false,
+          "missing": [
+            "note"
+          ],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P484",
+      "displayId": "学术-015",
+      "main": "学术类",
+      "sub": "学术讲座",
+      "title": "人文学术海报2 黑白_蓝黄色系海报设计",
+      "participants": 2,
+      "complete": 2,
+      "strength": {
+        "主次与留白": 2
+      },
+      "verdict": {
+        "基本认可": 2
+      },
+      "risk": {
+        "无明显问题": 2
+      },
+      "transfer": {
+        "可用于同小类活动": 2
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "id": "P484",
+          "displayId": "学术-015",
+          "main": "学术类",
+          "sub": "学术讲座",
+          "title": "人文学术海报2 黑白_蓝黄色系海报设计",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:06:57.122Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "郑旭洋",
+          "id": "P484",
+          "displayId": "学术-015",
+          "main": "学术类",
+          "sub": "学术讲座",
+          "title": "人文学术海报2 黑白_蓝黄色系海报设计",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:19:49.645Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P538",
+      "displayId": "学术-076",
+      "main": "学术类",
+      "sub": "设计／建筑工作坊",
+      "title": "GAFA国际联合工作坊",
+      "participants": 2,
+      "complete": 1,
+      "strength": {
+        "信息组织": 1,
+        "主次与留白": 1
+      },
+      "verdict": {
+        "部分认可": 1,
+        "基本认可": 1
+      },
+      "risk": {
+        "信息难读": 1,
+        "活动定位不清": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 2
+      },
+      "votes": [
+        {
+          "member": "王吉辉",
+          "id": "P538",
+          "displayId": "学术-076",
+          "main": "学术类",
+          "sub": "设计／建筑工作坊",
+          "title": "GAFA国际联合工作坊",
+          "quick": {
+            "strength": "信息组织",
+            "updatedAt": "2026-10-09T02:44:48.279Z",
+            "verdict": "部分认可",
+            "risk": "信息难读",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": false,
+          "missing": [
+            "note"
+          ],
+          "assigned": true
+        },
+        {
+          "member": "邓语晨",
+          "id": "P538",
+          "displayId": "学术-076",
+          "main": "学术类",
+          "sub": "设计／建筑工作坊",
+          "title": "GAFA国际联合工作坊",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:10:50.301Z",
+            "verdict": "基本认可",
+            "risk": "活动定位不清",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P549",
+      "displayId": "学术-084",
+      "main": "学术类",
+      "sub": "书籍／字体／印刷工作坊",
+      "title": "书籍工作坊｜UNFOLD 2025 我们上海见！",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主视觉与主题关联": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "吴雅琪",
+          "id": "P549",
+          "displayId": "学术-084",
+          "main": "学术类",
+          "sub": "书籍／字体／印刷工作坊",
+          "title": "书籍工作坊｜UNFOLD 2025 我们上海见！",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-09T02:25:45.003Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P548",
+      "displayId": "学术-113",
+      "main": "学术类",
+      "sub": "艺术疗愈工作坊",
+      "title": "中央美院艺术治疗工作坊｜沉默的中介",
+      "participants": 5,
+      "complete": 5,
+      "strength": {
+        "主次与留白": 4,
+        "字体表达": 1
+      },
+      "verdict": {
+        "基本认可": 5
+      },
+      "risk": {
+        "信息难读": 2,
+        "无明显问题": 2,
+        "创意与主题关联弱": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 5
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "id": "P548",
+          "displayId": "学术-113",
+          "main": "学术类",
+          "sub": "艺术疗愈工作坊",
+          "title": "中央美院艺术治疗工作坊｜沉默的中介",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:07:00.849Z",
+            "verdict": "基本认可",
+            "risk": "信息难读",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "吴雅琪",
+          "id": "P548",
+          "displayId": "学术-113",
+          "main": "学术类",
+          "sub": "艺术疗愈工作坊",
+          "title": "中央美院艺术治疗工作坊｜沉默的中介",
+          "quick": {
+            "strength": "字体表达",
+            "updatedAt": "2026-10-09T02:26:47.597Z",
+            "verdict": "基本认可",
+            "risk": "信息难读",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "王吉辉",
+          "id": "P548",
+          "displayId": "学术-113",
+          "main": "学术类",
+          "sub": "艺术疗愈工作坊",
+          "title": "中央美院艺术治疗工作坊｜沉默的中介",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-09T02:45:16.681Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "邓语晨",
+          "id": "P548",
+          "displayId": "学术-113",
+          "main": "学术类",
+          "sub": "艺术疗愈工作坊",
+          "title": "中央美院艺术治疗工作坊｜沉默的中介",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:11:30.455Z",
+            "verdict": "基本认可",
+            "risk": "创意与主题关联弱",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "郑旭洋",
+          "id": "P548",
+          "displayId": "学术-113",
+          "main": "学术类",
+          "sub": "艺术疗愈工作坊",
+          "title": "中央美院艺术治疗工作坊｜沉默的中介",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:20:06.145Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P64",
+      "displayId": "展览-002",
+      "main": "展览类",
+      "sub": "文物／考古展",
+      "title": "千金之家 · 马王堆汉墓",
+      "participants": 5,
+      "complete": 4,
+      "strength": {
+        "材质与真实感": 1,
+        "主视觉与主题关联": 3,
+        "主次与留白": 1
+      },
+      "verdict": {
+        "基本认可": 5
+      },
+      "risk": {
+        "文化／事实需核对": 2,
+        "活动定位不清": 1,
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 4,
+        "需限制受众或媒介": 1
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "id": "P64",
+          "displayId": "展览-002",
+          "main": "展览类",
+          "sub": "文物／考古展",
+          "title": "千金之家 · 马王堆汉墓",
+          "quick": {
+            "strength": "材质与真实感",
+            "updatedAt": "2026-10-08T11:58:06.221Z",
+            "verdict": "基本认可",
+            "risk": "文化／事实需核对",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "吴雅琪",
+          "id": "P64",
+          "displayId": "展览-002",
+          "main": "展览类",
+          "sub": "文物／考古展",
+          "title": "千金之家 · 马王堆汉墓",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-09T02:14:30.483Z",
+            "verdict": "基本认可",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": false,
+          "missing": [
+            "risk"
+          ],
+          "assigned": true
+        },
+        {
+          "member": "王吉辉",
+          "id": "P64",
+          "displayId": "展览-002",
+          "main": "展览类",
+          "sub": "文物／考古展",
+          "title": "千金之家 · 马王堆汉墓",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-09T02:37:27.606Z",
+            "verdict": "基本认可",
+            "risk": "文化／事实需核对",
+            "transfer": "需限制受众或媒介"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "邓语晨",
+          "id": "P64",
+          "displayId": "展览-002",
+          "main": "展览类",
+          "sub": "文物／考古展",
+          "title": "千金之家 · 马王堆汉墓",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-08T12:00:53.932Z",
+            "verdict": "基本认可",
+            "risk": "活动定位不清",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "郑旭洋",
+          "id": "P64",
+          "displayId": "展览-002",
+          "main": "展览类",
+          "sub": "文物／考古展",
+          "title": "千金之家 · 马王堆汉墓",
+          "quick": {
+            "transfer": "可用于同小类活动",
+            "updatedAt": "2026-10-08T12:15:19.909Z",
+            "strength": "主次与留白",
+            "verdict": "基本认可",
+            "risk": "无明显问题"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P111",
+      "displayId": "展览-070",
+      "main": "展览类",
+      "sub": "绘画／书法展",
+      "title": "绘画／书法展",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主视觉与主题关联": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "id": "P111",
+          "displayId": "展览-070",
+          "main": "展览类",
+          "sub": "绘画／书法展",
+          "title": "绘画／书法展",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-08T11:58:07.624Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P176",
+      "displayId": "展览-096",
+      "main": "展览类",
+      "sub": "摄影展",
+      "title": "摄影展",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "字体表达": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "信息难读": 1
+      },
+      "transfer": {
+        "仅作为局部视觉参考": 1
+      },
+      "votes": [
+        {
+          "member": "邓语晨",
+          "id": "P176",
+          "displayId": "展览-096",
+          "main": "展览类",
+          "sub": "摄影展",
+          "title": "摄影展",
+          "quick": {
+            "strength": "字体表达",
+            "updatedAt": "2026-10-08T12:03:02.309Z",
+            "verdict": "基本认可",
+            "risk": "信息难读",
+            "transfer": "仅作为局部视觉参考"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P522",
+      "displayId": "展览-109",
+      "main": "展览类",
+      "sub": "设计／建筑展",
+      "title": "🇭🇰港大建筑海报设计",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主视觉与主题关联": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "需限制受众或媒介": 1
+      },
+      "votes": [
+        {
+          "member": "吴雅琪",
+          "id": "P522",
+          "displayId": "展览-109",
+          "main": "展览类",
+          "sub": "设计／建筑展",
+          "title": "🇭🇰港大建筑海报设计",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-09T02:17:02.404Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "需限制受众或媒介"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P29",
+      "displayId": "展览-125",
+      "main": "展览类",
+      "sub": "综合当代艺术展",
+      "title": "毛茸茸的我 · 萌宠治愈系艺术展",
+      "participants": 1,
+      "complete": 0,
+      "strength": {
+        "主次与留白": 1
+      },
+      "verdict": {
+        "部分认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "郑旭洋",
+          "id": "P29",
+          "displayId": "展览-125",
+          "main": "展览类",
+          "sub": "综合当代艺术展",
+          "title": "毛茸茸的我 · 萌宠治愈系艺术展",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:15:27.169Z",
+            "verdict": "部分认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": false,
+          "missing": [
+            "note"
+          ],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P409",
+      "displayId": "展览-167",
+      "main": "展览类",
+      "sub": "红色主题展览（党团活动）",
+      "title": "五四精神青年使命主题党日",
+      "participants": 1,
+      "complete": 0,
+      "strength": {
+        "色彩情绪": 1
+      },
+      "verdict": {
+        "部分认可": 1
+      },
+      "risk": {
+        "只适合特定受众": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "王吉辉",
+          "id": "P409",
+          "displayId": "展览-167",
+          "main": "展览类",
+          "sub": "红色主题展览（党团活动）",
+          "title": "五四精神青年使命主题党日",
+          "quick": {
+            "strength": "色彩情绪",
+            "updatedAt": "2026-10-09T02:37:43.915Z",
+            "verdict": "部分认可",
+            "risk": "只适合特定受众",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": false,
+          "missing": [
+            "note"
+          ],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P113",
+      "displayId": "展览-185",
+      "main": "展览类",
+      "sub": "博物馆综合活动",
+      "title": "博物馆综合活动",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "信息组织": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "视觉元素拥挤": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "id": "P113",
+          "displayId": "展览-185",
+          "main": "展览类",
+          "sub": "博物馆综合活动",
+          "title": "博物馆综合活动",
+          "quick": {
+            "strength": "信息组织",
+            "updatedAt": "2026-10-08T12:01:28.247Z",
+            "verdict": "基本认可",
+            "risk": "视觉元素拥挤",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P110",
+      "displayId": "展览-186",
+      "main": "展览类",
+      "sub": "文物／考古主题视觉参考",
+      "title": "文物／考古主题视觉参考",
+      "participants": 1,
+      "complete": 0,
+      "strength": {
+        "主视觉与主题关联": 1
+      },
+      "verdict": {
+        "部分认可": 1
+      },
+      "risk": {
+        "信息难读": 1
+      },
+      "transfer": {
+        "仅作为局部视觉参考": 1
+      },
+      "votes": [
+        {
+          "member": "邓语晨",
+          "id": "P110",
+          "displayId": "展览-186",
+          "main": "展览类",
+          "sub": "文物／考古主题视觉参考",
+          "title": "文物／考古主题视觉参考",
+          "quick": {
+            "risk": "信息难读",
+            "updatedAt": "2026-10-08T12:04:01.404Z",
+            "strength": "主视觉与主题关联",
+            "verdict": "部分认可",
+            "transfer": "仅作为局部视觉参考"
+          },
+          "complete": false,
+          "missing": [
+            "note"
+          ],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P282",
+      "displayId": "市集-049",
+      "main": "市集类",
+      "sub": "服饰／生活方式品牌快闪",
+      "title": "UPPERVOID_AOKKA快闪",
+      "participants": 1,
+      "complete": 0,
+      "strength": {
+        "色彩情绪": 1
+      },
+      "verdict": {
+        "部分认可": 1
+      },
+      "risk": {
+        "活动定位不清": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "邓语晨",
+          "id": "P282",
+          "displayId": "市集-049",
+          "main": "市集类",
+          "sub": "服饰／生活方式品牌快闪",
+          "title": "UPPERVOID_AOKKA快闪",
+          "quick": {
+            "strength": "色彩情绪",
+            "updatedAt": "2026-10-08T12:12:04.644Z",
+            "verdict": "部分认可",
+            "risk": "活动定位不清",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": false,
+          "missing": [
+            "note"
+          ],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P57",
+      "displayId": "演出-039",
+      "main": "演出类",
+      "sub": "Livehouse演出",
+      "title": "黑白森林 · 发光鹿",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主次与留白": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "信息难读": 1
+      },
+      "transfer": {
+        "需限制受众或媒介": 1
+      },
+      "votes": [
+        {
+          "member": "吴雅琪",
+          "id": "P57",
+          "displayId": "演出-039",
+          "main": "演出类",
+          "sub": "Livehouse演出",
+          "title": "黑白森林 · 发光鹿",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-09T02:19:38.034Z",
+            "verdict": "基本认可",
+            "risk": "信息难读",
+            "transfer": "需限制受众或媒介"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P630",
+      "displayId": "演出-065",
+      "main": "演出类",
+      "sub": "民族／国风音乐会",
+      "title": "📄｜深圳社区艺术节系列海报的不同情绪",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主次与留白": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "郑旭洋",
+          "id": "P630",
+          "displayId": "演出-065",
+          "main": "演出类",
+          "sub": "民族／国风音乐会",
+          "title": "📄｜深圳社区艺术节系列海报的不同情绪",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:15:45.256Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P79",
+      "displayId": "演出-097",
+      "main": "演出类",
+      "sub": "话剧演出",
+      "title": "栋梁 · PILLAR",
+      "participants": 5,
+      "complete": 4,
+      "strength": {
+        "材质与真实感": 3,
+        "主视觉与主题关联": 2
+      },
+      "verdict": {
+        "基本认可": 4,
+        "部分认可": 1
+      },
+      "risk": {
+        "活动定位不清": 1,
+        "无明显问题": 1,
+        "创意与主题关联弱": 2,
+        "信息难读": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 2,
+        "仅作为局部视觉参考": 2,
+        "需限制受众或媒介": 1
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "id": "P79",
+          "displayId": "演出-097",
+          "main": "演出类",
+          "sub": "话剧演出",
+          "title": "栋梁 · PILLAR",
+          "quick": {
+            "strength": "材质与真实感",
+            "updatedAt": "2026-10-08T12:01:30.378Z",
+            "verdict": "基本认可",
+            "risk": "活动定位不清",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "吴雅琪",
+          "id": "P79",
+          "displayId": "演出-097",
+          "main": "演出类",
+          "sub": "话剧演出",
+          "title": "栋梁 · PILLAR",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-09T02:20:56.580Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "王吉辉",
+          "id": "P79",
+          "displayId": "演出-097",
+          "main": "演出类",
+          "sub": "话剧演出",
+          "title": "栋梁 · PILLAR",
+          "quick": {
+            "strength": "材质与真实感",
+            "updatedAt": "2026-10-09T02:39:43.914Z",
+            "verdict": "基本认可",
+            "risk": "创意与主题关联弱",
+            "transfer": "仅作为局部视觉参考"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "邓语晨",
+          "id": "P79",
+          "displayId": "演出-097",
+          "main": "演出类",
+          "sub": "话剧演出",
+          "title": "栋梁 · PILLAR",
+          "quick": {
+            "strength": "材质与真实感",
+            "updatedAt": "2026-10-08T12:05:31.950Z",
+            "verdict": "部分认可",
+            "risk": "创意与主题关联弱",
+            "transfer": "需限制受众或媒介"
+          },
+          "complete": false,
+          "missing": [
+            "note"
+          ],
+          "assigned": true
+        },
+        {
+          "member": "郑旭洋",
+          "id": "P79",
+          "displayId": "演出-097",
+          "main": "演出类",
+          "sub": "话剧演出",
+          "title": "栋梁 · PILLAR",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-08T12:17:03.209Z",
+            "verdict": "基本认可",
+            "risk": "信息难读",
+            "transfer": "仅作为局部视觉参考"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P460",
+      "displayId": "演出-132",
+      "main": "演出类",
+      "sub": "电影上映宣传",
+      "title": "《棒球少女》· 体育题材电影海报",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主次与留白": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "信息难读": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "王吉辉",
+          "id": "P460",
+          "displayId": "演出-132",
+          "main": "演出类",
+          "sub": "电影上映宣传",
+          "title": "《棒球少女》· 体育题材电影海报",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-09T02:40:12.486Z",
+            "verdict": "基本认可",
+            "risk": "信息难读",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P632",
+      "displayId": "演出-134",
+      "main": "演出类",
+      "sub": "电影放映／影像周",
+      "title": "📄｜深圳社区艺术节系列海报的不同情绪",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主次与留白": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "信息难读": 1
+      },
+      "transfer": {
+        "仅作为局部视觉参考": 1
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "id": "P632",
+          "displayId": "演出-134",
+          "main": "演出类",
+          "sub": "电影放映／影像周",
+          "title": "📄｜深圳社区艺术节系列海报的不同情绪",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:05:37.123Z",
+            "verdict": "基本认可",
+            "transfer": "仅作为局部视觉参考",
+            "risk": "信息难读"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P692",
+      "displayId": "潮流-014",
+      "main": "潮流类",
+      "sub": "动漫展／漫展",
+      "title": "加拿大_Otakuthon_2026",
+      "participants": 1,
+      "complete": 0,
+      "strength": {
+        "色彩情绪": 1
+      },
+      "verdict": {
+        "部分认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "郑旭洋",
+          "id": "P692",
+          "displayId": "潮流-014",
+          "main": "潮流类",
+          "sub": "动漫展／漫展",
+          "title": "加拿大_Otakuthon_2026",
+          "quick": {
+            "strength": "色彩情绪",
+            "updatedAt": "2026-10-08T12:18:14.558Z",
+            "verdict": "部分认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": false,
+          "missing": [
+            "note"
+          ],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P700",
+      "displayId": "潮流-022",
+      "main": "潮流类",
+      "sub": "动漫展／漫展",
+      "title": "西班牙_MangaBarcelona_2024",
+      "participants": 4,
+      "complete": 2,
+      "strength": {
+        "主视觉与主题关联": 2,
+        "主次与留白": 1,
+        "色彩情绪": 1
+      },
+      "verdict": {
+        "基本认可": 2,
+        "部分认可": 2
+      },
+      "risk": {
+        "文化／事实需核对": 1,
+        "只适合特定受众": 2,
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1,
+        "需限制受众或媒介": 1,
+        "仅作为局部视觉参考": 2
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "id": "P700",
+          "displayId": "潮流-022",
+          "main": "潮流类",
+          "sub": "动漫展／漫展",
+          "title": "西班牙_MangaBarcelona_2024",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-08T12:06:48.115Z",
+            "verdict": "基本认可",
+            "risk": "文化／事实需核对",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "王吉辉",
+          "id": "P700",
+          "displayId": "潮流-022",
+          "main": "潮流类",
+          "sub": "动漫展／漫展",
+          "title": "西班牙_MangaBarcelona_2024",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-09T02:42:01.404Z",
+            "verdict": "部分认可",
+            "risk": "只适合特定受众",
+            "transfer": "需限制受众或媒介"
+          },
+          "complete": false,
+          "missing": [
+            "note"
+          ],
+          "assigned": true
+        },
+        {
+          "member": "邓语晨",
+          "id": "P700",
+          "displayId": "潮流-022",
+          "main": "潮流类",
+          "sub": "动漫展／漫展",
+          "title": "西班牙_MangaBarcelona_2024",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-08T12:08:53.475Z",
+            "verdict": "基本认可",
+            "risk": "只适合特定受众",
+            "transfer": "仅作为局部视觉参考"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        },
+        {
+          "member": "郑旭洋",
+          "id": "P700",
+          "displayId": "潮流-022",
+          "main": "潮流类",
+          "sub": "动漫展／漫展",
+          "title": "西班牙_MangaBarcelona_2024",
+          "quick": {
+            "strength": "色彩情绪",
+            "updatedAt": "2026-10-08T12:18:54.093Z",
+            "verdict": "部分认可",
+            "risk": "无明显问题",
+            "transfer": "仅作为局部视觉参考"
+          },
+          "complete": false,
+          "missing": [
+            "note"
+          ],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P705",
+      "displayId": "潮流-052",
+      "main": "潮流类",
+      "sub": "动漫IP主题展／体验",
+      "title": "LOL英雄联盟双城之战_泰国_ArcaneWorld_2024",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "字体表达": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "王吉辉",
+          "id": "P705",
+          "displayId": "潮流-052",
+          "main": "潮流类",
+          "sub": "动漫IP主题展／体验",
+          "title": "LOL英雄联盟双城之战_泰国_ArcaneWorld_2024",
+          "quick": {
+            "strength": "字体表达",
+            "updatedAt": "2026-10-09T02:42:42.118Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P216",
+      "displayId": "节庆-005",
+      "main": "节庆类",
+      "sub": "大学／学校校庆",
+      "title": "西安交通大学城市学院_20周年主题海报_u04-09",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主视觉与主题关联": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "文化／事实需核对": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "吴雅琪",
+          "id": "P216",
+          "displayId": "节庆-005",
+          "main": "节庆类",
+          "sub": "大学／学校校庆",
+          "title": "西安交通大学城市学院_20周年主题海报_u04-09",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-09T02:22:11.876Z",
+            "verdict": "基本认可",
+            "risk": "文化／事实需核对",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P255",
+      "displayId": "节庆-033",
+      "main": "节庆类",
+      "sub": "春节",
+      "title": "春节",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主次与留白": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "仅作为局部视觉参考": 1
+      },
+      "votes": [
+        {
+          "member": "郑旭洋",
+          "id": "P255",
+          "displayId": "节庆-033",
+          "main": "节庆类",
+          "sub": "春节",
+          "title": "春节",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:17:34.486Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "仅作为局部视觉参考"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P237",
+      "displayId": "节庆-035",
+      "main": "节庆类",
+      "sub": "国庆",
+      "title": "国庆",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主视觉与主题关联": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "王吉辉",
+          "id": "P237",
+          "displayId": "节庆-035",
+          "main": "节庆类",
+          "sub": "国庆",
+          "title": "国庆",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-09T02:41:10.842Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P112",
+      "displayId": "节庆-050",
+      "main": "节庆类",
+      "sub": "中秋",
+      "title": "中秋",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主视觉与主题关联": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "文化／事实需核对": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "id": "P112",
+          "displayId": "节庆-050",
+          "main": "节庆类",
+          "sub": "中秋",
+          "title": "中秋",
+          "quick": {
+            "strength": "主视觉与主题关联",
+            "updatedAt": "2026-10-08T12:04:20.003Z",
+            "verdict": "基本认可",
+            "risk": "文化／事实需核对",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P597",
+      "displayId": "街区-008",
+      "main": "街区类",
+      "sub": "街区／社区月度活动总览",
+      "title": "就是明天！内容太多了先放一波海报吧",
+      "participants": 1,
+      "complete": 1,
+      "strength": {
+        "主次与留白": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "信息难读": 1
+      },
+      "transfer": {
+        "可用于同小类活动": 1
+      },
+      "votes": [
+        {
+          "member": "邓语晨",
+          "id": "P597",
+          "displayId": "街区-008",
+          "main": "街区类",
+          "sub": "街区／社区月度活动总览",
+          "title": "就是明天！内容太多了先放一波海报吧",
+          "quick": {
+            "strength": "主次与留白",
+            "updatedAt": "2026-10-08T12:07:54.526Z",
+            "verdict": "基本认可",
+            "risk": "信息难读",
+            "transfer": "可用于同小类活动"
+          },
+          "complete": true,
+          "missing": [],
+          "assigned": true
+        }
+      ]
+    },
+    {
+      "id": "P623",
+      "displayId": "街区-018",
+      "main": "街区类",
+      "sub": "社区共创／公众参与",
+      "title": "活动海报｜轻手绘风市集展览视觉灵感合集🧩",
+      "participants": 1,
+      "complete": 0,
+      "strength": {
+        "色彩情绪": 1
+      },
+      "verdict": {
+        "基本认可": 1
+      },
+      "risk": {
+        "无明显问题": 1
+      },
+      "transfer": {},
+      "votes": [
+        {
+          "member": "吴雅琪",
+          "id": "P623",
+          "displayId": "街区-018",
+          "main": "街区类",
+          "sub": "社区共创／公众参与",
+          "title": "活动海报｜轻手绘风市集展览视觉灵感合集🧩",
+          "quick": {
+            "strength": "色彩情绪",
+            "updatedAt": "2026-10-09T02:23:09.943Z",
+            "verdict": "基本认可",
+            "risk": "无明显问题"
+          },
+          "complete": false,
+          "missing": [
+            "transfer"
+          ],
+          "assigned": true
+        }
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "briefId": "T01",
+      "title": "器物与日常",
+      "n": 5,
+      "complete": 4,
+      "fit": {
+        "T01-V1": 3,
+        "T01-V3": 2
+      },
+      "favorite": {
+        "T01-V1": 3,
+        "T01-V3": 2
+      },
+      "reject": {
+        "T01-V3": 2,
+        "T01-V2": 3
+      },
+      "keepReasons": {
+        "信息读取更清楚": 2,
+        "更容易识别活动": 3
+      },
+      "rejectReasons": {
+        "信息难读或主次不清": 1,
+        "目前无法说明": 1,
+        "字形或细节问题": 2
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "briefId": "T01",
+          "title": "器物与日常",
+          "choices": {
+            "favorite": "T01-V1",
+            "fit": "T01-V1",
+            "reject": "T01-V3",
+            "keepTag": "信息读取更清楚",
+            "rejectTag": "信息难读或主次不清"
+          },
+          "mapping": [
+            "T01-V1",
+            "T01-V3",
+            "T01-V2"
+          ],
+          "labels": {
+            "T01-V1": "A",
+            "T01-V3": "B",
+            "T01-V2": "C"
+          },
+          "complete": true,
+          "missing": [],
+          "tests": {},
+          "variants": {}
+        },
+        {
+          "member": "吴雅琪",
+          "briefId": "T01",
+          "title": "器物与日常",
+          "choices": {
+            "reject": "T01-V2",
+            "favorite": "T01-V1",
+            "fit": "T01-V1",
+            "keepTag": "更容易识别活动",
+            "rejectTag": "目前无法说明",
+            "quickNote": "淘汰理由：方案A的图形和字体挨得太近了，比较拥挤，给人一种局促的感觉。方案c比b好的点在于给器物比较合适的面积进行展示，因为文物类的活动，海报要给位置对文物进行展示。B方案右上角的器物图案虽然大，但是是虚化的背景，不能形成明确的文物展示"
+          },
+          "mapping": [
+            "T01-V2",
+            "T01-V3",
+            "T01-V1"
+          ],
+          "labels": {
+            "T01-V2": "A",
+            "T01-V3": "B",
+            "T01-V1": "C"
+          },
+          "complete": true,
+          "missing": [],
+          "tests": {},
+          "variants": {}
+        },
+        {
+          "member": "王吉辉",
+          "briefId": "T01",
+          "title": "器物与日常",
+          "choices": {
+            "favorite": "T01-V3",
+            "fit": "T01-V3",
+            "reject": "T01-V2",
+            "keepTag": "信息读取更清楚"
+          },
+          "mapping": [
+            "T01-V2",
+            "T01-V3",
+            "T01-V1"
+          ],
+          "labels": {
+            "T01-V2": "A",
+            "T01-V3": "B",
+            "T01-V1": "C"
+          },
+          "complete": false,
+          "missing": [
+            "rejectTag"
+          ],
+          "tests": {},
+          "variants": {}
+        },
+        {
+          "member": "邓语晨",
+          "briefId": "T01",
+          "title": "器物与日常",
+          "choices": {
+            "favorite": "T01-V3",
+            "fit": "T01-V3",
+            "reject": "T01-V2",
+            "keepTag": "更容易识别活动",
+            "rejectTag": "字形或细节问题",
+            "quickNote": "淘汰理由主要是觉得这个版面的设计有点不好看"
+          },
+          "mapping": [
+            "T01-V3",
+            "T01-V2",
+            "T01-V1"
+          ],
+          "labels": {
+            "T01-V3": "A",
+            "T01-V2": "B",
+            "T01-V1": "C"
+          },
+          "complete": true,
+          "missing": [],
+          "tests": {},
+          "variants": {
+            "T01-V3": {
+              "position": "",
+              "information": "",
+              "hierarchy": "",
+              "color": ""
+            }
+          }
+        },
+        {
+          "member": "郑旭洋",
+          "briefId": "T01",
+          "title": "器物与日常",
+          "choices": {
+            "reject": "T01-V3",
+            "fit": "T01-V1",
+            "favorite": "T01-V1",
+            "keepTag": "更容易识别活动",
+            "rejectTag": "字形或细节问题",
+            "quickNote": "两个同样的器物影像重复意义不大，中间横线太有割裂感"
+          },
+          "mapping": [
+            "T01-V1",
+            "T01-V3",
+            "T01-V2"
+          ],
+          "labels": {
+            "T01-V1": "A",
+            "T01-V3": "B",
+            "T01-V2": "C"
+          },
+          "complete": true,
+          "missing": [],
+          "tests": {},
+          "variants": {}
+        }
+      ],
+      "definition": {
+        "id": "T01",
+        "main": "展览类",
+        "title": "器物与日常",
+        "subtitle": "传统生活器物展",
+        "audience": "家庭观众、文化爱好者",
+        "tone": "可信、好奇、可接近",
+        "date": "2026.11.07—11.22",
+        "place": "城市文化馆 · 一层展厅",
+        "action": "免费入场，现场登记",
+        "palette": [
+          "#efe6d6",
+          "#2b3d36",
+          "#aa563d"
+        ],
+        "symbol": "vessel",
+        "format": "1080×1440竖版，375px手机预览",
+        "fictional": true,
+        "controlledVariables": "三个方案使用同一文案、受众、配色、字体与主视觉符号，只改变布局、尺度与主次。",
+        "stage": "矢量结构练习稿，未完成成品视觉训练",
+        "variants": [
+          {
+            "id": "T01-V1",
+            "image": "同题结构稿/T01_1.svg",
+            "route": "题名先行、图像侧置"
+          },
+          {
+            "id": "T01-V2",
+            "image": "同题结构稿/T01_2.svg",
+            "route": "图像先行、题名下置"
+          },
+          {
+            "id": "T01-V3",
+            "image": "同题结构稿/T01_3.svg",
+            "route": "字体主导、图像缩小"
+          }
+        ]
+      }
+    },
+    {
+      "briefId": "T02",
+      "title": "夜行声场",
+      "n": 5,
+      "complete": 5,
+      "fit": {
+        "T02-V3": 3,
+        "T02-V1": 1,
+        "T02-V2": 1
+      },
+      "favorite": {
+        "T02-V3": 2,
+        "T02-V2": 2,
+        "T02-V1": 1
+      },
+      "reject": {
+        "T02-V2": 2,
+        "T02-V1": 2,
+        "T02-V3": 1
+      },
+      "keepReasons": {
+        "更适合目标受众": 2,
+        "更容易识别活动": 2,
+        "主题锚点更有记忆": 1
+      },
+      "rejectReasons": {
+        "受众或情绪不匹配": 3,
+        "信息难读或主次不清": 2
+      },
+      "votes": [
+        {
+          "member": "伍强",
+          "briefId": "T02",
+          "title": "夜行声场",
+          "choices": {
+            "favorite": "T02-V3",
+            "fit": "T02-V3",
+            "reject": "T02-V2",
+            "keepTag": "更适合目标受众",
+            "rejectTag": "受众或情绪不匹配"
+          },
+          "mapping": [
+            "T02-V3",
+            "T02-V1",
+            "T02-V2"
+          ],
+          "labels": {
+            "T02-V3": "A",
+            "T02-V1": "B",
+            "T02-V2": "C"
+          },
+          "complete": true,
+          "missing": [],
+          "tests": {},
+          "variants": {}
+        },
+        {
+          "member": "吴雅琪",
+          "briefId": "T02",
+          "title": "夜行声场",
+          "choices": {
+            "favorite": "T02-V3",
+            "fit": "T02-V3",
+            "reject": "T02-V2",
+            "keepTag": "更容易识别活动",
+            "rejectTag": "信息难读或主次不清",
+            "quickNote": "方案c，眼睛看着难受。所有的图形和信息全集中在正中间，会导致信息过多不好分辨。"
+          },
+          "mapping": [
+            "T02-V1",
+            "T02-V3",
+            "T02-V2"
+          ],
+          "labels": {
+            "T02-V1": "A",
+            "T02-V3": "B",
+            "T02-V2": "C"
+          },
+          "complete": true,
+          "missing": [],
+          "tests": {},
+          "variants": {}
+        },
+        {
+          "member": "王吉辉",
+          "briefId": "T02",
+          "title": "夜行声场",
+          "choices": {
+            "favorite": "T02-V2",
+            "reject": "T02-V1",
+            "fit": "T02-V3",
+            "keepTag": "更容易识别活动",
+            "rejectTag": "信息难读或主次不清"
+          },
+          "mapping": [
+            "T02-V1",
+            "T02-V2",
+            "T02-V3"
+          ],
+          "labels": {
+            "T02-V1": "A",
+            "T02-V2": "B",
+            "T02-V3": "C"
+          },
+          "complete": true,
+          "missing": [],
+          "tests": {},
+          "variants": {}
+        },
+        {
+          "member": "邓语晨",
+          "briefId": "T02",
+          "title": "夜行声场",
+          "choices": {
+            "favorite": "T02-V1",
+            "fit": "T02-V1",
+            "reject": "T02-V3",
+            "keepTag": "更适合目标受众",
+            "rejectTag": "受众或情绪不匹配"
+          },
+          "mapping": [
+            "T02-V2",
+            "T02-V3",
+            "T02-V1"
+          ],
+          "labels": {
+            "T02-V2": "A",
+            "T02-V3": "B",
+            "T02-V1": "C"
+          },
+          "complete": true,
+          "missing": [],
+          "tests": {},
+          "variants": {}
+        },
+        {
+          "member": "郑旭洋",
+          "briefId": "T02",
+          "title": "夜行声场",
+          "choices": {
+            "favorite": "T02-V2",
+            "fit": "T02-V2",
+            "reject": "T02-V1",
+            "keepTag": "主题锚点更有记忆",
+            "rejectTag": "受众或情绪不匹配",
+            "quickNote": "缺少独立音乐感觉。太过稳重的排版"
+          },
+          "mapping": [
+            "T02-V2",
+            "T02-V3",
+            "T02-V1"
+          ],
+          "labels": {
+            "T02-V2": "A",
+            "T02-V3": "B",
+            "T02-V1": "C"
+          },
+          "complete": true,
+          "missing": [],
+          "tests": {},
+          "variants": {}
+        }
+      ],
+      "definition": {
+        "id": "T02",
+        "main": "演出类",
+        "title": "夜行声场",
+        "subtitle": "独立音乐现场",
+        "audience": "18—35岁现场音乐观众",
+        "tone": "有能量、有现场感，避免误读为大型庆典",
+        "date": "2026.11.14 19:30",
+        "place": "城市音乐空间 · 小剧场",
+        "action": "现场购票，限300人",
+        "palette": [
+          "#182d48",
+          "#f4e8c9",
+          "#ef7154"
+        ],
+        "symbol": "wave",
+        "format": "1080×1440竖版，375px手机预览",
+        "fictional": true,
+        "controlledVariables": "三个方案使用同一文案、受众、配色、字体与主视觉符号，只改变布局、尺度与主次。",
+        "stage": "矢量结构练习稿，未完成成品视觉训练",
+        "variants": [
+          {
+            "id": "T02-V1",
+            "image": "同题结构稿/T02_1.svg",
+            "route": "题名先行、图像侧置"
+          },
+          {
+            "id": "T02-V2",
+            "image": "同题结构稿/T02_2.svg",
+            "route": "图像先行、题名下置"
+          },
+          {
+            "id": "T02-V3",
+            "image": "同题结构稿/T02_3.svg",
+            "route": "字体主导、图像缩小"
+          }
+        ]
+      }
+    }
+  ],
+  "records": [
+    {
+      "member": "伍强",
+      "id": "P64",
+      "displayId": "展览-002",
+      "main": "展览类",
+      "sub": "文物／考古展",
+      "title": "千金之家 · 马王堆汉墓",
+      "quick": {
+        "strength": "材质与真实感",
+        "updatedAt": "2026-10-08T11:58:06.221Z",
+        "verdict": "基本认可",
+        "risk": "文化／事实需核对",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "伍强",
+      "id": "P111",
+      "displayId": "展览-070",
+      "main": "展览类",
+      "sub": "绘画／书法展",
+      "title": "绘画／书法展",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-08T11:58:07.624Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "伍强",
+      "id": "P113",
+      "displayId": "展览-185",
+      "main": "展览类",
+      "sub": "博物馆综合活动",
+      "title": "博物馆综合活动",
+      "quick": {
+        "strength": "信息组织",
+        "updatedAt": "2026-10-08T12:01:28.247Z",
+        "verdict": "基本认可",
+        "risk": "视觉元素拥挤",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "伍强",
+      "id": "P79",
+      "displayId": "演出-097",
+      "main": "演出类",
+      "sub": "话剧演出",
+      "title": "栋梁 · PILLAR",
+      "quick": {
+        "strength": "材质与真实感",
+        "updatedAt": "2026-10-08T12:01:30.378Z",
+        "verdict": "基本认可",
+        "risk": "活动定位不清",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "伍强",
+      "id": "P632",
+      "displayId": "演出-134",
+      "main": "演出类",
+      "sub": "电影放映／影像周",
+      "title": "📄｜深圳社区艺术节系列海报的不同情绪",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:05:37.123Z",
+        "verdict": "基本认可",
+        "transfer": "仅作为局部视觉参考",
+        "risk": "信息难读"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "伍强",
+      "id": "P112",
+      "displayId": "节庆-050",
+      "main": "节庆类",
+      "sub": "中秋",
+      "title": "中秋",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-08T12:04:20.003Z",
+        "verdict": "基本认可",
+        "risk": "文化／事实需核对",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "伍强",
+      "id": "P700",
+      "displayId": "潮流-022",
+      "main": "潮流类",
+      "sub": "动漫展／漫展",
+      "title": "西班牙_MangaBarcelona_2024",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-08T12:06:48.115Z",
+        "verdict": "基本认可",
+        "risk": "文化／事实需核对",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "伍强",
+      "id": "P442",
+      "displayId": "体育-004",
+      "main": "体育类",
+      "sub": "足球赛事",
+      "title": "No.275创意分享 _ 高级感足球赛事海报",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:06:49.717Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "伍强",
+      "id": "P484",
+      "displayId": "学术-015",
+      "main": "学术类",
+      "sub": "学术讲座",
+      "title": "人文学术海报2 黑白_蓝黄色系海报设计",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:06:57.122Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "伍强",
+      "id": "P548",
+      "displayId": "学术-113",
+      "main": "学术类",
+      "sub": "艺术疗愈工作坊",
+      "title": "中央美院艺术治疗工作坊｜沉默的中介",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:07:00.849Z",
+        "verdict": "基本认可",
+        "risk": "信息难读",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "吴雅琪",
+      "id": "P64",
+      "displayId": "展览-002",
+      "main": "展览类",
+      "sub": "文物／考古展",
+      "title": "千金之家 · 马王堆汉墓",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-09T02:14:30.483Z",
+        "verdict": "基本认可",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": false,
+      "missing": [
+        "risk"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "吴雅琪",
+      "id": "P522",
+      "displayId": "展览-109",
+      "main": "展览类",
+      "sub": "设计／建筑展",
+      "title": "🇭🇰港大建筑海报设计",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-09T02:17:02.404Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "需限制受众或媒介"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "吴雅琪",
+      "id": "P57",
+      "displayId": "演出-039",
+      "main": "演出类",
+      "sub": "Livehouse演出",
+      "title": "黑白森林 · 发光鹿",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-09T02:19:38.034Z",
+        "verdict": "基本认可",
+        "risk": "信息难读",
+        "transfer": "需限制受众或媒介"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "吴雅琪",
+      "id": "P79",
+      "displayId": "演出-097",
+      "main": "演出类",
+      "sub": "话剧演出",
+      "title": "栋梁 · PILLAR",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-09T02:20:56.580Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "吴雅琪",
+      "id": "P216",
+      "displayId": "节庆-005",
+      "main": "节庆类",
+      "sub": "大学／学校校庆",
+      "title": "西安交通大学城市学院_20周年主题海报_u04-09",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-09T02:22:11.876Z",
+        "verdict": "基本认可",
+        "risk": "文化／事实需核对",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "吴雅琪",
+      "id": "P623",
+      "displayId": "街区-018",
+      "main": "街区类",
+      "sub": "社区共创／公众参与",
+      "title": "活动海报｜轻手绘风市集展览视觉灵感合集🧩",
+      "quick": {
+        "strength": "色彩情绪",
+        "updatedAt": "2026-10-09T02:23:09.943Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题"
+      },
+      "complete": false,
+      "missing": [
+        "transfer"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "吴雅琪",
+      "id": "P434",
+      "displayId": "体育-036",
+      "main": "体育类",
+      "sub": "马拉松／路跑赛事",
+      "title": "2026东京马拉松主视觉发布（附历届海报）",
+      "quick": {
+        "transfer": "可用于同小类活动",
+        "updatedAt": "2026-10-09T02:23:50.429Z",
+        "risk": "无明显问题"
+      },
+      "complete": false,
+      "missing": [
+        "strength",
+        "verdict"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "吴雅琪",
+      "id": "P549",
+      "displayId": "学术-084",
+      "main": "学术类",
+      "sub": "书籍／字体／印刷工作坊",
+      "title": "书籍工作坊｜UNFOLD 2025 我们上海见！",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-09T02:25:45.003Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "吴雅琪",
+      "id": "P548",
+      "displayId": "学术-113",
+      "main": "学术类",
+      "sub": "艺术疗愈工作坊",
+      "title": "中央美院艺术治疗工作坊｜沉默的中介",
+      "quick": {
+        "strength": "字体表达",
+        "updatedAt": "2026-10-09T02:26:47.597Z",
+        "verdict": "基本认可",
+        "risk": "信息难读",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "王吉辉",
+      "id": "P64",
+      "displayId": "展览-002",
+      "main": "展览类",
+      "sub": "文物／考古展",
+      "title": "千金之家 · 马王堆汉墓",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-09T02:37:27.606Z",
+        "verdict": "基本认可",
+        "risk": "文化／事实需核对",
+        "transfer": "需限制受众或媒介"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "王吉辉",
+      "id": "P409",
+      "displayId": "展览-167",
+      "main": "展览类",
+      "sub": "红色主题展览（党团活动）",
+      "title": "五四精神青年使命主题党日",
+      "quick": {
+        "strength": "色彩情绪",
+        "updatedAt": "2026-10-09T02:37:43.915Z",
+        "verdict": "部分认可",
+        "risk": "只适合特定受众",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": false,
+      "missing": [
+        "note"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "王吉辉",
+      "id": "P79",
+      "displayId": "演出-097",
+      "main": "演出类",
+      "sub": "话剧演出",
+      "title": "栋梁 · PILLAR",
+      "quick": {
+        "strength": "材质与真实感",
+        "updatedAt": "2026-10-09T02:39:43.914Z",
+        "verdict": "基本认可",
+        "risk": "创意与主题关联弱",
+        "transfer": "仅作为局部视觉参考"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "王吉辉",
+      "id": "P460",
+      "displayId": "演出-132",
+      "main": "演出类",
+      "sub": "电影上映宣传",
+      "title": "《棒球少女》· 体育题材电影海报",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-09T02:40:12.486Z",
+        "verdict": "基本认可",
+        "risk": "信息难读",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "王吉辉",
+      "id": "P237",
+      "displayId": "节庆-035",
+      "main": "节庆类",
+      "sub": "国庆",
+      "title": "国庆",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-09T02:41:10.842Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "王吉辉",
+      "id": "P700",
+      "displayId": "潮流-022",
+      "main": "潮流类",
+      "sub": "动漫展／漫展",
+      "title": "西班牙_MangaBarcelona_2024",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-09T02:42:01.404Z",
+        "verdict": "部分认可",
+        "risk": "只适合特定受众",
+        "transfer": "需限制受众或媒介"
+      },
+      "complete": false,
+      "missing": [
+        "note"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "王吉辉",
+      "id": "P705",
+      "displayId": "潮流-052",
+      "main": "潮流类",
+      "sub": "动漫IP主题展／体验",
+      "title": "LOL英雄联盟双城之战_泰国_ArcaneWorld_2024",
+      "quick": {
+        "strength": "字体表达",
+        "updatedAt": "2026-10-09T02:42:42.118Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "王吉辉",
+      "id": "P516",
+      "displayId": "学术-013",
+      "main": "学术类",
+      "sub": "学术论坛",
+      "title": "第五届汉代图像研究青年论坛_海报其 1",
+      "quick": {
+        "strength": "字体表达",
+        "updatedAt": "2026-10-09T02:43:20.572Z",
+        "verdict": "部分认可",
+        "risk": "文化／事实需核对",
+        "transfer": "仅作为局部视觉参考"
+      },
+      "complete": false,
+      "missing": [
+        "note"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "王吉辉",
+      "id": "P538",
+      "displayId": "学术-076",
+      "main": "学术类",
+      "sub": "设计／建筑工作坊",
+      "title": "GAFA国际联合工作坊",
+      "quick": {
+        "strength": "信息组织",
+        "updatedAt": "2026-10-09T02:44:48.279Z",
+        "verdict": "部分认可",
+        "risk": "信息难读",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": false,
+      "missing": [
+        "note"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "王吉辉",
+      "id": "P548",
+      "displayId": "学术-113",
+      "main": "学术类",
+      "sub": "艺术疗愈工作坊",
+      "title": "中央美院艺术治疗工作坊｜沉默的中介",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-09T02:45:16.681Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "邓语晨",
+      "id": "P64",
+      "displayId": "展览-002",
+      "main": "展览类",
+      "sub": "文物／考古展",
+      "title": "千金之家 · 马王堆汉墓",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-08T12:00:53.932Z",
+        "verdict": "基本认可",
+        "risk": "活动定位不清",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "邓语晨",
+      "id": "P176",
+      "displayId": "展览-096",
+      "main": "展览类",
+      "sub": "摄影展",
+      "title": "摄影展",
+      "quick": {
+        "strength": "字体表达",
+        "updatedAt": "2026-10-08T12:03:02.309Z",
+        "verdict": "基本认可",
+        "risk": "信息难读",
+        "transfer": "仅作为局部视觉参考"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "邓语晨",
+      "id": "P110",
+      "displayId": "展览-186",
+      "main": "展览类",
+      "sub": "文物／考古主题视觉参考",
+      "title": "文物／考古主题视觉参考",
+      "quick": {
+        "risk": "信息难读",
+        "updatedAt": "2026-10-08T12:04:01.404Z",
+        "strength": "主视觉与主题关联",
+        "verdict": "部分认可",
+        "transfer": "仅作为局部视觉参考"
+      },
+      "complete": false,
+      "missing": [
+        "note"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "邓语晨",
+      "id": "P79",
+      "displayId": "演出-097",
+      "main": "演出类",
+      "sub": "话剧演出",
+      "title": "栋梁 · PILLAR",
+      "quick": {
+        "strength": "材质与真实感",
+        "updatedAt": "2026-10-08T12:05:31.950Z",
+        "verdict": "部分认可",
+        "risk": "创意与主题关联弱",
+        "transfer": "需限制受众或媒介"
+      },
+      "complete": false,
+      "missing": [
+        "note"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "邓语晨",
+      "id": "P282",
+      "displayId": "市集-049",
+      "main": "市集类",
+      "sub": "服饰／生活方式品牌快闪",
+      "title": "UPPERVOID_AOKKA快闪",
+      "quick": {
+        "strength": "色彩情绪",
+        "updatedAt": "2026-10-08T12:12:04.644Z",
+        "verdict": "部分认可",
+        "risk": "活动定位不清",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": false,
+      "missing": [
+        "note"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "邓语晨",
+      "id": "P597",
+      "displayId": "街区-008",
+      "main": "街区类",
+      "sub": "街区／社区月度活动总览",
+      "title": "就是明天！内容太多了先放一波海报吧",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:07:54.526Z",
+        "verdict": "基本认可",
+        "risk": "信息难读",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "邓语晨",
+      "id": "P700",
+      "displayId": "潮流-022",
+      "main": "潮流类",
+      "sub": "动漫展／漫展",
+      "title": "西班牙_MangaBarcelona_2024",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-08T12:08:53.475Z",
+        "verdict": "基本认可",
+        "risk": "只适合特定受众",
+        "transfer": "仅作为局部视觉参考"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "邓语晨",
+      "id": "P424",
+      "displayId": "体育-024",
+      "main": "体育类",
+      "sub": "赛车／F1赛事",
+      "title": "2026 F1巴林大奖赛马来西亚雪邦车队海报",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-08T12:09:40.596Z",
+        "verdict": "基本认可",
+        "risk": "信息难读",
+        "transfer": "需限制受众或媒介"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "邓语晨",
+      "id": "P538",
+      "displayId": "学术-076",
+      "main": "学术类",
+      "sub": "设计／建筑工作坊",
+      "title": "GAFA国际联合工作坊",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:10:50.301Z",
+        "verdict": "基本认可",
+        "risk": "活动定位不清",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "邓语晨",
+      "id": "P548",
+      "displayId": "学术-113",
+      "main": "学术类",
+      "sub": "艺术疗愈工作坊",
+      "title": "中央美院艺术治疗工作坊｜沉默的中介",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:11:30.455Z",
+        "verdict": "基本认可",
+        "risk": "创意与主题关联弱",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "郑旭洋",
+      "id": "P64",
+      "displayId": "展览-002",
+      "main": "展览类",
+      "sub": "文物／考古展",
+      "title": "千金之家 · 马王堆汉墓",
+      "quick": {
+        "transfer": "可用于同小类活动",
+        "updatedAt": "2026-10-08T12:15:19.909Z",
+        "strength": "主次与留白",
+        "verdict": "基本认可",
+        "risk": "无明显问题"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "郑旭洋",
+      "id": "P29",
+      "displayId": "展览-125",
+      "main": "展览类",
+      "sub": "综合当代艺术展",
+      "title": "毛茸茸的我 · 萌宠治愈系艺术展",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:15:27.169Z",
+        "verdict": "部分认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": false,
+      "missing": [
+        "note"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "郑旭洋",
+      "id": "P630",
+      "displayId": "演出-065",
+      "main": "演出类",
+      "sub": "民族／国风音乐会",
+      "title": "📄｜深圳社区艺术节系列海报的不同情绪",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:15:45.256Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "郑旭洋",
+      "id": "P79",
+      "displayId": "演出-097",
+      "main": "演出类",
+      "sub": "话剧演出",
+      "title": "栋梁 · PILLAR",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-08T12:17:03.209Z",
+        "verdict": "基本认可",
+        "risk": "信息难读",
+        "transfer": "仅作为局部视觉参考"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "郑旭洋",
+      "id": "P255",
+      "displayId": "节庆-033",
+      "main": "节庆类",
+      "sub": "春节",
+      "title": "春节",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:17:34.486Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "仅作为局部视觉参考"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "郑旭洋",
+      "id": "P692",
+      "displayId": "潮流-014",
+      "main": "潮流类",
+      "sub": "动漫展／漫展",
+      "title": "加拿大_Otakuthon_2026",
+      "quick": {
+        "strength": "色彩情绪",
+        "updatedAt": "2026-10-08T12:18:14.558Z",
+        "verdict": "部分认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": false,
+      "missing": [
+        "note"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "郑旭洋",
+      "id": "P700",
+      "displayId": "潮流-022",
+      "main": "潮流类",
+      "sub": "动漫展／漫展",
+      "title": "西班牙_MangaBarcelona_2024",
+      "quick": {
+        "strength": "色彩情绪",
+        "updatedAt": "2026-10-08T12:18:54.093Z",
+        "verdict": "部分认可",
+        "risk": "无明显问题",
+        "transfer": "仅作为局部视觉参考"
+      },
+      "complete": false,
+      "missing": [
+        "note"
+      ],
+      "assigned": true
+    },
+    {
+      "member": "郑旭洋",
+      "id": "P458",
+      "displayId": "体育-052",
+      "main": "体育类",
+      "sub": "运动形象参考（非赛事）",
+      "title": "文字混排版式灵感积累",
+      "quick": {
+        "strength": "主视觉与主题关联",
+        "updatedAt": "2026-10-08T12:19:25.585Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "郑旭洋",
+      "id": "P484",
+      "displayId": "学术-015",
+      "main": "学术类",
+      "sub": "学术讲座",
+      "title": "人文学术海报2 黑白_蓝黄色系海报设计",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:19:49.645Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    },
+    {
+      "member": "郑旭洋",
+      "id": "P548",
+      "displayId": "学术-113",
+      "main": "学术类",
+      "sub": "艺术疗愈工作坊",
+      "title": "中央美院艺术治疗工作坊｜沉默的中介",
+      "quick": {
+        "strength": "主次与留白",
+        "updatedAt": "2026-10-08T12:20:06.145Z",
+        "verdict": "基本认可",
+        "risk": "无明显问题",
+        "transfer": "可用于同小类活动"
+      },
+      "complete": true,
+      "missing": [],
+      "assigned": true
+    }
+  ]
+}

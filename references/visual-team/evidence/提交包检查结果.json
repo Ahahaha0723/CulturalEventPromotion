@@ -1,0 +1,20 @@
+{
+  "officialSkillValidator": "Skill is valid!",
+  "relativeLinksResolved": 16,
+  "references": 14,
+  "caseCards": 32,
+  "imageHashesVerified": 32,
+  "strategies": 8,
+  "routes": 26,
+  "taxonomyClasses": 8,
+  "qualityWeights": [
+    25,
+    25,
+    20,
+    20,
+    10
+  ],
+  "humanRoundRequired": false,
+  "newPosterGenerationVerified": false,
+  "otherMemberModulesMerged": false
+}

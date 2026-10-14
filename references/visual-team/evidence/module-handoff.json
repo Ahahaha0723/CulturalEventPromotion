@@ -1,0 +1,75 @@
+{
+  "schema": "culture-poster-skill-handoff-v1",
+  "version": "1.0",
+  "date": "2026-10-09",
+  "entry": "culture-poster-design/SKILL.md",
+  "coverage": [
+    "需求与分类",
+    "活动视觉定位",
+    "文案与信息组织",
+    "素材来源与主视觉制作",
+    "跨活动方向与条件策略",
+    "同题多方案",
+    "生成与准确排版",
+    "评价择优与修正",
+    "媒介适配与交付",
+    "组员模块接口"
+  ],
+  "projectFacts": {
+    "teamMembers": 5,
+    "round2Cases": 32,
+    "round2Records": 49,
+    "fourFieldComplete": 46,
+    "strictComplete": 36,
+    "completeChoices": 9,
+    "audienceTests": 0
+  },
+  "evidenceLayers": {
+    "teamCalibrated": "第二轮已有机制字段与同题选择",
+    "designDeduction": "完整流程、定位动作、表达方向、细化策略与修正规则",
+    "plannedOnly": "24条概念示意，不是24张成品或新验证"
+  },
+  "humanRoundRequired": false,
+  "qualityWeights": [
+    {
+      "id": "position",
+      "name": "活动定位匹配",
+      "weight": 25
+    },
+    {
+      "id": "information",
+      "name": "信息传达",
+      "weight": 25
+    },
+    {
+      "id": "finish",
+      "name": "视觉完成度",
+      "weight": 20
+    },
+    {
+      "id": "concept",
+      "name": "概念独特性",
+      "weight": 20
+    },
+    {
+      "id": "context",
+      "name": "场景适配",
+      "weight": 10
+    }
+  ],
+  "qualityWeightsStatus": "计划建议，不声称测试校准",
+  "interfaces": [
+    "posterBrief",
+    "positioning",
+    "copyPlan",
+    "assetPlan",
+    "visualPlan",
+    "production",
+    "review",
+    "delivery"
+  ],
+  "groupMergeStatus": "完整通用规则入口已形成；其他组员专项成果尚未收到，按接口接入",
+  "installed": false,
+  "tools": "使用目标环境可用的图像与排版能力；本包未承诺特定外部工具已连接",
+  "originalSourceSha256": "391adf303f953a019ec996dc0fa8e40dc6d24bd016256d0f48d1b327a3f4fdbd"
+}
