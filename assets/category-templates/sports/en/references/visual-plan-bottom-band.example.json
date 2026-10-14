@@ -1,0 +1,93 @@
+{
+  "mode": "bottom-band",
+  "sport": "3-on-3 basketball",
+  "theme_evidence": [
+    {
+      "source": "sport",
+      "value": "3-on-3 basketball",
+      "translation": "partial seam fragments establish the landmark"
+    },
+    {
+      "source": "theme",
+      "value": "strength, speed and team opposition",
+      "translation": "offset flat paper pieces and a shot path give motion"
+    }
+  ],
+  "abstract_mechanism": "4–6 separated flat pieces with partial seams and a shooting trajectory; no closed photorealistic ball",
+  "gradient": {
+    "direction": "vertical",
+    "stops": [
+      {
+        "offset": 0,
+        "color": "#060B2E"
+      },
+      {
+        "offset": 0.42,
+        "color": "#213BDD"
+      },
+      {
+        "offset": 0.78,
+        "color": "#5934C9"
+      },
+      {
+        "offset": 1,
+        "color": "#7433D4"
+      }
+    ]
+  },
+  "color_reason": "Fictional example has no fixed brand palette; saturated blue-purple expresses competitive energy, not a universal default",
+  "text_contrast_plan": "title/subtitle/slogan#FFFFFF, other lettering#F1FFF7; preserve contrast through gradient/texture placement",
+  "status": "fictional-review; sponsor names only, logo files missing",
+  "landmark": "partial basketball structure and crossing seams",
+  "selection_reason": "direct recognition cues from the sport",
+  "recognition_cues": [
+    "partial surface/seams",
+    "shooting direction"
+  ],
+  "deconstruction_plan": "4–6 flat paper planes, offsets and large negative space; break the closed sphere",
+  "halftone": {
+    "layer": "background and hero",
+    "character": "black-and-white print dots; gentle near type"
+  },
+  "paper_texture": {
+    "character": "fine paper fibers and light print grain",
+    "strength": "subtle"
+  },
+  "prompt_reference": "image-prompts.md",
+  "new_texture_status": "prompt guidance; vector demo does not validate generated print texture",
+  "canvas": {
+    "width": 2400,
+    "height": 3000,
+    "ratio": "4:5"
+  },
+  "hero_region": {
+    "x": 80,
+    "y": 660,
+    "width": 2240,
+    "height": 1420
+  },
+  "hero_visible_width_target": [
+    0.8,
+    0.9
+  ],
+  "hero_palette": {
+    "rule": "same hue family as background",
+    "colors": [
+      "#7657E0",
+      "#ADB2FF",
+      "#DCD8FF"
+    ],
+    "separation": "flat luminance/saturation; minor neutral structure"
+  },
+  "transparent_padding": "trim before proportional placement",
+  "lighting_policy": "flat print only; no realistic sphere shading, highlights or reflection",
+  "heroStyle": "flat-deconstructed-print-collage",
+  "header_footer_margins": 140,
+  "group_shift": "The last100px shift is already incorporated; do not repeat it",
+  "text_colors": {
+    "title": "#FFFFFF",
+    "subtitle": "#FFFFFF",
+    "slogan": "#FFFFFF",
+    "other": "#F1FFF7"
+  }
+}

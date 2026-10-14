@@ -1,0 +1,38 @@
+{
+  "is_fictional_test": true,
+  "layout_mode": "central",
+  "copy": {
+    "year": "2026",
+    "title_lines": [
+      "QINGHE",
+      "IN MOTION"
+    ],
+    "subtitle": "City 3-on-3 Basketball Challenge",
+    "location": "Qinghe",
+    "date_lines": [
+      "19 DEC 2026 | SAT",
+      "09:00–18:00"
+    ],
+    "venue_lines": [
+      "Binhe Sports Park",
+      "Basketball Courts 1 and 2",
+      "88 Binhe Rd, Jiangbei District, Qinghe"
+    ],
+    "sponsor_lines": [
+      "Sponsor: Yuedong Sports",
+      "Refreshment support: Qingquan Water"
+    ],
+    "organizer_lines": [
+      "Hosted by: Qinghe Urban Sports Center",
+      "Organized by: Yuedong Basketball Club"
+    ],
+    "slogan": "Bring passion to the court. Let the city roar."
+  },
+  "sponsor_assets": [],
+  "palette": {
+    "title": "#FFFFFF",
+    "subtitle": "#FFFFFF",
+    "slogan": "#FFFFFF",
+    "other": "#F1FFF7"
+  }
+}

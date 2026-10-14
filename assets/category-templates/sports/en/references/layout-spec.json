@@ -1,0 +1,253 @@
+{
+  "canvas": {
+    "width": 2400,
+    "height": 3000,
+    "ratio": "4:5"
+  },
+  "fontDirectory": "fonts",
+  "fonts": {
+    "Black": [
+      "HarmonyOS_Sans_SC_Black.ttf",
+      900
+    ],
+    "Bold": [
+      "HarmonyOS_Sans_SC_Bold.ttf",
+      700
+    ],
+    "Medium": [
+      "HarmonyOS_Sans_SC_Medium.ttf",
+      500
+    ],
+    "Regular": [
+      "HarmonyOS_Sans_SC_Regular.ttf",
+      400
+    ],
+    "Light": [
+      "HarmonyOS_Sans_SC_Light.ttf",
+      300
+    ],
+    "Thin": [
+      "HarmonyOS_Sans_SC_Thin.ttf",
+      100
+    ],
+    "Jiangcheng": [
+      "江城律动黑.ttf",
+      900
+    ]
+  },
+  "minimumTitleScale": 0.8,
+  "modes": {
+    "central": {
+      "year": {
+        "x": 1200,
+        "top": 1870,
+        "size": 80,
+        "font": "Bold",
+        "align": "center",
+        "width": 1000
+      },
+      "title": {
+        "x": 1200,
+        "top": 2020,
+        "size": 220,
+        "font": "Jiangcheng",
+        "align": "center",
+        "width": 1560,
+        "lineHeight": 270,
+        "maxLines": 2
+      },
+      "subtitle": {
+        "x": 1200,
+        "top": 2340,
+        "size": 68,
+        "font": "Bold",
+        "align": "center",
+        "width": 1800
+      },
+      "slogan": {
+        "x": 1200,
+        "top": 440,
+        "size": 88,
+        "font": "Bold",
+        "align": "center",
+        "width": 1960,
+        "lineHeight": 116,
+        "maxLines": 1
+      },
+      "sponsors": {
+        "x": 120,
+        "top": 140,
+        "size": 44,
+        "font": "Regular",
+        "align": "left",
+        "width": 840,
+        "lineHeight": 68,
+        "lockSize": true
+      },
+      "venue": {
+        "x": 120,
+        "size": 44,
+        "font": "Regular",
+        "align": "left",
+        "width": 1100,
+        "lineHeight": 68,
+        "bottom": 2860,
+        "lockSize": true
+      },
+      "date": {
+        "x": 2280,
+        "size": 64,
+        "font": "Bold",
+        "align": "right",
+        "width": 1060,
+        "lineHeight": 90,
+        "bottom": 2860
+      },
+      "organizers": {
+        "x": 2280,
+        "top": 140,
+        "size": 44,
+        "font": "Regular",
+        "align": "right",
+        "width": 840,
+        "lineHeight": 68,
+        "lockSize": true
+      }
+    },
+    "bottom-band": {
+      "subtitle": {
+        "x": 1200,
+        "top": 2580,
+        "size": 68,
+        "font": "Bold",
+        "align": "center",
+        "width": 1800
+      },
+      "slogan": {
+        "x": 1200,
+        "top": 440,
+        "size": 88,
+        "font": "Bold",
+        "align": "center",
+        "width": 1960,
+        "lineHeight": 116,
+        "maxLines": 1
+      },
+      "year": {
+        "x": 1200,
+        "top": 2160,
+        "size": 90,
+        "font": "Bold",
+        "align": "center",
+        "width": 500
+      },
+      "title": {
+        "x": 1200,
+        "top": 2325,
+        "size": 168,
+        "font": "Jiangcheng",
+        "align": "center",
+        "width": 2150,
+        "lineHeight": 205,
+        "maxLines": 1
+      },
+      "date": {
+        "x": 2280,
+        "size": 64,
+        "font": "Bold",
+        "align": "right",
+        "width": 1060,
+        "lineHeight": 90,
+        "bottom": 2860
+      },
+      "venue": {
+        "x": 120,
+        "size": 44,
+        "font": "Regular",
+        "align": "left",
+        "width": 1100,
+        "lineHeight": 68,
+        "bottom": 2860,
+        "lockSize": true
+      },
+      "organizers": {
+        "x": 2280,
+        "top": 140,
+        "size": 44,
+        "font": "Regular",
+        "align": "right",
+        "width": 840,
+        "lineHeight": 68,
+        "lockSize": true
+      },
+      "sponsors": {
+        "x": 120,
+        "top": 140,
+        "size": 44,
+        "font": "Regular",
+        "align": "left",
+        "width": 840,
+        "lineHeight": 68,
+        "lockSize": true
+      }
+    }
+  },
+  "visual": {
+    "background": "full-canvas-vivid-gradient",
+    "heroAnchor": "upper-center",
+    "modes": {
+      "central": {
+        "x": 120,
+        "y": 670,
+        "width": 2160,
+        "height": 1120
+      },
+      "bottom-band": {
+        "x": 80,
+        "y": 660,
+        "width": 2240,
+        "height": 1420
+      }
+    },
+    "minimumHeroTextGap": 60,
+    "contrastTargets": {
+      "largeTitle": 3,
+      "normalText": 4.5
+    },
+    "heroScaleIncrease": {
+      "central": 1.125,
+      "bottom-band": 1.077
+    },
+    "heroVisibleWidthFraction": {
+      "central": [
+        0.75,
+        0.85
+      ],
+      "bottom-band": [
+        0.8,
+        0.9
+      ]
+    },
+    "heroPalettePolicy": "background-derived-hues-with-luminance-separation",
+    "cropTransparentPadding": true,
+    "heroStyle": "flat-deconstructed-print-collage-no-realistic-lighting",
+    "removeDuplicateCityLabel": true,
+    "bottomInformationAlignment": "actual-ink-bottom",
+    "deconstruction": "4-6 major separated planes plus subordinate fragments",
+    "headerFooterMargin": 140
+  },
+  "textColors": {
+    "title": "#FFFFFF",
+    "subtitle": "#FFFFFF",
+    "slogan": "#FFFFFF",
+    "other": "#F1FFF7"
+  },
+  "language": "en",
+  "englishReflow": {
+    "wordBoundaryOnly": true,
+    "singleLineSlogan": true,
+    "equalHeaderAddressSize": true,
+    "currencyUnchanged": true,
+    "preserveSourceModeAndHeroScale": true
+  }
+}
