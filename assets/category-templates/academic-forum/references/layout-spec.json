@@ -1,0 +1,15 @@
+{
+  "template_id":"academic-forum/left-headline-reference-v06",
+  "canvas":{"width":2400,"height":3000,"ratio":"4:5"},
+  "default_palette":{"background_top":"#1C4846","background_bottom":"#446B60","ink":"#FFFFFF","line":"#FFFFFF"},
+  "background_policy":{"reference_locks":"typography_only","pure_white_background":false,"source_image_mode":"prepared_blurred_image","no_source_image_mode":"tonal_gradient","text_contrast_target":4.5},
+  "fonts":{"humanities":"assets/fonts/slide-xiaxing/演示夏行楷.ttf","digital":"assets/fonts/vonwaon-bitmap/VonwaonBitmap-16px.ttf","english_title":"assets/fonts/playball/Playball-Regular.ttf","body_light":"assets/category-templates/workshop/zh-CN/fonts/HarmonyOS_Sans_SC_Light.ttf","body_regular":"assets/category-templates/workshop/zh-CN/fonts/HarmonyOS_Sans_SC_Regular.ttf","body_bold":"assets/category-templates/workshop/zh-CN/fonts/HarmonyOS_Sans_SC_Bold.ttf"},
+  "title_box":[110,85,1480,960],"forum_name_box":[115,1090,1480,300],
+  "auxiliary_box":[115,1430,1430,120],"information_box":[115,1630,1440,1260],
+  "location_box":[1740,1880,550,190],"format_box":[1740,2080,550,90],
+  "start_date_box":[1700,2200,585,240],"end_date_box":[1700,2590,585,240],
+  "year_box":[2100,2460,185,80],"note_box":[115,2940,2180,30],
+  "title_policy":{"positive_glyph_gap_factor":0.5,"line_advance_em":0.98,"interline_gap_factor":0.5,"preserve_glyph_size":true,"remove_year_when_non_title_has_year":true},
+  "forbidden_legacy_mechanisms":["rotated rails","upper-right title","two-column body","oval or pill labels","full-width rules"],
+  "maximum_title_font_families":1,"non_title_family":"HarmonyOS Sans SC"
+}
