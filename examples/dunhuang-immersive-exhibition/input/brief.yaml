@@ -1,0 +1,108 @@
+schema_version: "1.0"
+project:
+  id: case02-dunhuang-immersive
+  draft_only: false
+  purpose: 展览传播主视觉
+  communication_goal: 建立观众对数字沉浸艺术展的理解、兴趣与到场意愿
+  usage_scene: 中文和英文展览宣传海报
+event:
+  name:
+    value: "壁上万象：敦煌色彩数字沉浸展"
+    status: confirmed
+    source: ["Case02/text.pdf p1"]
+    confidence: high
+    must_appear: true
+    notes: ""
+  organizer:
+    value: 城市文化中心
+    status: confirmed
+    source: ["Case02/text.pdf p1"]
+    confidence: high
+    must_appear: true
+    notes: ""
+  co_organizers: []
+  theme:
+    value: 敦煌壁画色彩文化意象的数字沉浸表达
+    status: confirmed
+    source: ["Case02/text.pdf p1"]
+    confidence: high
+    must_appear: false
+    notes: ""
+  slogan:
+    value: 在流动的色彩中，走近千年的想象
+    status: confirmed
+    source: ["Case02/text.pdf p1"]
+    confidence: high
+    must_appear: true
+    notes: ""
+schedule:
+  date:
+    value: "2026-11-08/2027-01-18"
+    status: confirmed
+    source: ["Case02/text.pdf p1"]
+    confidence: high
+    must_appear: true
+    notes: ""
+  start_time: "10:00"
+  end_time: "20:00"
+  timezone: Asia/Shanghai
+  recurrence: Tuesday-Sunday
+venue:
+  name:
+    value: 城市文化中心一层沉浸展厅
+    status: confirmed
+    source: ["Case02/text.pdf p1-p2"]
+    confidence: high
+    must_appear: true
+    notes: ""
+  address: ""
+  online_url: ""
+audience:
+  target:
+    value: 18–45 岁城市文化消费者、青年游客和国际访客
+    status: confirmed
+    source: ["Case02/text.pdf p1"]
+    confidence: high
+    must_appear: false
+    notes: ""
+  desired_action: 预约并到场观展
+registration:
+  mode: reservation
+  price: ""
+  call_to_action: 预约观展
+  url: ""
+  qr_asset: ""
+languages:
+  source: zh-CN
+  required: [zh-CN, en]
+  official_names:
+    en: "Visions on the Wall: An Immersive Digital Exhibition of Dunhuang Colors"
+    organizer_en: "City Cultural Center"
+    slogan_en: "Step into a thousand years of imagination through moving color"
+  translation_status: confirmed
+deliverables:
+  canvas:
+    orientation: portrait
+    ratio: "4:5"
+    width_px: 2400
+    height_px: 3000
+  formats: [png]
+  quantity_per_language: 1
+  editable_source_required: false
+  platform_or_print_notes: PNG 成图
+content_rules:
+  must_appear: [活动名称, 日期, 开放时间, 地点, 预约提示]
+  optional: [传播语, 主办方]
+  forbidden: [未经资料支持的文物名称, 虚构票价, 伪造二维码]
+classification:
+  primary_type: exhibition
+  secondary_types: []
+  attributes: [traditional-x-technology, immersive, reservation, international]
+  confidence: high
+  evidence: [展览名称, 展期, 展厅, 数字沉浸体验]
+assets:
+  - path: Case02_文化活动宣传主视觉设计/image.png
+    role: official_asset
+    rights_status: course-test-only
+    formal_use: allowed-for-course-test
+
