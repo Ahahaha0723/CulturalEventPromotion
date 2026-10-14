@@ -1,0 +1,93 @@
+{
+  "mode": "bottom-band",
+  "sport": "三人篮球",
+  "theme_evidence": [
+    {
+      "source": "运动项目",
+      "value": "三人篮球",
+      "translation": "分离的球面弧段表达球体结构"
+    },
+    {
+      "source": "主题",
+      "value": "力量、速度、团队对抗",
+      "translation": "斜向交错的运动轨迹与局部透叠形成竞技动势"
+    }
+  ],
+  "abstract_mechanism": "两组分离球面弧段与一条投射轨迹交织，不画完整写实篮球或人物",
+  "gradient": {
+    "direction": "vertical",
+    "stops": [
+      {
+        "offset": 0,
+        "color": "#060B2E"
+      },
+      {
+        "offset": 0.42,
+        "color": "#213BDD"
+      },
+      {
+        "offset": 0.78,
+        "color": "#5934C9"
+      },
+      {
+        "offset": 1,
+        "color": "#7433D4"
+      }
+    ]
+  },
+  "color_reason": "虚构测试赛事没有指定品牌色，选择高饱和蓝紫表达速度和竞技张力；不设为其他项目固定色",
+  "text_contrast_plan": "主、副标题与宣传语#FFFFFF，年份/日期/地址/组织/赞助等其余文字#F1FFF7；字色固定，通过调整背景落点和纹理干扰保持对比",
+  "status": "fictional-review; sponsor names only, logo assets missing",
+  "landmark": "篮球球面与交错缝线",
+  "selection_reason": "三人篮球赛事的直接识别线索",
+  "recognition_cues": [
+    "球面轮廓",
+    "交错缝线与投射方向"
+  ],
+  "deconstruction_plan": "4—6组平面纸片、明显错位与负形；关键缝线建立识别，打断完整闭合球体轮廓",
+  "halftone": {
+    "layer": "background and hero",
+    "character": "黑白半调网点，密度随明暗变化，文字区降低干扰"
+  },
+  "paper_texture": {
+    "character": "细纸纤维、复印颗粒、轻微印刷磨损",
+    "strength": "subtle"
+  },
+  "prompt_reference": "image-prompts.md",
+  "new_texture_status": "prompt-guidance-only; current SVG example predates these raster textures",
+  "canvas": {
+    "width": 2400,
+    "height": 3000,
+    "ratio": "4:5"
+  },
+  "hero_region": {
+    "x": 80,
+    "y": 660,
+    "width": 2240,
+    "height": 1420
+  },
+  "hero_visible_width_target": [
+    0.8,
+    0.9
+  ],
+  "hero_palette": {
+    "rule": "same hue family as background",
+    "colors": [
+      "#7657E0",
+      "#ADB2FF",
+      "#DCD8FF"
+    ],
+    "separation": "luminance and saturation; structural neutral accents only"
+  },
+  "transparent_padding": "trim before proportional placement",
+  "lighting_policy": "flat print only; no realistic lighting, specular reflection or spherical shading",
+  "heroStyle": "flat-deconstructed-print-collage",
+  "header_footer_margins": 140,
+  "group_shift": "slogan, hero, year, title and subtitle moved down another 100px together",
+  "text_colors": {
+    "title": "#FFFFFF",
+    "subtitle": "#FFFFFF",
+    "slogan": "#FFFFFF",
+    "other": "#F1FFF7"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "is_fictional_test": true,
+  "layout_mode": "central",
+  "copy": {
+    "year": "2026",
+    "title_lines": [
+      "跃动青禾"
+    ],
+    "subtitle": "城市三人篮球挑战赛",
+    "location": "青禾市",
+    "date_lines": [
+      "12月19日 周六",
+      "09:00—18:00"
+    ],
+    "venue_lines": [
+      "滨河体育公园",
+      "1号和2号篮球场",
+      "青禾市江北区滨河路88号"
+    ],
+    "sponsor_lines": [
+      "赛事赞助 跃动运动",
+      "补给支持 清泉饮用水"
+    ],
+    "organizer_lines": [
+      "主办 青禾城市运动中心",
+      "承办 跃动篮球社"
+    ],
+    "slogan": "把热爱带上球场，让城市一起沸腾"
+  },
+  "sponsor_assets": [],
+  "palette": {
+    "title": "#FFFFFF",
+    "subtitle": "#FFFFFF",
+    "slogan": "#FFFFFF",
+    "other": "#F1FFF7"
+  }
+}
