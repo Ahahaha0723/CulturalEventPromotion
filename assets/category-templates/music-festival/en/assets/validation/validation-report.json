@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-12",
+  "packages": [
+    {
+      "package": "build\\zh-CN\\cultural-pop-performance-poster",
+      "skill_validation": "Skill is valid!",
+      "internal_links_checked": 26,
+      "font_binaries_checked": 15,
+      "families_checked": 7,
+      "language_role_dispatch_checks": 24,
+      "portable_cli_mixed_script_fallback": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "unsupported_glyph_failure": "PASS",
+      "status": "PASS"
+    },
+    {
+      "package": "build\\zh-CN\\cultural-traditional-performance-poster",
+      "skill_validation": "Skill is valid!",
+      "internal_links_checked": 26,
+      "font_binaries_checked": 13,
+      "families_checked": 5,
+      "language_role_dispatch_checks": 32,
+      "portable_cli_mixed_script_fallback": "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+      "unsupported_glyph_failure": "PASS",
+      "status": "PASS"
+    },
+    {
+      "package": "build\\zh-CN\\cultural-anime-game-poster",
+      "skill_validation": "Skill is valid!",
+      "internal_links_checked": 28,
+      "font_binaries_checked": 20,
+      "families_checked": 11,
+      "language_role_dispatch_checks": 32,
+      "portable_cli_mixed_script_fallback": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "unsupported_glyph_failure": "PASS",
+      "status": "PASS"
+    },
+    {
+      "package": "build\\integrated-zh-CN\\cultural-event-poster",
+      "skill_validation": "Skill is valid!",
+      "internal_links_checked": 89,
+      "font_binaries_checked": 24,
+      "families_checked": 13,
+      "language_role_dispatch_checks": 88,
+      "portable_cli_mixed_script_fallback": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "unsupported_glyph_failure": "PASS",
+      "original_internal_check": "PASS: links, empty files, and unfinished markers",
+      "status": "PASS"
+    },
+    {
+      "package": "build\\en\\cultural-pop-performance-poster",
+      "skill_validation": "Skill is valid!",
+      "internal_links_checked": 26,
+      "font_binaries_checked": 15,
+      "families_checked": 7,
+      "language_role_dispatch_checks": 24,
+      "portable_cli_mixed_script_fallback": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "unsupported_glyph_failure": "PASS",
+      "status": "PASS"
+    },
+    {
+      "package": "build\\en\\cultural-traditional-performance-poster",
+      "skill_validation": "Skill is valid!",
+      "internal_links_checked": 26,
+      "font_binaries_checked": 13,
+      "families_checked": 5,
+      "language_role_dispatch_checks": 32,
+      "portable_cli_mixed_script_fallback": "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+      "unsupported_glyph_failure": "PASS",
+      "status": "PASS"
+    },
+    {
+      "package": "build\\en\\cultural-anime-game-poster",
+      "skill_validation": "Skill is valid!",
+      "internal_links_checked": 28,
+      "font_binaries_checked": 20,
+      "families_checked": 11,
+      "language_role_dispatch_checks": 32,
+      "portable_cli_mixed_script_fallback": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "unsupported_glyph_failure": "PASS",
+      "status": "PASS"
+    },
+    {
+      "package": "build\\integrated-en\\cultural-event-poster",
+      "skill_validation": "Skill is valid!",
+      "internal_links_checked": 88,
+      "font_binaries_checked": 24,
+      "families_checked": 13,
+      "language_role_dispatch_checks": 88,
+      "portable_cli_mixed_script_fallback": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "unsupported_glyph_failure": "PASS",
+      "original_internal_check": "PASS: links, empty files, and unfinished markers",
+      "status": "PASS"
+    },
+    {
+      "package": "build\\font-library",
+      "internal_links_checked": 0,
+      "font_binaries_checked": 24,
+      "families_checked": 13,
+      "language_role_dispatch_checks": 88,
+      "portable_cli_mixed_script_fallback": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "unsupported_glyph_failure": "PASS",
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "font_proof_glyph_checks": 70,
+  "reference_image_copy_checks": 40,
+  "unchanged_base_file_comparisons": 186,
+  "status": "PASS"
+}

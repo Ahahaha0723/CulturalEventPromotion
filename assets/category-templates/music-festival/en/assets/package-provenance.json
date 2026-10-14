@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-12",
+  "base_skill_commit": "7c2b1306cdd0576333d55ad3399a657f1dd2874b",
+  "instruction_language": "en",
+  "poster_languages": [
+    "zh-CN",
+    "en"
+  ],
+  "category": "popular-performance",
+  "fonts": 15,
+  "families": 7,
+  "readable_cases": 3,
+  "strategy_state": "trial",
+  "audience_validation": "not-tested",
+  "exact_original_fonts_confirmed": 0,
+  "standalone": true,
+  "global_installation_modified": false
+}

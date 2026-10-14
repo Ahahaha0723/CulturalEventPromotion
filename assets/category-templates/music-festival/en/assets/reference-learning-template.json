@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "project_id": "",
+  "reference_sources": [],
+  "mechanism_transfer": [],
+  "title_plan": {
+    "method": "font-typesetting",
+    "text_source": "content-master",
+    "font_file": null,
+    "character_review": "pending"
+  },
+  "generation_reference_inputs": [],
+  "reference_comparison": {
+    "full_size": "pending",
+    "target_thumbnail": "pending",
+    "remaining_gaps": []
+  },
+  "user_feedback": [],
+  "aesthetic_acceptance": "pending",
+  "transfer_evidence": "not-tested"
+}

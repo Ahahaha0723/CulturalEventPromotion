@@ -1,0 +1,249 @@
+{
+  "exact_originals_confirmed": 0,
+  "records": [
+    {
+      "case": "演出-001",
+      "role": "title",
+      "observed": "FEEL wordmark: spiked metal contours and grain; apparently custom/modified",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "custom-lettering-unconfirmed",
+      "candidate_families": [
+        "archivo-black"
+      ],
+      "candidate_font_ids": [
+        "archivo-black/ArchivoBlack-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P08.jpg"
+    },
+    {
+      "case": "演出-001",
+      "role": "subtitle",
+      "observed": "Lineup: heavy Chinese and slab-like/heavy Latin serif shapes, with visible billing levels",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-serif-cn",
+        "source-han-sans-cn"
+      ],
+      "candidate_font_ids": [
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+        "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+        "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+        "source-han-serif-cn/SourceHanSerifCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P08.jpg"
+    },
+    {
+      "case": "演出-001",
+      "role": "body",
+      "observed": "Organizer/venue/details: regular small type; exact family not recoverable from pixels",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-sans-cn",
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf",
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P08.jpg"
+    },
+    {
+      "case": "演出-001",
+      "role": "numeric",
+      "observed": "Date uses clear conventional numerals; day and weekday have separate levels",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P08.jpg"
+    },
+    {
+      "case": "演出-029",
+      "role": "title",
+      "observed": "AHTD: broad heavy sans with an altered A; possible graphic modification",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "modified-or-font-unconfirmed",
+      "candidate_families": [
+        "archivo-black"
+      ],
+      "candidate_font_ids": [
+        "archivo-black/ArchivoBlack-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P03.jpg"
+    },
+    {
+      "case": "演出-029",
+      "role": "subtitle",
+      "observed": "City/tour line: heavy oblique and narrow upright proportions",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow",
+        "barlow-condensed"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf",
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P03.jpg"
+    },
+    {
+      "case": "演出-029",
+      "role": "body",
+      "observed": "Venue/details use narrow elongated forms, some with outlines",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow-condensed",
+        "bebas-neue"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf",
+        "bebas-neue/BebasNeue-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P03.jpg"
+    },
+    {
+      "case": "演出-029",
+      "role": "numeric",
+      "observed": "Date/year use vertically emphasized condensed numerals",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "bebas-neue",
+        "barlow-condensed"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf",
+        "bebas-neue/BebasNeue-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P03.jpg"
+    },
+    {
+      "case": "演出-039",
+      "role": "title",
+      "observed": "Highly altered spiked Chinese outline and luminous edge; no confirmed standard family",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "custom-lettering-unconfirmed",
+      "candidate_families": [
+        "source-han-sans-cn"
+      ],
+      "candidate_font_ids": [
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P57.jpg"
+    },
+    {
+      "case": "演出-039",
+      "role": "subtitle",
+      "observed": "Small bold sans supporting title; identity unverified",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P57.jpg"
+    },
+    {
+      "case": "演出-039",
+      "role": "body",
+      "observed": "Edge English and lower Chinese: compact small sans, partly below reliable identification size",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow",
+        "source-han-sans-cn"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf",
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P57.jpg"
+    },
+    {
+      "case": "演出-039",
+      "role": "numeric",
+      "observed": "Lower dates/times: relatively bold numerals use weight and scale for lookup",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P57.jpg"
+    }
+  ]
+}

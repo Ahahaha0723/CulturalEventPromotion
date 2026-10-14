@@ -1,0 +1,39 @@
+{
+  "global_baseline": {
+    "files_checked": 98,
+    "matches_pinned_commit": true,
+    "commit": "7c2b1306cdd0576333d55ad3399a657f1dd2874b"
+  },
+  "smoke_tests": [
+    {
+      "instruction_language": "zh-CN",
+      "returncode": 0,
+      "stdout": "PASS: all smoke tests",
+      "stderr": "",
+      "status": "PASS"
+    },
+    {
+      "instruction_language": "en",
+      "returncode": 0,
+      "stdout": "PASS: all smoke tests",
+      "stderr": "",
+      "status": "PASS"
+    }
+  ],
+  "license_checks": 168,
+  "language_profile_parity": [
+    {
+      "skill": "cultural-pop-performance-poster",
+      "status": "PASS"
+    },
+    {
+      "skill": "cultural-traditional-performance-poster",
+      "status": "PASS"
+    },
+    {
+      "skill": "cultural-anime-game-poster",
+      "status": "PASS"
+    }
+  ],
+  "status": "PASS"
+}

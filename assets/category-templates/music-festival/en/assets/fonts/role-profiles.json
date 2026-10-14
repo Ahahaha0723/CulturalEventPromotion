@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.0",
+  "profiles": {
+    "livehouse-atmospheric": {
+      "category": "popular-performance",
+      "status": "trial",
+      "purpose": "candidate typography; verify real rendered text",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+            "source-han-serif-cn/SourceHanSerifCN-Bold.otf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "archivo-black/ArchivoBlack-Regular.ttf",
+            "anton/Anton-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        }
+      }
+    },
+    "festival-lineup": {
+      "category": "popular-performance",
+      "status": "trial",
+      "purpose": "candidate typography; verify real rendered text",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "archivo-black/ArchivoBlack-Regular.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-serif-cn/SourceHanSerifCN-Bold.otf"
+          ],
+          "subtitle": [
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        }
+      }
+    },
+    "concert-portrait": {
+      "category": "popular-performance",
+      "status": "trial",
+      "purpose": "candidate typography; verify real rendered text",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+            "source-han-serif-cn/SourceHanSerifCN-Bold.otf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "bebas-neue/BebasNeue-Regular.ttf",
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "archivo-black/ArchivoBlack-Regular.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "bebas-neue/BebasNeue-Regular.ttf",
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        }
+      }
+    }
+  }
+}

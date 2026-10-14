@@ -1,0 +1,113 @@
+{
+  "source_criteria": {
+    "strict": "至少4人给4—5星，且无人给1—2星；保持原标准",
+    "majority": "未覆盖小类中至少3人给4—5星，且无人给1—2星；每小类选1张；非高共识",
+    "relative": "仍未覆盖小类中均分至少3.6，且无人给1星；每小类选1张；非高共识，保留低评分与分歧",
+    "ranking": "先按档位，再按总分、喜欢人数、低分人数、极差、5星人数及稳定编号；不伪称客观质量评价"
+  },
+  "cases": [
+    {
+      "id": "P08",
+      "displayId": "演出-001",
+      "main": "演出类",
+      "sub": "音乐节演出",
+      "title": "FEEL 感觉 · 南京阵容主海报",
+      "tier": "majority",
+      "status": "多数喜欢候选",
+      "ratings": [
+        3,
+        4,
+        5,
+        3,
+        5
+      ],
+      "mean": 4.0,
+      "highVotes": 3,
+      "lowVotes": 0,
+      "isReference": false,
+      "source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_分类合集\\02_演出类\\演出-001_FEEL 感觉 · 南京阵容主海报.jpg",
+      "file": "02_演出类/01_音乐节演出/02_多数喜欢候选_非高共识/演出-001_FEEL 感觉 · 南京阵容主海报.jpg",
+      "sha256": "860722595685caafb8b9f807ef4a2aad6c3a3820e8fc6663745ab026630bcc1b",
+      "group": "popular-performance",
+      "bundle_source_exists": true,
+      "resolved_source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_小类覆盖补全\\02_演出类\\01_音乐节演出\\02_多数喜欢候选_非高共识\\演出-001_FEEL 感觉 · 南京阵容主海报.jpg",
+      "exists": true,
+      "actual_sha256": "860722595685caafb8b9f807ef4a2aad6c3a3820e8fc6663745ab026630bcc1b",
+      "source_hash_matches": true,
+      "dimensions": [
+        800,
+        1200
+      ],
+      "package_image": "assets/reference-posters/P08.jpg"
+    },
+    {
+      "id": "P03",
+      "displayId": "演出-029",
+      "main": "演出类",
+      "sub": "演唱会／音乐巡演",
+      "title": "AHTD · JAKARTA",
+      "tier": "majority",
+      "status": "多数喜欢候选",
+      "ratings": [
+        3,
+        4,
+        5,
+        3,
+        5
+      ],
+      "mean": 4.0,
+      "highVotes": 3,
+      "lowVotes": 0,
+      "isReference": false,
+      "source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_分类合集\\02_演出类\\演出-029_AHTD · JAKARTA.jpg",
+      "file": "02_演出类/02_演唱会／音乐巡演/02_多数喜欢候选_非高共识/演出-029_AHTD · JAKARTA.jpg",
+      "sha256": "4d3fe6eb6e6902f79dff125166c1c603f8f9d01b2dd36f75a90c230fb1a2aaf3",
+      "group": "popular-performance",
+      "bundle_source_exists": true,
+      "resolved_source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_小类覆盖补全\\02_演出类\\02_演唱会／音乐巡演\\02_多数喜欢候选_非高共识\\演出-029_AHTD · JAKARTA.jpg",
+      "exists": true,
+      "actual_sha256": "4d3fe6eb6e6902f79dff125166c1c603f8f9d01b2dd36f75a90c230fb1a2aaf3",
+      "source_hash_matches": true,
+      "dimensions": [
+        800,
+        800
+      ],
+      "package_image": "assets/reference-posters/P03.jpg"
+    },
+    {
+      "id": "P57",
+      "displayId": "演出-039",
+      "main": "演出类",
+      "sub": "Livehouse演出",
+      "title": "黑白森林 · 发光鹿",
+      "tier": "strict",
+      "status": "高共识优秀",
+      "ratings": [
+        4,
+        4,
+        4,
+        3,
+        4
+      ],
+      "mean": 3.8,
+      "highVotes": 4,
+      "lowVotes": 0,
+      "isReference": false,
+      "source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_分类合集\\02_演出类\\演出-039_黑白森林 · 发光鹿.jpg",
+      "file": "02_演出类/03_Livehouse演出/01_高共识优秀_原标准/演出-039_黑白森林 · 发光鹿.jpg",
+      "sha256": "3bdc0d6d7eb3116764c626e2829d2ca27cc7ad58b64893c744370385aa831297",
+      "group": "popular-performance",
+      "bundle_source_exists": true,
+      "resolved_source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_小类覆盖补全\\02_演出类\\03_Livehouse演出\\01_高共识优秀_原标准\\演出-039_黑白森林 · 发光鹿.jpg",
+      "exists": true,
+      "actual_sha256": "3bdc0d6d7eb3116764c626e2829d2ca27cc7ad58b64893c744370385aa831297",
+      "source_hash_matches": true,
+      "dimensions": [
+        900,
+        1200
+      ],
+      "package_image": "assets/reference-posters/P57.jpg"
+    }
+  ],
+  "image_rights": "private reference analysis only; no public redistribution or production reuse license established"
+}

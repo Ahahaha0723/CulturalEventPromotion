@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "project_id": "",
+  "version": "",
+  "decisions": {
+    "direction": {
+      "value": "",
+      "status": "pending",
+      "source": "",
+      "version_scope": "",
+      "remaining_issue": ""
+    },
+    "cultural_or_identity_elements": {
+      "value": "",
+      "status": "pending",
+      "source": "",
+      "version_scope": "",
+      "remaining_issue": ""
+    },
+    "asset_permissions": {
+      "value": "",
+      "status": "pending",
+      "source": "",
+      "version_scope": "",
+      "remaining_issue": ""
+    },
+    "canvas": {
+      "value": "",
+      "status": "pending",
+      "source": "",
+      "version_scope": "",
+      "remaining_issue": ""
+    },
+    "formal_copy_space": {
+      "value": "",
+      "status": "pending",
+      "source": "",
+      "version_scope": "",
+      "remaining_issue": ""
+    }
+  },
+  "exploration_authorization": {
+    "status": "pending",
+    "scope": "",
+    "source": ""
+  },
+  "final_release_authorization": {
+    "status": "pending",
+    "source": ""
+  }
+}
