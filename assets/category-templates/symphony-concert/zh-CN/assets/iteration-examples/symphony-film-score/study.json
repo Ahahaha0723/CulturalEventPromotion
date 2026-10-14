@@ -1,0 +1,48 @@
+{
+  "sample_content_only": true,
+  "do_not_use_as_future_event_facts": true,
+  "event_kind": "film-score symphony test",
+  "visual_roles": {
+    "053": "space, atmosphere and later typography",
+    "065": "line rhythm and embedded text"
+  },
+  "typography_rows": [
+    "SYMPHONY",
+    "OF",
+    "LIGHT",
+    "2027",
+    "FILM",
+    "SCORE",
+    "04 / 10",
+    "19:30",
+    "CONCERT"
+  ],
+  "row_count_is_example_only": true,
+  "official_copy": {
+    "zh-CN": {
+      "organizer": "城市交响乐团 × 光影影业",
+      "title": "《光影交响》电影原声音乐会",
+      "slogan": "当经典旋律遇上银幕光影，重回心动瞬间",
+      "date": "2027年4月10日 19:30",
+      "venue": "城市音乐厅·大剧场",
+      "cta": "预约购票"
+    },
+    "en": {
+      "organizer": "City Symphony Orchestra x Light & Shadow Films",
+      "title": "Symphony of Light - Film Score Concert",
+      "slogan": "Where classic scores meet silver-screen light, relive the moment",
+      "date": "10 April 2027, 19:30",
+      "venue": "Grand Hall, City Concert Hall",
+      "cta": "Reserve tickets"
+    }
+  },
+  "font_candidates": [
+    "Source Han Serif CN ExtraLight",
+    "Source Han Serif CN Regular",
+    "Spectral Regular",
+    "Spectral Italic"
+  ],
+  "exact_reference_font_identity": "unknown",
+  "source_layout_file": "rendered-layout-v05.json",
+  "user_acceptance_scope": "conditional skill mechanisms requested; formal publication not approved"
+}

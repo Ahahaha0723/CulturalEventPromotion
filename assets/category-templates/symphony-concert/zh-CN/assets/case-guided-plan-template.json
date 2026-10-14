@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "source_only": "fill from current brief, never from teaching sample",
+  "references": [],
+  "three_dimensions": {
+    "key_visual_effect": {
+      "observed_mechanism": "",
+      "content_fit": "",
+      "original_adaptation": "",
+      "prompt_or_layout_action": "",
+      "output_comparison": "pending"
+    },
+    "visual_style": {
+      "observed_mechanism": "",
+      "content_fit": "",
+      "original_adaptation": "",
+      "prompt_or_layout_action": "",
+      "output_comparison": "pending"
+    },
+    "typography": {
+      "observed_mechanism": "",
+      "content_fit": "",
+      "original_adaptation": "",
+      "prompt_or_layout_action": "",
+      "output_comparison": "pending"
+    }
+  },
+  "reference_roles": {
+    "key_visual": [],
+    "style": [],
+    "typography": []
+  },
+  "preserve_accepted_layers": [],
+  "decorative_rows": [],
+  "display_overrides": [],
+  "schedule_nodes": [],
+  "full_formal_copy_location": {},
+  "thumbnail_review": "pending",
+  "human_aesthetic_approval": "pending"
+}

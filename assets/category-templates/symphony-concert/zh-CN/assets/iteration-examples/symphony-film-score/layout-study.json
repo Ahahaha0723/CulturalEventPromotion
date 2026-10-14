@@ -1,0 +1,175 @@
+{
+  "status": "teaching example, not fixed production coordinates",
+  "rows": [
+    {
+      "language": "zh-CN",
+      "text": "SYMPHONY",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.425,
+      "top_fraction": 0.21,
+      "size_fraction": 0.03791666666666667,
+      "tracking_fraction": 0.0075
+    },
+    {
+      "language": "zh-CN",
+      "text": "OF",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.26666666666666666,
+      "top_fraction": 0.2683333333333333,
+      "size_fraction": 0.04083333333333333,
+      "tracking_fraction": 0.012916666666666667
+    },
+    {
+      "language": "zh-CN",
+      "text": "LIGHT",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.32916666666666666,
+      "top_fraction": 0.32566666666666666,
+      "size_fraction": 0.04,
+      "tracking_fraction": 0.010833333333333334
+    },
+    {
+      "language": "zh-CN",
+      "text": "2027",
+      "role": "derived schedule: year",
+      "x_fraction": 0.5041666666666667,
+      "top_fraction": 0.37933333333333336,
+      "size_fraction": 0.042083333333333334,
+      "tracking_fraction": 0.012916666666666667
+    },
+    {
+      "language": "zh-CN",
+      "text": "FILM",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.42916666666666664,
+      "top_fraction": 0.43333333333333335,
+      "size_fraction": 0.04,
+      "tracking_fraction": 0.0125
+    },
+    {
+      "language": "zh-CN",
+      "text": "SCORE",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.5958333333333333,
+      "top_fraction": 0.4866666666666667,
+      "size_fraction": 0.03875,
+      "tracking_fraction": 0.010416666666666666
+    },
+    {
+      "language": "zh-CN",
+      "text": "04 / 10",
+      "role": "derived schedule: month/day",
+      "x_fraction": 0.39166666666666666,
+      "top_fraction": 0.544,
+      "size_fraction": 0.041666666666666664,
+      "tracking_fraction": 0.009166666666666667
+    },
+    {
+      "language": "zh-CN",
+      "text": "19:30",
+      "role": "derived schedule: start time",
+      "x_fraction": 0.4625,
+      "top_fraction": 0.599,
+      "size_fraction": 0.03916666666666667,
+      "tracking_fraction": 0.01125
+    },
+    {
+      "language": "zh-CN",
+      "text": "CONCERT",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.5833333333333334,
+      "top_fraction": 0.6533333333333333,
+      "size_fraction": 0.037083333333333336,
+      "tracking_fraction": 0.00875
+    },
+    {
+      "language": "en",
+      "text": "SYMPHONY",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.425,
+      "top_fraction": 0.21,
+      "size_fraction": 0.03791666666666667,
+      "tracking_fraction": 0.0075
+    },
+    {
+      "language": "en",
+      "text": "OF",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.26666666666666666,
+      "top_fraction": 0.2683333333333333,
+      "size_fraction": 0.04083333333333333,
+      "tracking_fraction": 0.012916666666666667
+    },
+    {
+      "language": "en",
+      "text": "LIGHT",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.32916666666666666,
+      "top_fraction": 0.32566666666666666,
+      "size_fraction": 0.04,
+      "tracking_fraction": 0.010833333333333334
+    },
+    {
+      "language": "en",
+      "text": "2027",
+      "role": "derived schedule: year",
+      "x_fraction": 0.5041666666666667,
+      "top_fraction": 0.37933333333333336,
+      "size_fraction": 0.042083333333333334,
+      "tracking_fraction": 0.012916666666666667
+    },
+    {
+      "language": "en",
+      "text": "FILM",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.42916666666666664,
+      "top_fraction": 0.43333333333333335,
+      "size_fraction": 0.04,
+      "tracking_fraction": 0.0125
+    },
+    {
+      "language": "en",
+      "text": "SCORE",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.5958333333333333,
+      "top_fraction": 0.4866666666666667,
+      "size_fraction": 0.03875,
+      "tracking_fraction": 0.010416666666666666
+    },
+    {
+      "language": "en",
+      "text": "04 / 10",
+      "role": "derived schedule: month/day",
+      "x_fraction": 0.39166666666666666,
+      "top_fraction": 0.544,
+      "size_fraction": 0.041666666666666664,
+      "tracking_fraction": 0.009166666666666667
+    },
+    {
+      "language": "en",
+      "text": "19:30",
+      "role": "derived schedule: start time",
+      "x_fraction": 0.4625,
+      "top_fraction": 0.599,
+      "size_fraction": 0.03916666666666667,
+      "tracking_fraction": 0.01125
+    },
+    {
+      "language": "en",
+      "text": "CONCERT",
+      "role": "spaced complete English word; formal title preserved below",
+      "x_fraction": 0.5833333333333334,
+      "top_fraction": 0.6533333333333333,
+      "size_fraction": 0.037083333333333336,
+      "tracking_fraction": 0.00875
+    }
+  ],
+  "export_dimensions": [
+    2400,
+    3000
+  ],
+  "native_background_dimensions": [
+    1122,
+    1402
+  ]
+}

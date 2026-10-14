@@ -1,0 +1,243 @@
+{
+  "exact_originals_confirmed": 0,
+  "records": [
+    {
+      "case": "演出-053",
+      "role": "title",
+      "observed": "流光之海：细宋／明朝风格，横细竖粗与三角衬线；具体字体未知",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-serif-cn"
+      ],
+      "candidate_font_ids": [
+        "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+        "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+        "source-han-serif-cn/SourceHanSerifCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P609.jpg"
+    },
+    {
+      "case": "演出-053",
+      "role": "subtitle",
+      "observed": "中部Latin：斜体衬线与宽字距，逐字散置",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P609.jpg"
+    },
+    {
+      "case": "演出-053",
+      "role": "body",
+      "observed": "正文与演出者：宋体／衬线，常规字重；英文底部品牌为独立标志",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-serif-cn",
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+        "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+        "source-han-serif-cn/SourceHanSerifCN-Regular.otf",
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P609.jpg"
+    },
+    {
+      "case": "演出-053",
+      "role": "numeric",
+      "observed": "日期：衬线数字，间隔与字重轻",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P609.jpg"
+    },
+    {
+      "case": "演出-065",
+      "role": "title",
+      "observed": "山海·大观：稳健粗黑体竖排，清晰直线骨架",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-sans-cn"
+      ],
+      "candidate_font_ids": [
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P630.jpg"
+    },
+    {
+      "case": "演出-065",
+      "role": "subtitle",
+      "observed": "东方融合音乐会与AMS&DaGuan：无衬线，大小与方向有分工",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-sans-cn",
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf",
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P630.jpg"
+    },
+    {
+      "case": "演出-065",
+      "role": "body",
+      "observed": "嘉宾／地点／英文说明：常规无衬线，小字功能区",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-sans-cn",
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf",
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P630.jpg"
+    },
+    {
+      "case": "演出-065",
+      "role": "numeric",
+      "observed": "场次与时间：常规无衬线数字，多组时间按活动区分",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P630.jpg"
+    },
+    {
+      "case": "演出-109",
+      "role": "title",
+      "observed": "颜真卿：书写性中文题名，笔画与组合可能定制",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "custom-lettering-unconfirmed",
+      "candidate_families": [
+        "ma-shan-zheng"
+      ],
+      "candidate_font_ids": [
+        "ma-shan-zheng/MaShanZheng-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P83.jpg"
+    },
+    {
+      "case": "演出-109",
+      "role": "subtitle",
+      "observed": "英文人名与演出形式：高对比衬线、紧密行组",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P83.jpg"
+    },
+    {
+      "case": "演出-109",
+      "role": "body",
+      "observed": "演职与地点票务：中文宋体、小字；部分像素不足",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-serif-cn"
+      ],
+      "candidate_font_ids": [
+        "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+        "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+        "source-han-serif-cn/SourceHanSerifCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P83.jpg"
+    },
+    {
+      "case": "演出-109",
+      "role": "numeric",
+      "observed": "场次：高对比衬线数字，与年月分层",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P83.jpg"
+    }
+  ]
+}
