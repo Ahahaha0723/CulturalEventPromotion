@@ -1,0 +1,299 @@
+{
+  "packages": [
+    {
+      "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/brand-pop-up-poster-zh",
+      "template_id": "brand-pop-up/zh-CN",
+      "original_manifest": {
+        "README_合并与验证.md": "305115ef6004779417d8a410cab67c13bb748a08dd6e05b6487d3a61ef6b9f09",
+        "SKILL.md": "b5249990a88fd4906e5e273aa8c0fa66e7acc90f5f5e8a487e3153f18c7264fc",
+        "fonts/chillround/ChillRoundF.ttf": "ebeb471ae9778a26012a18136f8a9ae99450832cd8bb259265684720d60839f0",
+        "fonts/chillround/OFL-LICENSE.txt": "d45891f8adfd21368c98e803603df1f575ff3fc4a6ec713ba7ccf0e3cba15b28",
+        "fonts/nunito/Nunito-Bold.ttf": "ad443e47990c5fc4b263693b3018b7807868263b8c42ccb1115e030158931960",
+        "fonts/nunito/Nunito-Regular.ttf": "b0885056b60511b29aa9f69198055fe3bad13e76ec8a9b9e37cd61da7b4ee1e5",
+        "fonts/nunito/OFL-LICENSE.txt": "66db16f4d402431d22c354c3e7c740ab550f1ba1ef7cd7b70ff2ba13829734a2",
+        "fonts/source-han-sans/OFL-LICENSE.txt": "fcac737e761ec63dbfbdce11030a1780161920d80315edba9c8beff1c2bac5a2",
+        "fonts/source-han-sans/SourceHanSansSC-Bold.otf": "df2b90f5bcc6d01dfc964cec5f6d535d6b6aebd26ed7fd79a9c1b3f2112fcb6b",
+        "fonts/source-han-sans/SourceHanSansSC-Heavy.otf": "6374b11bc4c2cd4bd7be1a1d64cf5047906c8a6a025c64e023c6792e50ba985e",
+        "fonts/source-han-sans/SourceHanSansSC-Regular.otf": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256",
+        "fonts/xiaolai/Kosefont-JP.ttf": "4a115d6a55a7c330a04239de57f703a65fe630c4edc559deb62111ef85be72af",
+        "fonts/xiaolai/OFL-LICENSE.txt": "0df7e09be4c2c850a48bd8beb9cd64b343aad49cd5d3f6cfb2ad2e3d28a56ca4",
+        "references/brand-pop-up-qa.md": "faaf5fbf30f32f54ba4f6a82e82d97be6c242a7ed5d96e1ee1ed9ad1c822168c",
+        "references/brand-pop-up-typography.md": "99764d56a93b52c3406eb87cc9786d47e9f592da23a2028a89e5cf6aff428c4f",
+        "references/brand-pop-up.md": "b14c7978da0b8996b27104f083c24ba752a52e0f72075eae3ca5dea361d06f90",
+        "references/font-manifest.json": "911b8aed3ab5dfe4b1d38e619d2df827018730a3e96b6db95c49f8c013fd7f8c"
+      }
+    },
+    {
+      "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/brand-pop-up-poster-en",
+      "template_id": "brand-pop-up/en",
+      "original_manifest": {
+        "README_合并与验证.md": "305115ef6004779417d8a410cab67c13bb748a08dd6e05b6487d3a61ef6b9f09",
+        "SKILL.md": "9036eabd4d13e287332c55b7b3c8a18612005a2a7c390b099e8036cdd06591ee",
+        "fonts/chillround/ChillRoundF.ttf": "ebeb471ae9778a26012a18136f8a9ae99450832cd8bb259265684720d60839f0",
+        "fonts/chillround/OFL-LICENSE.txt": "d45891f8adfd21368c98e803603df1f575ff3fc4a6ec713ba7ccf0e3cba15b28",
+        "fonts/nunito/Nunito-Bold.ttf": "ad443e47990c5fc4b263693b3018b7807868263b8c42ccb1115e030158931960",
+        "fonts/nunito/Nunito-Regular.ttf": "b0885056b60511b29aa9f69198055fe3bad13e76ec8a9b9e37cd61da7b4ee1e5",
+        "fonts/nunito/OFL-LICENSE.txt": "66db16f4d402431d22c354c3e7c740ab550f1ba1ef7cd7b70ff2ba13829734a2",
+        "fonts/source-han-sans/OFL-LICENSE.txt": "fcac737e761ec63dbfbdce11030a1780161920d80315edba9c8beff1c2bac5a2",
+        "fonts/source-han-sans/SourceHanSansSC-Bold.otf": "df2b90f5bcc6d01dfc964cec5f6d535d6b6aebd26ed7fd79a9c1b3f2112fcb6b",
+        "fonts/source-han-sans/SourceHanSansSC-Heavy.otf": "6374b11bc4c2cd4bd7be1a1d64cf5047906c8a6a025c64e023c6792e50ba985e",
+        "fonts/source-han-sans/SourceHanSansSC-Regular.otf": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256",
+        "fonts/xiaolai/Kosefont-JP.ttf": "4a115d6a55a7c330a04239de57f703a65fe630c4edc559deb62111ef85be72af",
+        "fonts/xiaolai/OFL-LICENSE.txt": "0df7e09be4c2c850a48bd8beb9cd64b343aad49cd5d3f6cfb2ad2e3d28a56ca4",
+        "references/brand-pop-up-qa.md": "faaf5fbf30f32f54ba4f6a82e82d97be6c242a7ed5d96e1ee1ed9ad1c822168c",
+        "references/brand-pop-up-typography.md": "99764d56a93b52c3406eb87cc9786d47e9f592da23a2028a89e5cf6aff428c4f",
+        "references/brand-pop-up.md": "b14c7978da0b8996b27104f083c24ba752a52e0f72075eae3ca5dea361d06f90",
+        "references/font-manifest.json": "0c50b5a956dea7b9fac292786ad3edba324b9cdec80224f74a821053cc3a0d74"
+      }
+    },
+    {
+      "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/red-theme-poster-zh",
+      "template_id": "red-theme-exhibition/zh-CN",
+      "original_manifest": {
+        "README_合并与验证.md": "e8d59e5ffda76442a8de58f10ea142adf4140e849106f616b04296f8b9d2bc49",
+        "SKILL.md": "775d90e7573e8392785bb9a2e1da5e903d33093347a115a21a606e13bcec2b5e",
+        "references/LXGW-WenKai-OFL.txt": "048c529fe34ee36bcb5275ca042a705a8c587cb38c826da92736b48b79fb93c8",
+        "references/font-manifest.json": "8cdf7e0a311f1cb70984cbce6d4f30d395cd8c80add0e68c8eebbeb6caf48086",
+        "references/red-theme-exhibition.md": "abe6ec7e50b2fbbc5ed74eb41ce286488d83c9dc2a7baede8260a1f65a4deab1",
+        "references/red-theme-qa.md": "89ffa88ca240b8fc409731ea07ae048ca8c1de805ef8c3744a37a923c4c71883",
+        "references/red-theme-typography.md": "852904b6c3e1de8c4cf1e668479f3567161b476b35783c3bc4601efbac0b5318",
+        "scripts/check_fonts.py": "4a28ad2fc4d2b82744883167ae24e8f148205625b491cdc855cfc1b0bde3e1b2",
+        "scripts/install_local_fonts.py": "95e77d2724a8f44bc719d54472f6934cf4ec965fb5c8c9358aaf68d63ad5225c",
+        "scripts/render_font_sample.py": "50123e12c775a4bee757d7770029d4d5caadf8121f66f50401c7033779ea6877",
+        "如何部署字体.md": "e5c2770a941b29029d340317293b883acd804023160c0e6a2cd0f5c73e45b764"
+      }
+    },
+    {
+      "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/red-theme-poster-en",
+      "template_id": "red-theme-exhibition/en",
+      "original_manifest": {
+        "README_合并与验证.md": "e8d59e5ffda76442a8de58f10ea142adf4140e849106f616b04296f8b9d2bc49",
+        "SKILL.md": "2837bf3d89d097967e77b577f5a317e383dd812f04f82fcc6605932884e23e14",
+        "references/LXGW-WenKai-OFL.txt": "048c529fe34ee36bcb5275ca042a705a8c587cb38c826da92736b48b79fb93c8",
+        "references/font-manifest.json": "8cdf7e0a311f1cb70984cbce6d4f30d395cd8c80add0e68c8eebbeb6caf48086",
+        "references/red-theme-exhibition.md": "abe6ec7e50b2fbbc5ed74eb41ce286488d83c9dc2a7baede8260a1f65a4deab1",
+        "references/red-theme-qa.md": "89ffa88ca240b8fc409731ea07ae048ca8c1de805ef8c3744a37a923c4c71883",
+        "references/red-theme-typography.md": "852904b6c3e1de8c4cf1e668479f3567161b476b35783c3bc4601efbac0b5318",
+        "scripts/check_fonts.py": "4a28ad2fc4d2b82744883167ae24e8f148205625b491cdc855cfc1b0bde3e1b2",
+        "scripts/install_local_fonts.py": "95e77d2724a8f44bc719d54472f6934cf4ec965fb5c8c9358aaf68d63ad5225c",
+        "scripts/render_font_sample.py": "50123e12c775a4bee757d7770029d4d5caadf8121f66f50401c7033779ea6877",
+        "如何部署字体.md": "e5c2770a941b29029d340317293b883acd804023160c0e6a2cd0f5c73e45b764"
+      }
+    },
+    {
+      "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/heritage-creative-book-poster-zh",
+      "template_id": "heritage-market/zh-CN",
+      "original_manifest": {
+        "README_合并说明.md": "4e5cea590617e366400b0e2ada1177717841e2eecead731b4b66606672afdbc4",
+        "SKILL.md": "388e84bfc743ca57fc97370ca403d4ecfb3cedc8abceaf598087b4dce6ab4c3f",
+        "fonts/lxgw-wenkai/LICENSE_SOURCE.txt": "42e0fe8cf6bc329a3d09d07312dffe14292629ea222ca73cc9591e561289f5e9",
+        "fonts/lxgw-wenkai/LXGWWenKai-Regular.ttf": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009",
+        "fonts/nunito/LICENSE.txt": "66db16f4d402431d22c354c3e7c740ab550f1ba1ef7cd7b70ff2ba13829734a2",
+        "fonts/nunito/Nunito-Bold.ttf": "ad443e47990c5fc4b263693b3018b7807868263b8c42ccb1115e030158931960",
+        "fonts/nunito/Nunito-Regular.ttf": "b0885056b60511b29aa9f69198055fe3bad13e76ec8a9b9e37cd61da7b4ee1e5",
+        "fonts/source-han-sans/LICENSE.txt": "fcac737e761ec63dbfbdce11030a1780161920d80315edba9c8beff1c2bac5a2",
+        "fonts/source-han-sans/SourceHanSansSC-Bold.otf": "df2b90f5bcc6d01dfc964cec5f6d535d6b6aebd26ed7fd79a9c1b3f2112fcb6b",
+        "fonts/source-han-sans/SourceHanSansSC-Regular.otf": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256",
+        "fonts/source-han-serif/LICENSE.txt": "9ff5bb567e1b92c801fc1069e5fbf992ff8efccacb9db94e5959a5b3ba9bb903",
+        "fonts/source-han-serif/SourceHanSerifSC-Bold.otf": "706b8c0de2deff6cbc0c87e2cdedfd33a78b7ffd76cebb4549012f197ba611fe",
+        "fonts/source-han-serif/SourceHanSerifSC-Regular.otf": "78aa7a328fd974df2d688c8a9fd74a33d8334dfa84ab24d9d11efb2ffc464117",
+        "fonts/zhuque-fangsong/LICENSE_SOURCE.txt": "b62a169d82a16274d2d0905ddab581432a6f2da5547478f9cc6b8ce656f1d7c0",
+        "fonts/zhuque-fangsong/ZhuqueFangsong-Regular.ttf": "558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4",
+        "references/font-manifest.json": "0657fa6a8186f964a2028213675d7a996b1c20cc8b542e12c84f65e8b4796b9f",
+        "references/heritage-book-qa.md": "bca7c9f314a462b2ad0499fcf8c0f5005aeaa661d31f780c790dd6164e509cf1",
+        "references/heritage-book-typography.md": "f0eda9f0298f1acd94b328489b8aabc8e2138c87f69170108d450f966f50fc28",
+        "references/heritage-creative-book.md": "ecf6befe5691d02a16fff8b443e50cb9b210e36e035f3967cb710a8d270c7936",
+        "references/heritage-subtype-router.md": "5579e8e1511b2cb7bc252c93e69b3c2f4c9db98a00ec38e6598840cf387824b1",
+        "references/workflow-and-gates.md": "951a330ca645d83bb3d3d1921079136f0fab4c58eaa787b8702bc1e3f8062b4b",
+        "scripts/check_assets.py": "4fd4ab66a48e5061e3b145186687c3766c094d63f2a2104ba717d5e0075b3086",
+        "scripts/render_font_sample.py": "a61cfb29b412faf21c618b7ea188bef0904a9b4d1d8b83d4f3fe10a3edfc7da9"
+      }
+    },
+    {
+      "input": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/heritage-creative-book-poster-en",
+      "template_id": "heritage-market/en",
+      "original_manifest": {
+        "README_合并说明.md": "2405d8b46ce9f2a5c70b6c5a6c6a47c2ef97d7aac097abfbaf75b18e847cd125",
+        "SKILL.md": "15a6c45a96e4667fd7b61ed8f3a866f4f945ced401508ace2271f743166a2429",
+        "fonts/lxgw-wenkai/LICENSE_SOURCE.txt": "42e0fe8cf6bc329a3d09d07312dffe14292629ea222ca73cc9591e561289f5e9",
+        "fonts/lxgw-wenkai/LXGWWenKai-Regular.ttf": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009",
+        "fonts/nunito/LICENSE.txt": "66db16f4d402431d22c354c3e7c740ab550f1ba1ef7cd7b70ff2ba13829734a2",
+        "fonts/nunito/Nunito-Bold.ttf": "ad443e47990c5fc4b263693b3018b7807868263b8c42ccb1115e030158931960",
+        "fonts/nunito/Nunito-Regular.ttf": "b0885056b60511b29aa9f69198055fe3bad13e76ec8a9b9e37cd61da7b4ee1e5",
+        "fonts/source-han-sans/LICENSE.txt": "fcac737e761ec63dbfbdce11030a1780161920d80315edba9c8beff1c2bac5a2",
+        "fonts/source-han-sans/SourceHanSansSC-Bold.otf": "df2b90f5bcc6d01dfc964cec5f6d535d6b6aebd26ed7fd79a9c1b3f2112fcb6b",
+        "fonts/source-han-sans/SourceHanSansSC-Regular.otf": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256",
+        "fonts/source-han-serif/LICENSE.txt": "9ff5bb567e1b92c801fc1069e5fbf992ff8efccacb9db94e5959a5b3ba9bb903",
+        "fonts/source-han-serif/SourceHanSerifSC-Bold.otf": "706b8c0de2deff6cbc0c87e2cdedfd33a78b7ffd76cebb4549012f197ba611fe",
+        "fonts/source-han-serif/SourceHanSerifSC-Regular.otf": "78aa7a328fd974df2d688c8a9fd74a33d8334dfa84ab24d9d11efb2ffc464117",
+        "fonts/zhuque-fangsong/LICENSE_SOURCE.txt": "b62a169d82a16274d2d0905ddab581432a6f2da5547478f9cc6b8ce656f1d7c0",
+        "fonts/zhuque-fangsong/ZhuqueFangsong-Regular.ttf": "558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4",
+        "references/font-manifest.json": "0657fa6a8186f964a2028213675d7a996b1c20cc8b542e12c84f65e8b4796b9f",
+        "references/heritage-book-qa.md": "bca7c9f314a462b2ad0499fcf8c0f5005aeaa661d31f780c790dd6164e509cf1",
+        "references/heritage-book-typography.md": "f0eda9f0298f1acd94b328489b8aabc8e2138c87f69170108d450f966f50fc28",
+        "references/heritage-creative-book.md": "ecf6befe5691d02a16fff8b443e50cb9b210e36e035f3967cb710a8d270c7936",
+        "references/heritage-subtype-router.md": "5579e8e1511b2cb7bc252c93e69b3c2f4c9db98a00ec38e6598840cf387824b1",
+        "references/workflow-and-gates.md": "951a330ca645d83bb3d3d1921079136f0fab4c58eaa787b8702bc1e3f8062b4b",
+        "scripts/check_assets.py": "4fd4ab66a48e5061e3b145186687c3766c094d63f2a2104ba717d5e0075b3086",
+        "scripts/render_font_sample.py": "a61cfb29b412faf21c618b7ea188bef0904a9b4d1d8b83d4f3fe10a3edfc7da9"
+      }
+    }
+  ],
+  "official_resources": [
+    {
+      "file": "MaShanZheng-Regular.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/mashanzheng/MaShanZheng-Regular.ttf",
+      "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+      "bytes": 5857936,
+      "member_hash_matched": false,
+      "original_expected_sha256": "016752d5574878419a95d6e89304613a7bf8b44199ec0f25308d999dfd75c7de"
+    },
+    {
+      "file": "MaShanZheng-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/mashanzheng/OFL.txt",
+      "sha256": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08",
+      "bytes": 4397,
+      "member_hash_matched": null,
+      "original_expected_sha256": null
+    },
+    {
+      "file": "ZhiMangXing-Regular.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/zhimangxing/ZhiMangXing-Regular.ttf",
+      "sha256": "644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969",
+      "bytes": 4063532,
+      "member_hash_matched": false,
+      "original_expected_sha256": "b4ca573ec88909424f38a96dc402c61950f6987c57e92bbe88cf4c1360625d2f"
+    },
+    {
+      "file": "ZhiMangXing-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/zhimangxing/OFL.txt",
+      "sha256": "10947328199e369a3e6b4a67e8e5507ed99d5bbb264a1f156415aa9b665e4d15",
+      "bytes": 4397,
+      "member_hash_matched": null,
+      "original_expected_sha256": null
+    },
+    {
+      "file": "LXGWWenKai-OFL.txt",
+      "source": "https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/OFL.txt",
+      "sha256": "1a25e35da1031c6c3436fde545bb9cb5aca954e9873afe510c834b8b79bd21a0",
+      "bytes": 5171,
+      "member_hash_matched": null,
+      "original_expected_sha256": null
+    },
+    {
+      "file": "ZhuqueFangsong-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/TrionesType/zhuque/main/LICENSE.txt",
+      "sha256": "66cc01ad4df62fca6936431a426104cb32a52ce8da49de9a7d643e02d7659043",
+      "bytes": 4389,
+      "member_hash_matched": null,
+      "original_expected_sha256": null
+    }
+  ],
+  "unavailable_fonts": {
+    "files": [],
+    "status": "resolved",
+    "resolved_on": "2026-10-12",
+    "user_choice": "用户补交原字体，要求接入并绑定提示计划与排版路径。"
+  },
+  "shared_resources": {
+    "chillround/ChillRoundF.ttf": "ebeb471ae9778a26012a18136f8a9ae99450832cd8bb259265684720d60839f0",
+    "chillround/OFL-LICENSE.txt": "d45891f8adfd21368c98e803603df1f575ff3fc4a6ec713ba7ccf0e3cba15b28",
+    "lxgw-wenkai/LICENSE_SOURCE.txt": "42e0fe8cf6bc329a3d09d07312dffe14292629ea222ca73cc9591e561289f5e9",
+    "lxgw-wenkai/LXGWWenKai-Regular.ttf": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009",
+    "lxgw-wenkai/OFL.txt": "1a25e35da1031c6c3436fde545bb9cb5aca954e9873afe510c834b8b79bd21a0",
+    "ma-shan-zheng/MaShanZheng-Regular.ttf": "016752d5574878419a95d6e89304613a7bf8b44199ec0f25308d999dfd75c7de",
+    "ma-shan-zheng/OFL-LICENSE.txt": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08",
+    "ma-shan-zheng/OFL.txt": "dfea3d8e56e07329539b37f988cf509e9d0fe7cbd09eb799e19cc7d2e044e114",
+    "nunito/LICENSE.txt": "66db16f4d402431d22c354c3e7c740ab550f1ba1ef7cd7b70ff2ba13829734a2",
+    "nunito/Nunito-Bold.ttf": "ad443e47990c5fc4b263693b3018b7807868263b8c42ccb1115e030158931960",
+    "nunito/Nunito-Regular.ttf": "b0885056b60511b29aa9f69198055fe3bad13e76ec8a9b9e37cd61da7b4ee1e5",
+    "nunito/OFL-LICENSE.txt": "66db16f4d402431d22c354c3e7c740ab550f1ba1ef7cd7b70ff2ba13829734a2",
+    "source-han-sans/LICENSE.txt": "fcac737e761ec63dbfbdce11030a1780161920d80315edba9c8beff1c2bac5a2",
+    "source-han-sans/OFL-LICENSE.txt": "fcac737e761ec63dbfbdce11030a1780161920d80315edba9c8beff1c2bac5a2",
+    "source-han-sans/SourceHanSansSC-Bold.otf": "df2b90f5bcc6d01dfc964cec5f6d535d6b6aebd26ed7fd79a9c1b3f2112fcb6b",
+    "source-han-sans/SourceHanSansSC-Heavy.otf": "6374b11bc4c2cd4bd7be1a1d64cf5047906c8a6a025c64e023c6792e50ba985e",
+    "source-han-sans/SourceHanSansSC-Regular.otf": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256",
+    "source-han-serif/LICENSE.txt": "9ff5bb567e1b92c801fc1069e5fbf992ff8efccacb9db94e5959a5b3ba9bb903",
+    "source-han-serif/SourceHanSerifSC-Bold.otf": "706b8c0de2deff6cbc0c87e2cdedfd33a78b7ffd76cebb4549012f197ba611fe",
+    "source-han-serif/SourceHanSerifSC-Regular.otf": "78aa7a328fd974df2d688c8a9fd74a33d8334dfa84ab24d9d11efb2ffc464117",
+    "xiaolai/Kosefont-JP.ttf": "4a115d6a55a7c330a04239de57f703a65fe630c4edc559deb62111ef85be72af",
+    "xiaolai/OFL-LICENSE.txt": "0df7e09be4c2c850a48bd8beb9cd64b343aad49cd5d3f6cfb2ad2e3d28a56ca4",
+    "zhi-mang-xing/OFL-LICENSE.txt": "10947328199e369a3e6b4a67e8e5507ed99d5bbb264a1f156415aa9b665e4d15",
+    "zhi-mang-xing/OFL.txt": "986368a957fb202365f0edf7f8932fda5ef440a8c6dabf1000bef8d18b05b46c",
+    "zhi-mang-xing/ZhiMangXing-Regular.ttf": "b4ca573ec88909424f38a96dc402c61950f6987c57e92bbe88cf4c1360625d2f",
+    "zhuque-fangsong/LICENSE.txt": "66cc01ad4df62fca6936431a426104cb32a52ce8da49de9a7d643e02d7659043",
+    "zhuque-fangsong/LICENSE_SOURCE.txt": "b62a169d82a16274d2d0905ddab581432a6f2da5547478f9cc6b8ce656f1d7c0",
+    "zhuque-fangsong/ZhuqueFangsong-Regular.ttf": "558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4"
+  },
+  "font_availability_history": [
+    {
+      "files": [
+        "ZhiMangXing-Regular.ttf",
+        "MaShanZheng-Regular.ttf"
+      ],
+      "status": "unavailable",
+      "user_choice": "两份不匹配字体先标记不可用，其余正常接入",
+      "candidate_fonts_not_copied": true
+    }
+  ],
+  "user_supplied_font_supplement": {
+    "ma-shan-zheng": {
+      "source_file": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing/Ma_Shan_Zheng/MaShanZheng-Regular.ttf",
+      "source_license_file": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing/Ma_Shan_Zheng/OFL.txt",
+      "sha256": "016752d5574878419a95d6e89304613a7bf8b44199ec0f25308d999dfd75c7de",
+      "license_sha256": "dfea3d8e56e07329539b37f988cf509e9d0fe7cbd09eb799e19cc7d2e044e114",
+      "bytes": 5857936,
+      "glyphs": 7017,
+      "unicode_characters": 7015,
+      "internal_names": {
+        "1": [
+          "Ma Shan Zheng"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "4": [
+          "Ma Shan Zheng Regular"
+        ],
+        "5": [
+          "Version 2.003"
+        ],
+        "6": [
+          "MaShanZheng-Regular"
+        ]
+      },
+      "member_hash_matched": true,
+      "file": "assets/fonts/member-modules/ma-shan-zheng/MaShanZheng-Regular.ttf",
+      "license_file": "assets/fonts/member-modules/ma-shan-zheng/OFL.txt"
+    },
+    "zhi-mang-xing": {
+      "source_file": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing/Zhi_Mang_Xing/ZhiMangXing-Regular.ttf",
+      "source_license_file": "/Users/cici/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_syfr874dm9fn22_b982/msg/file/2026-10/Ma_Shan_Zheng,Nunito,Zhi_Mang_Xing/Zhi_Mang_Xing/OFL.txt",
+      "sha256": "b4ca573ec88909424f38a96dc402c61950f6987c57e92bbe88cf4c1360625d2f",
+      "license_sha256": "986368a957fb202365f0edf7f8932fda5ef440a8c6dabf1000bef8d18b05b46c",
+      "bytes": 4052388,
+      "glyphs": 7016,
+      "unicode_characters": 7015,
+      "internal_names": {
+        "1": [
+          "Zhi Mang Xing"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "4": [
+          "Zhi Mang Xing Regular"
+        ],
+        "5": [
+          "Version 2.001"
+        ],
+        "6": [
+          "ZhiMangXing-Regular"
+        ]
+      },
+      "member_hash_matched": true,
+      "file": "assets/fonts/member-modules/zhi-mang-xing/ZhiMangXing-Regular.ttf",
+      "license_file": "assets/fonts/member-modules/zhi-mang-xing/OFL.txt"
+    }
+  }
+}
