@@ -1,0 +1,170 @@
+{
+  "canvas": {
+    "width": 2400,
+    "height": 3000,
+    "ratio": "4:5",
+    "background": "#FFFFFF"
+  },
+  "colors": {
+    "title": "#2D2D2D",
+    "general": "#4B4B4B",
+    "small": "#858585"
+  },
+  "fonts": {
+    "Black": [
+      "HarmonyOS_Sans_SC_Black.ttf",
+      900
+    ],
+    "Bold": [
+      "HarmonyOS_Sans_SC_Bold.ttf",
+      700
+    ],
+    "Medium": [
+      "HarmonyOS_Sans_SC_Medium.ttf",
+      500
+    ],
+    "Regular": [
+      "HarmonyOS_Sans_SC_Regular.ttf",
+      400
+    ],
+    "Light": [
+      "HarmonyOS_Sans_SC_Light.ttf",
+      300
+    ],
+    "Thin": [
+      "HarmonyOS_Sans_SC_Thin.ttf",
+      100
+    ]
+  },
+  "mainTitle": {
+    "x": 100,
+    "inkTop": 110,
+    "font": "Bold",
+    "size": 132,
+    "lineHeight": 172,
+    "maxWidth": 1000,
+    "maxLines": 3,
+    "role": "title"
+  },
+  "rightTitle": {
+    "x": 1460,
+    "inkTop": 110,
+    "font": "Bold",
+    "size": 124,
+    "lineHeight": 164,
+    "maxWidth": 840,
+    "maxLines": 3,
+    "role": "title"
+  },
+  "leftSupport": {
+    "x": 100,
+    "inkTop": 530,
+    "font": "Regular",
+    "size": 60,
+    "lineHeight": 88,
+    "maxWidth": 1000,
+    "maxLines": 2,
+    "role": "general"
+  },
+  "leftProcess": {
+    "x": 100,
+    "inkTop": 935,
+    "font": "Medium",
+    "size": 54,
+    "lineHeight": 82,
+    "maxWidth": 1000,
+    "maxLines": 3,
+    "role": "general"
+  },
+  "date": {
+    "x": 1460,
+    "font": "Bold",
+    "size": 120,
+    "maxWidth": 840,
+    "role": "general",
+    "inkTop": 530,
+    "topReference": "left_support-actual-ink"
+  },
+  "time": {
+    "x": 1460,
+    "font": "Medium",
+    "size": 70,
+    "maxWidth": 840,
+    "role": "general",
+    "inkTop": 720,
+    "gapAfterDate": 80
+  },
+  "details": {
+    "x": 1460,
+    "inkTop": 935,
+    "maxWidth": 840,
+    "maxBottom": 2420,
+    "groupGap": 52,
+    "lineGap": 16,
+    "defaultSize": 42,
+    "smallSize": 42,
+    "role": "general",
+    "profiles": {},
+    "uniformSize": 42,
+    "emphasisFont": "Bold",
+    "topReference": "left_process-actual-ink"
+  },
+  "footer": {
+    "x": 100,
+    "firstBaseline": 2650,
+    "lineHeight": 60,
+    "maxWidth": 1160,
+    "maxLines": 5,
+    "size": 38,
+    "font": "Regular",
+    "role": "small",
+    "lockSize": true
+  },
+  "fit": {
+    "minimumScale": 0.8,
+    "recordAdjustments": true
+  },
+  "graphic": {
+    "paletteMode": "mother-text-semantic",
+    "largeShapeCountRange": [
+      1,
+      3
+    ],
+    "dominantColorCountRange": [
+      1,
+      2
+    ],
+    "targetCoverageRange": [
+      0.18,
+      0.35
+    ],
+    "allowBleed": true,
+    "reserveTextRegions": false,
+    "maskPadding": 22,
+    "noFormalTextInArt": true,
+    "overlapPolicy": "actual-glyph-intersection-white",
+    "overlapTextColor": "#FFFFFF",
+    "minimumWhiteContrast": 4.5,
+    "lightOverlapAntialiasAllowance": 0.03,
+    "colorCharacter": "vivid-saturated-theme-colors",
+    "whiteBasePreserved": true,
+    "abstraction": "process-relations-not-literal-objects",
+    "shapeCharacter": "simple-continuous-smooth-curves",
+    "angularCornersAllowed": false,
+    "curveContinuity": "tangent-and-curvature-continuity-at-joins"
+  },
+  "lowerRightParticipation": {
+    "rightReference": "upper-right-column-actual-ink",
+    "fallbackRight": 2300,
+    "bottomReference": "footer-actual-ink",
+    "fallbackBottom": 2900,
+    "maxWidth": 840,
+    "size": 42,
+    "lineHeight": 62,
+    "maxLines": 6,
+    "role": "general",
+    "lockSize": true,
+    "minGap": 80
+  },
+  "fontDirectory": "fonts"
+}

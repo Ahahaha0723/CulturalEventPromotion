@@ -1,0 +1,25 @@
+{
+  "sourceType": "fictional-workshop-test",
+  "dominantTheme": "植物蓝晒与曝光成像",
+  "evidence": [
+    {
+      "field": "subtitle",
+      "value": "植物蓝晒创作工作坊",
+      "effect": "选择与蓝晒成像相关的饱和电光蓝作为图形主色"
+    },
+    {
+      "field": "description",
+      "value": "排列、曝光、水洗、叶片轮廓",
+      "effect": "曝光色带与偏心曝光负形交织，表达植物留影"
+    }
+  ],
+  "palette": {
+    "primary": "#304FFE",
+    "secondary": null,
+    "reason": "蓝晒成像支持饱和电光蓝，保留白底；单色连续弧带足够鲜明，交叠处支持清晰白字"
+  },
+  "abstractMechanism": "曝光与水洗转译为一条宽窄稳定的连续回环弧带，靠不对称曲率和大面积圆润负形形成艺术感；不画完整叶片，不加折角、楔形碎片或尖锐切口",
+  "focalRegion": "middle-and-lower-canvas",
+  "textSafety": "允许图形穿过文字；仅深色图形实际重合字形为#FFFFFF，未重合保持原灰色；白字对比至少4.5:1，负形不反白",
+  "status": "concept-only; choose actual graph for each new source"
+}

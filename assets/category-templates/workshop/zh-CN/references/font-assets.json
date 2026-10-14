@@ -1,0 +1,42 @@
+{
+  "fontDirectory": "fonts",
+  "family": "HarmonyOS Sans SC",
+  "fonts": [
+    {
+      "file": "HarmonyOS_Sans_SC_Black.ttf",
+      "weight": 900,
+      "bytes": 8125608,
+      "sha256": "5de9560908e88820df2e0a5ed9465bc44644ae2ce1cd6c194b76f2ed8e8f186e"
+    },
+    {
+      "file": "HarmonyOS_Sans_SC_Bold.ttf",
+      "weight": 700,
+      "bytes": 8158996,
+      "sha256": "43a424b85e47fb53a17b3b32026a71801f86f8e022ca6798d186b47d39fa5f01"
+    },
+    {
+      "file": "HarmonyOS_Sans_SC_Medium.ttf",
+      "weight": 500,
+      "bytes": 8227312,
+      "sha256": "6ed1553edccddc48eb27ff25d134a4a715cf54211238d4840b3038576cba1944"
+    },
+    {
+      "file": "HarmonyOS_Sans_SC_Regular.ttf",
+      "weight": 400,
+      "bytes": 8261128,
+      "sha256": "297b088424be212207df2ce8b98e335468b782aa6b96832af0b8b773d711e2b1"
+    },
+    {
+      "file": "HarmonyOS_Sans_SC_Light.ttf",
+      "weight": 300,
+      "bytes": 8336364,
+      "sha256": "dd366290b40861bc6ced85801e850ab66d6fe4c5b33bc43095a9747fa29288d8"
+    },
+    {
+      "file": "HarmonyOS_Sans_SC_Thin.ttf",
+      "weight": 100,
+      "bytes": 8408996,
+      "sha256": "a88d9065dc144bf462e6553e308e9d5256bfe1a068abb47a3ee1081d636ea91a"
+    }
+  ]
+}

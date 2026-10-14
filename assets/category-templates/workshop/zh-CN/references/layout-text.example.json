@@ -1,0 +1,125 @@
+{
+  "main_title_lines": [
+    "把光",
+    "印下来"
+  ],
+  "right_title_lines": [
+    "植物蓝晒",
+    "创作工作坊"
+  ],
+  "left_support_lines": [
+    "用一片叶子，",
+    "留住阳光的形状"
+  ],
+  "left_process_lines": [
+    "了解材料 → 观察构图",
+    "曝光水洗 → 作品交流"
+  ],
+  "date": "2026.11.28",
+  "time": "周六 14:00—16:30",
+  "detail_groups": [
+    {
+      "id": "venue",
+      "lines": [
+        {
+          "text": "拾光创作空间",
+          "size": 42,
+          "font": "Bold",
+          "role": "general",
+          "emphasis": true
+        },
+        {
+          "text": "二楼实验工坊",
+          "size": 42,
+          "font": "Regular",
+          "role": "general",
+          "emphasis": false
+        },
+        {
+          "text": "青禾市云川区织厂路32号",
+          "size": 42,
+          "font": "Regular",
+          "role": "small",
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "id": "tutor",
+      "lines": [
+        {
+          "text": "导师 林芷",
+          "size": 42,
+          "font": "Bold",
+          "role": "general",
+          "emphasis": true
+        },
+        {
+          "text": "独立影像创作者 植物蓝晒工作坊导师",
+          "size": 42,
+          "font": "Regular",
+          "role": "small",
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "id": "booking",
+      "lines": [
+        {
+          "text": "报名截止 11月25日18:00",
+          "size": 42,
+          "font": "Bold",
+          "role": "general",
+          "emphasis": true
+        },
+        {
+          "text": "额满提前截止；不接受现场直接加入",
+          "size": 42,
+          "font": "Regular",
+          "role": "general",
+          "emphasis": false
+        },
+        {
+          "text": "收到确认通知并完成付款后，报名成功",
+          "size": 42,
+          "font": "Regular",
+          "role": "general",
+          "emphasis": false
+        },
+        {
+          "text": "报名入口与二维码待提供",
+          "size": 42,
+          "font": "Regular",
+          "role": "small",
+          "emphasis": false
+        }
+      ]
+    }
+  ],
+  "footer_lines": [
+    "主办 拾光创作空间",
+    "现场提供材料，可自带干燥平整的叶片；",
+    "请提前10分钟到场。",
+    "阴雨天改用室内曝光设备；",
+    "取消报名需提前48小时，逾期可联系转让名额。"
+  ],
+  "lower_right_participation_lines": [
+    {
+      "text": "128元／人  限额16人",
+      "emphasis": true
+    },
+    {
+      "text": "16岁及以上，无需创作基础",
+      "emphasis": false
+    },
+    {
+      "text": "费用含指导、工具与材料",
+      "emphasis": false
+    },
+    {
+      "text": "完成两张A5蓝晒作品，可选一张制作明信片",
+      "emphasis": false
+    }
+  ]
+}
