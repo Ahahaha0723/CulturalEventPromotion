@@ -1,0 +1,249 @@
+{
+  "exact_originals_confirmed": 0,
+  "records": [
+    {
+      "case": "演出-001",
+      "role": "title",
+      "observed": "FEEL主字标：尖刺、金属轮廓、颗粒处理；疑似定制／改造",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "custom-lettering-unconfirmed",
+      "candidate_families": [
+        "archivo-black"
+      ],
+      "candidate_font_ids": [
+        "archivo-black/ArchivoBlack-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P08.jpg"
+    },
+    {
+      "case": "演出-001",
+      "role": "subtitle",
+      "observed": "阵容：粗重中文字与拉丁厚重衬线；可见明显字级与组合",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-serif-cn",
+        "source-han-sans-cn"
+      ],
+      "candidate_font_ids": [
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+        "source-han-serif-cn/SourceHanSerifCN-Bold.otf",
+        "source-han-serif-cn/SourceHanSerifCN-ExtraLight.otf",
+        "source-han-serif-cn/SourceHanSerifCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P08.jpg"
+    },
+    {
+      "case": "演出-001",
+      "role": "body",
+      "observed": "主办／场馆与细节：常规小字，精确家族无法由像素确定",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "source-han-sans-cn",
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf",
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P08.jpg"
+    },
+    {
+      "case": "演出-001",
+      "role": "numeric",
+      "observed": "日期为清晰常规数字；日与星期的字级独立",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P08.jpg"
+    },
+    {
+      "case": "演出-029",
+      "role": "title",
+      "observed": "AHTD：宽重无衬线，A含特殊缺口；可能有图形改造",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "modified-or-font-unconfirmed",
+      "candidate_families": [
+        "archivo-black"
+      ],
+      "candidate_font_ids": [
+        "archivo-black/ArchivoBlack-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P03.jpg"
+    },
+    {
+      "case": "演出-029",
+      "role": "subtitle",
+      "observed": "城市／巡演说明：重斜体与紧窄竖向比例并置",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow",
+        "barlow-condensed"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf",
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P03.jpg"
+    },
+    {
+      "case": "演出-029",
+      "role": "body",
+      "observed": "场馆与说明为细长窄体，局部有描边处理",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow-condensed",
+        "bebas-neue"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf",
+        "bebas-neue/BebasNeue-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P03.jpg"
+    },
+    {
+      "case": "演出-029",
+      "role": "numeric",
+      "observed": "日期／年份为竖向比例明显的窄体数字",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "bebas-neue",
+        "barlow-condensed"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf",
+        "bebas-neue/BebasNeue-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P03.jpg"
+    },
+    {
+      "case": "演出-039",
+      "role": "title",
+      "observed": "黑白森林：高度改造的尖刺中文轮廓、发光描边；非可确认标准字族",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "custom-lettering-unconfirmed",
+      "candidate_families": [
+        "source-han-sans-cn"
+      ],
+      "candidate_font_ids": [
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P57.jpg"
+    },
+    {
+      "case": "演出-039",
+      "role": "subtitle",
+      "observed": "英文补充题名：小型粗无衬线，身份未证实",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P57.jpg"
+    },
+    {
+      "case": "演出-039",
+      "role": "body",
+      "observed": "边缘英文与底部中文：紧密小字／无衬线，部分像素不足",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow",
+        "source-han-sans-cn"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf",
+        "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+        "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+        "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P57.jpg"
+    },
+    {
+      "case": "演出-039",
+      "role": "numeric",
+      "observed": "底部日期时刻：较粗数字；字重与大小用于定位",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P57.jpg"
+    }
+  ]
+}
