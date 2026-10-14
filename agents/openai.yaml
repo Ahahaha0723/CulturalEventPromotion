@@ -1,0 +1,4 @@
+interface:
+  display_name: "文化活动宣传海报"
+  short_description: "资料解析、活动分类、双语海报生成与质量迭代"
+  default_prompt: "使用 $cultural-event-poster 处理我的文化活动宣传海报任务：先盘点资料并建立内容母本，再完成活动分类、策略规划、主视觉生成、正式排版和质量检查。"
