@@ -1,0 +1,2 @@
+霞鹜文楷 LXGW WenKai：请在正式对外分发前附上项目完整 OFL 1.1 许可与版权声明。官方许可文件：https://github.com/lxgw/LxgwWenKai/blob/main/OFL.txt
+当前上传的独立 TTF 未包含许可原文；本文件不能替代正式许可。
