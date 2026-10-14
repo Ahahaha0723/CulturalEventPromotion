@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "category": "anime-game-expo",
+  "version": "",
+  "original_feedback": "",
+  "ai_hypothesis": "",
+  "affected_area": "",
+  "retained_user_conditions": [],
+  "changes": [],
+  "technical_checks": [],
+  "human_visual_review": "pending",
+  "rule_status": "proposed",
+  "transfer_evidence": "not-tested"
+}

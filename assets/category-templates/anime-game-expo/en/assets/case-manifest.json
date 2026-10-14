@@ -1,0 +1,174 @@
+{
+  "source_criteria": {
+    "strict": "至少4人给4—5星，且无人给1—2星；保持原标准",
+    "majority": "未覆盖小类中至少3人给4—5星，且无人给1—2星；每小类选1张；非高共识",
+    "relative": "仍未覆盖小类中均分至少3.6，且无人给1星；每小类选1张；非高共识，保留低评分与分歧",
+    "ranking": "先按档位，再按总分、喜欢人数、低分人数、极差、5星人数及稳定编号；不伪称客观质量评价"
+  },
+  "cases": [
+    {
+      "id": "P692",
+      "displayId": "潮流-014",
+      "main": "潮流类",
+      "sub": "动漫展／漫展",
+      "title": "加拿大_Otakuthon_2026",
+      "tier": "strict",
+      "status": "高共识优秀",
+      "ratings": [
+        4,
+        4,
+        3,
+        4,
+        4
+      ],
+      "mean": 3.8,
+      "highVotes": 4,
+      "lowVotes": 0,
+      "isReference": false,
+      "source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_分类合集\\06_潮流类\\潮流-014_加拿大_Otakuthon_2026.webp",
+      "file": "06_潮流类/01_动漫展／漫展/01_高共识优秀_原标准/潮流-014_加拿大_Otakuthon_2026.webp",
+      "sha256": "75c11fa4335a4c79af8cc5a1bf2d97f64494195d7d2a47addaa93a1f4e54b3ef",
+      "group": "anime-game-expo",
+      "bundle_source_exists": true,
+      "resolved_source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_小类覆盖补全\\06_潮流类\\01_动漫展／漫展\\01_高共识优秀_原标准\\潮流-014_加拿大_Otakuthon_2026.webp",
+      "exists": true,
+      "actual_sha256": "75c11fa4335a4c79af8cc5a1bf2d97f64494195d7d2a47addaa93a1f4e54b3ef",
+      "source_hash_matches": true,
+      "dimensions": [
+        1209,
+        595
+      ],
+      "package_image": "assets/reference-posters/P692.webp"
+    },
+    {
+      "id": "P700",
+      "displayId": "潮流-022",
+      "main": "潮流类",
+      "sub": "动漫展／漫展",
+      "title": "西班牙_MangaBarcelona_2024",
+      "tier": "strict",
+      "status": "高共识优秀",
+      "ratings": [
+        4,
+        4,
+        5,
+        3,
+        4
+      ],
+      "mean": 4.0,
+      "highVotes": 4,
+      "lowVotes": 0,
+      "isReference": false,
+      "source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_分类合集\\06_潮流类\\潮流-022_西班牙_MangaBarcelona_2024.jpg",
+      "file": "06_潮流类/01_动漫展／漫展/01_高共识优秀_原标准/潮流-022_西班牙_MangaBarcelona_2024.jpg",
+      "sha256": "bca562d3b47bfe4d577b114d9edc273ac091656420782b314be00f438423dbdd",
+      "group": "anime-game-expo",
+      "bundle_source_exists": true,
+      "resolved_source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_小类覆盖补全\\06_潮流类\\01_动漫展／漫展\\01_高共识优秀_原标准\\潮流-022_西班牙_MangaBarcelona_2024.jpg",
+      "exists": true,
+      "actual_sha256": "bca562d3b47bfe4d577b114d9edc273ac091656420782b314be00f438423dbdd",
+      "source_hash_matches": true,
+      "dimensions": [
+        854,
+        1200
+      ],
+      "package_image": "assets/reference-posters/P700.jpg"
+    },
+    {
+      "id": "P722",
+      "displayId": "潮流-044",
+      "main": "潮流类",
+      "sub": "游戏展",
+      "title": "法国_ParisGamesWeek_2023",
+      "tier": "majority",
+      "status": "多数喜欢候选",
+      "ratings": [
+        4,
+        5,
+        4,
+        3,
+        3
+      ],
+      "mean": 3.8,
+      "highVotes": 3,
+      "lowVotes": 0,
+      "isReference": false,
+      "source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_分类合集\\06_潮流类\\潮流-044_法国_ParisGamesWeek_2023.jpg",
+      "file": "06_潮流类/02_游戏展/02_多数喜欢候选_非高共识/潮流-044_法国_ParisGamesWeek_2023.jpg",
+      "sha256": "bf93be1b5adb851ef551fc03e785d65ab78390af90b53575682ae6934db4e0e5",
+      "group": "anime-game-expo",
+      "bundle_source_exists": false,
+      "resolved_source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_分类合集\\06_潮流类\\潮流-044_法国_ParisGamesWeek_2023.jpg",
+      "exists": false
+    },
+    {
+      "id": "P705",
+      "displayId": "潮流-052",
+      "main": "潮流类",
+      "sub": "动漫IP主题展／体验",
+      "title": "LOL英雄联盟双城之战_泰国_ArcaneWorld_2024",
+      "tier": "strict",
+      "status": "高共识优秀",
+      "ratings": [
+        4,
+        4,
+        4,
+        3,
+        4
+      ],
+      "mean": 3.8,
+      "highVotes": 4,
+      "lowVotes": 0,
+      "isReference": false,
+      "source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_分类合集\\06_潮流类\\潮流-052_LOL英雄联盟双城之战_泰国_ArcaneWorld_2024.jpg",
+      "file": "06_潮流类/03_动漫IP主题展／体验/01_高共识优秀_原标准/潮流-052_LOL英雄联盟双城之战_泰国_ArcaneWorld_2024.jpg",
+      "sha256": "393cae875fc02f2caa3982ef1430bc5ed1107ea7f50254b843ddf48943509261",
+      "group": "anime-game-expo",
+      "bundle_source_exists": true,
+      "resolved_source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_小类覆盖补全\\06_潮流类\\03_动漫IP主题展／体验\\01_高共识优秀_原标准\\潮流-052_LOL英雄联盟双城之战_泰国_ArcaneWorld_2024.jpg",
+      "exists": true,
+      "actual_sha256": "393cae875fc02f2caa3982ef1430bc5ed1107ea7f50254b843ddf48943509261",
+      "source_hash_matches": true,
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "package_image": "assets/reference-posters/P705.jpg"
+    },
+    {
+      "id": "P96",
+      "displayId": "潮流-053",
+      "main": "潮流类",
+      "sub": "同人／创作者展区",
+      "title": "NYCC · Artist Alley Table F20",
+      "tier": "relative",
+      "status": "较高分参考",
+      "ratings": [
+        4,
+        4,
+        3,
+        2,
+        5
+      ],
+      "mean": 3.6,
+      "highVotes": 3,
+      "lowVotes": 1,
+      "isReference": false,
+      "source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_分类合集\\06_潮流类\\潮流-053_NYCC · Artist Alley Table F20.jpg",
+      "file": "06_潮流类/04_同人／创作者展区/03_较高分参考_非高共识/潮流-053_NYCC · Artist Alley Table F20.jpg",
+      "sha256": "74cbc60c2e8f47e1ddc1799a3dbdabbc57396d230929ff564b2fbadefa2ec655",
+      "group": "anime-game-expo",
+      "bundle_source_exists": true,
+      "resolved_source": "C:\\Users\\lenovo\\Desktop\\文化活动海报_小类覆盖补全\\06_潮流类\\04_同人／创作者展区\\03_较高分参考_非高共识\\潮流-053_NYCC · Artist Alley Table F20.jpg",
+      "exists": true,
+      "actual_sha256": "74cbc60c2e8f47e1ddc1799a3dbdabbc57396d230929ff564b2fbadefa2ec655",
+      "source_hash_matches": true,
+      "dimensions": [
+        900,
+        1189
+      ],
+      "package_image": "assets/reference-posters/P96.jpg"
+    }
+  ],
+  "image_rights": "private reference analysis only; no public redistribution or production reuse license established"
+}

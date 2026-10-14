@@ -1,0 +1,39 @@
+{
+  "case_id": "053",
+  "source_image": "assets/reference-posters/P96.jpg",
+  "source_crop_pixels": [
+    20,
+    885,
+    550,
+    105
+  ],
+  "crop_scope": "selected visual region; not a font identity measurement",
+  "source_ink_height_pixels": 84,
+  "source_letter_height_method": "threshold red pixels for022, white for052/053; antialiasing/texture limits remain",
+  "display_source_ink_height": 88,
+  "candidate_comparison_at_equal_visible_glyph_height": true,
+  "rendered": [
+    {
+      "text": "Table F20",
+      "file": "barlow/Barlow-BoldItalic.ttf",
+      "visible_height": 88,
+      "size": 122.22222222222223,
+      "visible_width": 504.8541259765625
+    },
+    {
+      "text": "Table F20",
+      "file": "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+      "visible_height": 88,
+      "size": 122.22222222222223,
+      "visible_width": 402.0455322265625
+    },
+    {
+      "text": "CHALZEA XU",
+      "file": "spectral/Spectral-Italic.ttf",
+      "visible_height": 88,
+      "size": 129.41176470588235,
+      "visible_width": 822.556884765625
+    }
+  ],
+  "match_status": "reference comparison artifact, not exact-font confirmation"
+}

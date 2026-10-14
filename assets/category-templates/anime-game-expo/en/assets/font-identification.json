@@ -1,0 +1,328 @@
+{
+  "exact_originals_confirmed": 0,
+  "records": [
+    {
+      "case": "潮流-014",
+      "role": "title",
+      "observed": "Broad heavy oblique sans wordmark; special lettering is a brand asset",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "brand-lettering-unconfirmed",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P692.webp"
+    },
+    {
+      "case": "潮流-014",
+      "role": "subtitle",
+      "observed": "French/English subtitle: vertically elongated oblique sans",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow-condensed"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P692.webp"
+    },
+    {
+      "case": "潮流-014",
+      "role": "body",
+      "observed": "Introduction/venue: narrow regular/bold sans; some original copy has low contrast",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow-condensed"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P692.webp"
+    },
+    {
+      "case": "潮流-014",
+      "role": "numeric",
+      "observed": "Large date: very narrow heavy numerals, zero has a distinctive angled counter",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "modified-or-font-unconfirmed",
+      "candidate_families": [
+        "anton",
+        "bebas-neue"
+      ],
+      "candidate_font_ids": [
+        "anton/Anton-Regular.ttf",
+        "bebas-neue/BebasNeue-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P692.webp"
+    },
+    {
+      "case": "潮流-022",
+      "role": "title",
+      "observed": "MANGA: broad geometric lettering with altered counters; BARCELONA compact black sans",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "brand-lettering-unconfirmed",
+      "candidate_families": [
+        "archivo-black"
+      ],
+      "candidate_font_ids": [
+        "archivo-black/ArchivoBlack-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P700.jpg"
+    },
+    {
+      "case": "潮流-022",
+      "role": "subtitle",
+      "observed": "No independent narrative subtitle; identity carried by the combined wordmark",
+      "style_confidence": "not-applicable",
+      "original_family_confidence": "not-applicable",
+      "identity_status": "not-applicable",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P700.jpg"
+    },
+    {
+      "case": "潮流-022",
+      "role": "body",
+      "observed": "Lower venue/site: compact bold sans; small text needs a separate readability check",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow",
+        "barlow-condensed"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf",
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P700.jpg"
+    },
+    {
+      "case": "潮流-022",
+      "role": "numeric",
+      "observed": "Date: bold sans with multilingual month; family unconfirmed",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P700.jpg"
+    },
+    {
+      "case": "潮流-044",
+      "role": "all",
+      "observed": "File missing",
+      "style_confidence": "not-observable",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "missing-image",
+      "candidate_families": [],
+      "candidate_font_ids": [],
+      "exact_match": false,
+      "candidate_use": "pending image restoration",
+      "source_image": null
+    },
+    {
+      "case": "潮流-052",
+      "role": "title",
+      "observed": "Very condensed heavy sans with distress/drip treatment",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "modified-or-font-unconfirmed",
+      "candidate_families": [
+        "bebas-neue",
+        "anton"
+      ],
+      "candidate_font_ids": [
+        "anton/Anton-Regular.ttf",
+        "bebas-neue/BebasNeue-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P705.jpg"
+    },
+    {
+      "case": "潮流-052",
+      "role": "subtitle",
+      "observed": "Venue Latin is uppercase serif with Thai mixed text; not an English-only poster",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "spectral",
+        "noto-sans-thai"
+      ],
+      "candidate_font_ids": [
+        "noto-sans-thai/NotoSansThai[wdth,wght].ttf",
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P705.jpg"
+    },
+    {
+      "case": "潮流-052",
+      "role": "body",
+      "observed": "Thai venue/date: stable sans; brand logos are separate assets",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "noto-sans-thai"
+      ],
+      "candidate_font_ids": [
+        "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P705.jpg"
+    },
+    {
+      "case": "潮流-052",
+      "role": "numeric",
+      "observed": "Numerals within Thai dates; exact family is unconfirmed",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "noto-sans-thai",
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf",
+        "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P705.jpg"
+    },
+    {
+      "case": "潮流-053",
+      "role": "title",
+      "observed": "NYCC: broad heavy sans; upper creator name is contrasting italic serif",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "archivo-black",
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "archivo-black/ArchivoBlack-Regular.ttf",
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P96.jpg"
+    },
+    {
+      "case": "潮流-053",
+      "role": "subtitle",
+      "observed": "Table F20/Artist Alley: bold oblique sans with visible scale differences",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P96.jpg"
+    },
+    {
+      "case": "潮流-053",
+      "role": "body",
+      "observed": "Lower right place/date: compact small sans, insufficient pixels for a confirmed family",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P96.jpg"
+    },
+    {
+      "case": "潮流-053",
+      "role": "numeric",
+      "observed": "F20 shares the oblique table group; date is separate small copy",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P96.jpg"
+    }
+  ]
+}

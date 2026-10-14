@@ -1,0 +1,62 @@
+{
+  "version": "anime-game-three-case-v3-2026-10-12",
+  "event_subtype": null,
+  "formal_copy_source": null,
+  "selected_references": [],
+  "dimensions": {
+    "key_visual_effect": {
+      "reference_id": null,
+      "observed_mechanism": null,
+      "brief_fit": null,
+      "original_action": null,
+      "production_spec": null,
+      "comparison_criterion": null,
+      "output_evidence": null,
+      "review_status": "pending"
+    },
+    "visual_style": {
+      "reference_id": null,
+      "observed_mechanism": null,
+      "brief_fit": null,
+      "original_action": null,
+      "production_spec": null,
+      "comparison_criterion": null,
+      "output_evidence": null,
+      "review_status": "pending"
+    },
+    "typography": {
+      "reference_id": null,
+      "observed_mechanism": null,
+      "brief_fit": null,
+      "original_action": null,
+      "production_spec": null,
+      "comparison_criterion": null,
+      "output_evidence": null,
+      "review_status": "pending"
+    }
+  },
+  "reference_input": {
+    "tool": null,
+    "image_paths": [],
+    "actually_passed": null,
+    "roles": {},
+    "limitations": null
+  },
+  "typography": {
+    "language": null,
+    "title_copy": null,
+    "font_profile": null,
+    "actual_font_files": [],
+    "image_junction": null,
+    "functional_information_area": null,
+    "full_date_venue_table_checks": "pending"
+  },
+  "review": {
+    "full_size": "pending",
+    "target_thumbnail": "pending",
+    "technical": "pending",
+    "human_aesthetic": "pending",
+    "accepted_layers": [],
+    "revision_scope": null
+  }
+}
