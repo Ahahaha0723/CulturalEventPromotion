@@ -1,0 +1,4 @@
+Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
+
+The copyright notice above is preserved from the supplied font files' name table (name ID 0).
+These unmodified font files are licensed under the SIL Open Font License, Version 1.1. See LICENSE.txt.
