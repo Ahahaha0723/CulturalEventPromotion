@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "project": {"id": "invalid-test", "draft_only": true},
+  "event": {"name": {"value": "", "status": "confirmed", "source": [], "confidence": "unknown", "must_appear": true}},
+  "schedule": {},
+  "venue": {},
+  "audience": {},
+  "languages": {"required": []},
+  "deliverables": {"canvas": {"ratio": "landscape"}, "formats": [], "quantity_per_language": 0},
+  "classification": {"primary_type": "party", "confidence": "unknown"}
+}
+

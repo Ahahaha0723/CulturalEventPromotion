@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "project": {"id": "lecture-test", "draft_only": false, "purpose": "event-poster"},
+  "event": {
+    "name": {"value": "城市记忆公开讲座", "status": "confirmed", "source": ["test"], "confidence": "high", "must_appear": true},
+    "organizer": {"value": "示例文化馆", "status": "confirmed", "source": ["test"], "confidence": "high", "must_appear": true}
+  },
+  "schedule": {"date": {"value": "2027-03-12", "status": "confirmed", "source": ["test"], "confidence": "high", "must_appear": true}},
+  "venue": {"name": {"value": "示例文化馆报告厅", "status": "confirmed", "source": ["test"], "confidence": "high", "must_appear": true}},
+  "audience": {"target": {"value": "城市文化公众", "status": "confirmed", "source": ["test"], "confidence": "high", "must_appear": false}},
+  "languages": {"source": "zh-CN", "required": ["zh-CN", "en"], "translation_status": "confirmed"},
+  "deliverables": {"canvas": {"orientation": "portrait", "ratio": "4:5", "width_px": 2400, "height_px": 3000}, "formats": ["png"], "quantity_per_language": 1},
+  "classification": {"primary_type": "lecture", "secondary_types": [], "attributes": ["public"], "confidence": "high", "evidence": ["speaker", "topic", "lecture-format"]}
+}
+

@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "project": {
+    "id": "mixed-test",
+    "draft_only": false,
+    "purpose": "event-poster"
+  },
+  "event": {
+    "name": {
+      "value": "影像阅读之夜",
+      "status": "confirmed",
+      "source": [
+        "test"
+      ],
+      "confidence": "high",
+      "must_appear": true
+    },
+    "organizer": {
+      "value": "示例艺术空间",
+      "status": "confirmed",
+      "source": [
+        "test"
+      ],
+      "confidence": "high",
+      "must_appear": true
+    }
+  },
+  "schedule": {
+    "date": {
+      "value": "2027-06-18",
+      "status": "confirmed",
+      "source": [
+        "test"
+      ],
+      "confidence": "high",
+      "must_appear": true
+    }
+  },
+  "venue": {
+    "name": {
+      "value": "示例艺术空间",
+      "status": "confirmed",
+      "source": [
+        "test"
+      ],
+      "confidence": "high",
+      "must_appear": true
+    }
+  },
+  "audience": {
+    "target": {
+      "value": "电影与文学爱好者",
+      "status": "confirmed",
+      "source": [
+        "test"
+      ],
+      "confidence": "high",
+      "must_appear": false
+    }
+  },
+  "languages": {
+    "source": "zh-CN",
+    "required": [
+      "zh-CN",
+      "en"
+    ],
+    "translation_status": "not-required"
+  },
+  "deliverables": {
+    "canvas": {
+      "orientation": "portrait",
+      "ratio": "2:3",
+      "width_px": 2000,
+      "height_px": 3000
+    },
+    "formats": [
+      "png",
+      "jpg"
+    ],
+    "quantity_per_language": 1
+  },
+  "classification": {
+    "primary_type": "hybrid",
+    "secondary_types": [
+      "screening",
+      "reading"
+    ],
+    "attributes": [
+      "community",
+      "evening"
+    ],
+    "confidence": "medium",
+    "evidence": [
+      "screening",
+      "guided-reading",
+      "discussion"
+    ]
+  }
+}
