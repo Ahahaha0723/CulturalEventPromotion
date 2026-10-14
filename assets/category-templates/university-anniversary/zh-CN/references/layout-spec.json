@@ -1,0 +1,139 @@
+{
+  "canvas": {
+    "width": 2400,
+    "height": 3000,
+    "ratio": "4:5"
+  },
+  "margin": 120,
+  "background": "#FFFFFF",
+  "header": {
+    "school": {
+      "x": 120,
+      "top": 140,
+      "font": "ExtraBold",
+      "size": 160,
+      "width": 1500,
+      "align": "left"
+    },
+    "anniversary": {
+      "x": 120,
+      "top": 420,
+      "font": "Bold",
+      "size": 160,
+      "width": 1500,
+      "align": "left"
+    },
+    "emblem": {
+      "right": 2280,
+      "top": 140,
+      "fit": "contain",
+      "alignmentBasis": "actual-visible-ink-bounds",
+      "sizeMode": "locked-chinese-approved-visible-height",
+      "topAnchor": "school.actualInkTop",
+      "rightAnchor": "participation.actualInkRight",
+      "preserveAspectRatio": true,
+      "transparentBackgroundRequired": true,
+      "visibleHeight": 357.5,
+      "visibleWidthForCircularAsset": 357.5,
+      "referenceCanvas": {
+        "width": 2400,
+        "height": 3000
+      },
+      "sizeSource": "approved Chinese poster visible ink bounds: x1538..1824 y112..398 on 1920x2400",
+      "languageIndependent": true
+    },
+    "sharedHeadingSize": 160
+  },
+  "middleWhitespace": {
+    "top": 850,
+    "bottom": 1800
+  },
+  "details": {
+    "top": 1850,
+    "bottom": 2860,
+    "left": 120,
+    "right": 2280,
+    "columnGap": 120,
+    "activitySize": 96,
+    "dateSize": 80,
+    "venueSize": 64,
+    "bodySize": 36,
+    "noteSize": 34,
+    "sectionTitleSize": 40,
+    "detailLineHeight": 52,
+    "rightGroups": {
+      "ids": [
+        "participation",
+        "streaming"
+      ],
+      "align": "right",
+      "actualRight": 2280,
+      "sameAs": "emblem.actualRight"
+    }
+  },
+  "fontDirectory": "fonts",
+  "fontRoles": {
+    "ExtraLight": 250,
+    "Light": 300,
+    "Regular": 400,
+    "Medium": 500,
+    "SemiBold": 600,
+    "Bold": 700,
+    "ExtraBold": 800,
+    "Black": 900
+  },
+  "palettePolicy": "actual-emblem-derived-not-fixed-school-color",
+  "textColors": {
+    "title": "themeColor",
+    "body": "#4B4B4B"
+  },
+  "photoStyle": {
+    "enabledWhenSourcePhotoProvided": true,
+    "style": "low-contrast-monochrome-fine-grain-paper-broad-mist-fade",
+    "protectSourceStructure": true,
+    "textZones": "very-light-sparse-texture",
+    "sourceImageRequired": true,
+    "visibleSubjectWidthFraction": [
+      0.88,
+      0.95
+    ],
+    "region": {
+      "x": 60,
+      "y": 620,
+      "width": 2280,
+      "height": 1240
+    },
+    "edgeFade": "broad-continuous-all-four-edges-to-white",
+    "edgeFadeFractionGuidance": [
+      0.2,
+      0.35
+    ]
+  },
+  "copyOmissions": [
+    "校友返校·校园开放日"
+  ],
+  "delivery": {
+    "formats": [
+      "png"
+    ],
+    "separateSidecars": false,
+    "separateAssets": false,
+    "posterBackground": "opaque-white",
+    "workingEmblemFormat": "transparent-png"
+  },
+  "separatorRules": {
+    "required": true,
+    "count": 2,
+    "left": 120,
+    "right": 2280,
+    "strokeWidth": 2,
+    "opacity": 0.18,
+    "colorRole": "themeColor",
+    "placement": [
+      "between-main-venue-and-detail-groups",
+      "between-detail-groups-and-footer"
+    ],
+    "minimumInkClearance": 12,
+    "noPerRowUnderlines": true
+  }
+}

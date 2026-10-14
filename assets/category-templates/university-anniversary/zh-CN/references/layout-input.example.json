@@ -1,0 +1,256 @@
+{
+  "status": "review",
+  "background": "#FFFFFF",
+  "paletteStatus": "真实校徽与校园照片未提供；标题为中性色评审，正文已固定 #4B4B4B；未验证照片风格生成",
+  "blocks": [
+    {
+      "id": "school",
+      "lines": [
+        "清华大学"
+      ],
+      "x": 120,
+      "top": 140,
+      "size": 160,
+      "font": "ExtraBold",
+      "width": 1500,
+      "role": "title"
+    },
+    {
+      "id": "anniversary",
+      "lines": [
+        "建校115周年"
+      ],
+      "x": 120,
+      "top": 420,
+      "size": 160,
+      "font": "Bold",
+      "width": 1500,
+      "role": "title"
+    },
+    {
+      "id": "emblem-review-note",
+      "lines": [
+        "校徽区域",
+        "待提供独立原图"
+      ],
+      "x": 2280,
+      "top": 140,
+      "size": 44,
+      "font": "Regular",
+      "width": 480,
+      "align": "right",
+      "role": "body"
+    },
+    {
+      "id": "event",
+      "lines": [
+        "校庆活动"
+      ],
+      "x": 120,
+      "top": 1850,
+      "size": 96,
+      "font": "Bold",
+      "width": 2160,
+      "role": "title"
+    },
+    {
+      "id": "date",
+      "lines": [
+        "2026.04.25—04.26"
+      ],
+      "x": 120,
+      "top": 1990,
+      "size": 80,
+      "font": "SemiBold",
+      "width": 2160,
+      "role": "body"
+    },
+    {
+      "id": "venue",
+      "lines": [
+        "主会场  综合体育馆"
+      ],
+      "x": 120,
+      "top": 2110,
+      "size": 64,
+      "font": "SemiBold",
+      "width": 2160,
+      "role": "body"
+    },
+    {
+      "id": "organizer",
+      "lines": [
+        "主办 清华大学"
+      ],
+      "x": 120,
+      "top": 2860,
+      "size": 34,
+      "font": "Medium",
+      "width": 2160,
+      "role": "body"
+    },
+    {
+      "id": "test-status",
+      "lines": [
+        "资料包设计测试稿 · 非官方发布"
+      ],
+      "x": 2280,
+      "top": 2860,
+      "size": 32,
+      "font": "Regular",
+      "width": 1000,
+      "role": "body",
+      "align": "right"
+    },
+    {
+      "id": "schedule-title",
+      "lines": [
+        "活动日程"
+      ],
+      "x": 120,
+      "top": 2230,
+      "size": 40,
+      "font": "SemiBold",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "title",
+      "align": "left"
+    },
+    {
+      "id": "schedule",
+      "lines": [
+        "4月25日 09:00 校庆纪念大会",
+        "4月25日 19:30 校庆文艺演出",
+        "4月26日 各院系活动"
+      ],
+      "x": 120,
+      "top": 2290,
+      "size": 36,
+      "font": "Medium",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "body",
+      "align": "left"
+    },
+    {
+      "id": "more-activities-title",
+      "lines": [
+        "更多活动"
+      ],
+      "x": 120,
+      "top": 2470,
+      "size": 40,
+      "font": "SemiBold",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "title",
+      "align": "left"
+    },
+    {
+      "id": "more-activities",
+      "lines": [
+        "校友论坛 · 院系返校日 · 体育友谊赛"
+      ],
+      "x": 120,
+      "top": 2530,
+      "size": 36,
+      "font": "Medium",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "body",
+      "align": "left"
+    },
+    {
+      "id": "subvenues-title",
+      "lines": [
+        "分会场"
+      ],
+      "x": 120,
+      "top": 2630,
+      "size": 40,
+      "font": "SemiBold",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "title",
+      "align": "left"
+    },
+    {
+      "id": "subvenues",
+      "lines": [
+        "大礼堂、新清华学堂、各院系报告厅、",
+        "图书馆、校史馆"
+      ],
+      "x": 120,
+      "top": 2690,
+      "size": 36,
+      "font": "Medium",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "body",
+      "align": "left"
+    },
+    {
+      "id": "participation-title",
+      "lines": [
+        "登记参与"
+      ],
+      "x": 2280,
+      "top": 2230,
+      "size": 40,
+      "font": "SemiBold",
+      "width": 1000,
+      "lineHeight": 52,
+      "role": "title",
+      "align": "right"
+    },
+    {
+      "id": "participation",
+      "lines": [
+        "校友登记 截止2026年4月15日",
+        "通过“清华校友总会”小程序",
+        "部分活动限特定届别或院系校友",
+        "在校师生凭校园卡参与",
+        "演出门票需抽签预约"
+      ],
+      "x": 2280,
+      "top": 2290,
+      "size": 36,
+      "font": "Medium",
+      "width": 1000,
+      "lineHeight": 52,
+      "role": "body",
+      "align": "right"
+    },
+    {
+      "id": "streaming-title",
+      "lines": [
+        "同步直播"
+      ],
+      "x": 2280,
+      "top": 2630,
+      "size": 40,
+      "font": "SemiBold",
+      "width": 1000,
+      "lineHeight": 52,
+      "role": "title",
+      "align": "right"
+    },
+    {
+      "id": "streaming",
+      "lines": [
+        "官方视频号、抖音、B站、微博"
+      ],
+      "x": 2280,
+      "top": 2690,
+      "size": 36,
+      "font": "Medium",
+      "width": 1000,
+      "lineHeight": 52,
+      "role": "body",
+      "align": "right"
+    }
+  ],
+  "emblem": null,
+  "themeColor": null,
+  "bodyColor": "#4B4B4B"
+}
