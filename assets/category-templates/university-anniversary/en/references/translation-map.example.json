@@ -1,0 +1,193 @@
+{
+  "status": "non-official-poster-test-copy",
+  "school_english_name_source": "English school name visible in supplied poster",
+  "other_proper_names": "Working translations, not verified official names",
+  "omitted_promotional_subtitle": [
+    "校友返校·校园开放日",
+    "Alumni Homecoming · Campus Open Day"
+  ],
+  "mapping": [
+    {
+      "id": "school",
+      "source_lines": [
+        "清华大学"
+      ],
+      "english_lines": [
+        "Tsinghua University"
+      ]
+    },
+    {
+      "id": "anniversary",
+      "source_lines": [
+        "建校115周年"
+      ],
+      "english_lines": [
+        "115th Anniversary"
+      ]
+    },
+    {
+      "id": "emblem-review-note",
+      "source_lines": [
+        "校徽区域",
+        "待提供独立原图"
+      ],
+      "english_lines": [
+        "Emblem area",
+        "Original asset required"
+      ]
+    },
+    {
+      "id": "event",
+      "source_lines": [
+        "校庆活动"
+      ],
+      "english_lines": [
+        "Anniversary Celebrations"
+      ]
+    },
+    {
+      "id": "date",
+      "source_lines": [
+        "2026.04.25—04.26"
+      ],
+      "english_lines": [
+        "25–26 APR 2026"
+      ]
+    },
+    {
+      "id": "venue",
+      "source_lines": [
+        "主会场  综合体育馆"
+      ],
+      "english_lines": [
+        "Main venue: Sports Complex"
+      ]
+    },
+    {
+      "id": "organizer",
+      "source_lines": [
+        "主办 清华大学"
+      ],
+      "english_lines": [
+        "Hosted by Tsinghua University"
+      ]
+    },
+    {
+      "id": "test-status",
+      "source_lines": [
+        "资料包设计测试稿 · 非官方发布"
+      ],
+      "english_lines": [
+        "Design test draft · Not an official release"
+      ]
+    },
+    {
+      "id": "schedule-title",
+      "source_lines": [
+        "活动日程"
+      ],
+      "english_lines": [
+        "Schedule"
+      ]
+    },
+    {
+      "id": "schedule",
+      "source_lines": [
+        "4月25日 09:00 校庆纪念大会",
+        "4月25日 19:30 校庆文艺演出",
+        "4月26日 各院系活动"
+      ],
+      "english_lines": [
+        "25 APR 09:00 Anniversary Ceremony",
+        "25 APR 19:30 Anniversary Performance",
+        "26 APR Department Events"
+      ]
+    },
+    {
+      "id": "more-activities-title",
+      "source_lines": [
+        "更多活动"
+      ],
+      "english_lines": [
+        "More Activities"
+      ]
+    },
+    {
+      "id": "more-activities",
+      "source_lines": [
+        "校友论坛 · 院系返校日 · 体育友谊赛"
+      ],
+      "english_lines": [
+        "Alumni Forum · Department Homecoming Days",
+        "Friendly Sports Matches"
+      ]
+    },
+    {
+      "id": "subvenues-title",
+      "source_lines": [
+        "分会场"
+      ],
+      "english_lines": [
+        "Additional Venues"
+      ]
+    },
+    {
+      "id": "subvenues",
+      "source_lines": [
+        "大礼堂、新清华学堂、各院系报告厅、",
+        "图书馆、校史馆"
+      ],
+      "english_lines": [
+        "Main Auditorium · New Tsinghua Auditorium",
+        "Department Lecture Halls · Library",
+        "University History Museum"
+      ]
+    },
+    {
+      "id": "participation-title",
+      "source_lines": [
+        "登记参与"
+      ],
+      "english_lines": [
+        "Registration and Participation"
+      ]
+    },
+    {
+      "id": "participation",
+      "source_lines": [
+        "校友登记 截止2026年4月15日",
+        "通过“清华校友总会”小程序",
+        "部分活动限特定届别或院系校友",
+        "在校师生凭校园卡参与",
+        "演出门票需抽签预约"
+      ],
+      "english_lines": [
+        "Alumni registration closes 15 APR 2026",
+        "Register via the Tsinghua Alumni Association",
+        "mini program",
+        "Some events are limited to alumni from specified",
+        "graduating classes or departments.",
+        "Current students and staff: campus card required",
+        "Performance tickets: lottery reservation required"
+      ]
+    },
+    {
+      "id": "streaming-title",
+      "source_lines": [
+        "同步直播"
+      ],
+      "english_lines": [
+        "Live Streaming"
+      ]
+    },
+    {
+      "id": "streaming",
+      "source_lines": [
+        "官方视频号、抖音、B站、微博"
+      ],
+      "english_lines": [
+        "Official WeChat Channels · Douyin · Bilibili · Weibo"
+      ]
+    }
+  ]
+}

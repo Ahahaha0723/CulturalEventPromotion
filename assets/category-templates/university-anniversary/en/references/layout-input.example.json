@@ -1,0 +1,260 @@
+{
+  "status": "review",
+  "background": "#FFFFFF",
+  "paletteStatus": "Neutral-color typography review: independent emblem and campus photo missing; no photo editing verified",
+  "blocks": [
+    {
+      "id": "school",
+      "lines": [
+        "Tsinghua University"
+      ],
+      "x": 120,
+      "top": 140,
+      "size": 160,
+      "font": "ExtraBold",
+      "width": 1700,
+      "role": "title"
+    },
+    {
+      "id": "anniversary",
+      "lines": [
+        "115th Anniversary"
+      ],
+      "x": 120,
+      "top": 420,
+      "size": 160,
+      "font": "Bold",
+      "width": 1700,
+      "role": "title"
+    },
+    {
+      "id": "emblem-review-note",
+      "lines": [
+        "Emblem area",
+        "Original asset required"
+      ],
+      "x": 2280,
+      "top": 140,
+      "size": 44,
+      "font": "Regular",
+      "width": 520,
+      "align": "right",
+      "role": "body"
+    },
+    {
+      "id": "event",
+      "lines": [
+        "Anniversary Celebrations"
+      ],
+      "x": 120,
+      "top": 1850,
+      "size": 96,
+      "font": "Bold",
+      "width": 2160,
+      "role": "title"
+    },
+    {
+      "id": "date",
+      "lines": [
+        "25–26 APR 2026"
+      ],
+      "x": 120,
+      "top": 1990,
+      "size": 80,
+      "font": "SemiBold",
+      "width": 2160,
+      "role": "body"
+    },
+    {
+      "id": "venue",
+      "lines": [
+        "Main venue: Sports Complex"
+      ],
+      "x": 120,
+      "top": 2110,
+      "size": 64,
+      "font": "SemiBold",
+      "width": 2160,
+      "role": "body"
+    },
+    {
+      "id": "organizer",
+      "lines": [
+        "Hosted by Tsinghua University"
+      ],
+      "x": 120,
+      "top": 2860,
+      "size": 34,
+      "font": "Medium",
+      "width": 2160,
+      "role": "body"
+    },
+    {
+      "id": "test-status",
+      "lines": [
+        "Design test draft · Not an official release"
+      ],
+      "x": 2280,
+      "top": 2860,
+      "size": 32,
+      "font": "Regular",
+      "width": 1000,
+      "role": "body",
+      "align": "right"
+    },
+    {
+      "id": "schedule-title",
+      "lines": [
+        "Schedule"
+      ],
+      "x": 120,
+      "top": 2230,
+      "size": 40,
+      "font": "SemiBold",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "title",
+      "align": "left"
+    },
+    {
+      "id": "schedule",
+      "lines": [
+        "25 APR 09:00 Anniversary Ceremony",
+        "25 APR 19:30 Anniversary Performance",
+        "26 APR Department Events"
+      ],
+      "x": 120,
+      "top": 2290,
+      "size": 36,
+      "font": "Medium",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "body",
+      "align": "left"
+    },
+    {
+      "id": "more-activities-title",
+      "lines": [
+        "More Activities"
+      ],
+      "x": 120,
+      "top": 2470,
+      "size": 40,
+      "font": "SemiBold",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "title",
+      "align": "left"
+    },
+    {
+      "id": "more-activities",
+      "lines": [
+        "Alumni Forum · Department Homecoming Days",
+        "Friendly Sports Matches"
+      ],
+      "x": 120,
+      "top": 2530,
+      "size": 36,
+      "font": "Medium",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "body",
+      "align": "left"
+    },
+    {
+      "id": "subvenues-title",
+      "lines": [
+        "Additional Venues"
+      ],
+      "x": 120,
+      "top": 2630,
+      "size": 40,
+      "font": "SemiBold",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "title",
+      "align": "left"
+    },
+    {
+      "id": "subvenues",
+      "lines": [
+        "Main Auditorium · New Tsinghua Auditorium",
+        "Department Lecture Halls · Library",
+        "University History Museum"
+      ],
+      "x": 120,
+      "top": 2690,
+      "size": 36,
+      "font": "Medium",
+      "width": 1040,
+      "lineHeight": 52,
+      "role": "body",
+      "align": "left"
+    },
+    {
+      "id": "participation-title",
+      "lines": [
+        "Registration and Participation"
+      ],
+      "x": 2280,
+      "top": 2230,
+      "size": 40,
+      "font": "SemiBold",
+      "width": 1000,
+      "lineHeight": 52,
+      "role": "title",
+      "align": "right"
+    },
+    {
+      "id": "participation",
+      "lines": [
+        "Alumni registration closes 15 APR 2026",
+        "Register via the Tsinghua Alumni Association",
+        "mini program",
+        "Some events are limited to alumni from specified",
+        "graduating classes or departments.",
+        "Current students and staff: campus card required",
+        "Performance tickets: lottery reservation required"
+      ],
+      "x": 2280,
+      "top": 2290,
+      "size": 36,
+      "font": "Medium",
+      "width": 1000,
+      "lineHeight": 52,
+      "role": "body",
+      "align": "right"
+    },
+    {
+      "id": "streaming-title",
+      "lines": [
+        "Live Streaming"
+      ],
+      "x": 2280,
+      "top": 2680,
+      "size": 40,
+      "font": "SemiBold",
+      "width": 1000,
+      "lineHeight": 52,
+      "role": "title",
+      "align": "right"
+    },
+    {
+      "id": "streaming",
+      "lines": [
+        "Official WeChat Channels · Douyin · Bilibili · Weibo"
+      ],
+      "x": 2280,
+      "top": 2740,
+      "size": 36,
+      "font": "Medium",
+      "width": 1000,
+      "lineHeight": 52,
+      "role": "body",
+      "align": "right"
+    }
+  ],
+  "emblem": null,
+  "themeColor": null,
+  "bodyColor": "#4B4B4B"
+}
