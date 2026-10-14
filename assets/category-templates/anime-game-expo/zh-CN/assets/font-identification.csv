@@ -1,0 +1,18 @@
+﻿case,role,observed,style_confidence,original_family_confidence,identity_status,candidate_families,candidate_font_ids,exact_match
+潮流-014,title,OTAKUTHON：宽重斜体无衬线字标；特殊字形作为品牌资产,high,unconfirmed,brand-lettering-unconfirmed,barlow,barlow/Barlow-Bold.ttf;barlow/Barlow-Italic.ttf;barlow/Barlow-Regular.ttf,False
+潮流-014,subtitle,法英副标题：竖向比例较长的斜体无衬线,medium,unconfirmed,unverified-original,barlow-condensed,barlow-condensed/BarlowCondensed-Bold.ttf;barlow-condensed/BarlowCondensed-BoldItalic.ttf;barlow-condensed/BarlowCondensed-Regular.ttf,False
+潮流-014,body,介绍与场馆：细窄／粗窄无衬线，原图部分低对比,medium,unconfirmed,unverified-original,barlow-condensed,barlow-condensed/BarlowCondensed-Bold.ttf;barlow-condensed/BarlowCondensed-BoldItalic.ttf;barlow-condensed/BarlowCondensed-Regular.ttf,False
+潮流-014,numeric,超大日期：极窄重黑数字，0有特殊斜向内白,medium,unconfirmed,modified-or-font-unconfirmed,anton;bebas-neue,anton/Anton-Regular.ttf;bebas-neue/BebasNeue-Regular.ttf,False
+潮流-022,title,MANGA字标：几何宽重、内白改造；BARCELONA紧密黑体,high,unconfirmed,brand-lettering-unconfirmed,archivo-black,archivo-black/ArchivoBlack-Regular.ttf,False
+潮流-022,subtitle,未见独立叙述副标题，活动身份由字标组合承载,not-applicable,not-applicable,not-applicable,barlow,barlow/Barlow-Bold.ttf;barlow/Barlow-Italic.ttf;barlow/Barlow-Regular.ttf,False
+潮流-022,body,底部场馆／官网：紧密粗无衬线，小字需另做可读检查,medium,unconfirmed,unverified-original,barlow;barlow-condensed,barlow-condensed/BarlowCondensed-Bold.ttf;barlow-condensed/BarlowCondensed-BoldItalic.ttf;barlow-condensed/BarlowCondensed-Regular.ttf;barlow/Barlow-Bold.ttf;barlow/Barlow-Italic.ttf;barlow/Barlow-Regular.ttf,False
+潮流-022,numeric,日期：粗无衬线与多语言月份，不照抄字体身份,medium,unconfirmed,unverified-original,barlow,barlow/Barlow-Bold.ttf;barlow/Barlow-Italic.ttf;barlow/Barlow-Regular.ttf,False
+潮流-044,all,文件缺失,not-observable,unconfirmed,missing-image,,,False
+潮流-052,title,ARCANE WORLD：超窄重无衬线，局部破损和滴落效果,high,unconfirmed,modified-or-font-unconfirmed,bebas-neue;anton,anton/Anton-Regular.ttf;bebas-neue/BebasNeue-Regular.ttf,False
+潮流-052,subtitle,地点Latin为大写衬线，泰文混排；非纯英文稿,medium,unconfirmed,unverified-original,spectral;noto-sans-thai,"noto-sans-thai/NotoSansThai[wdth,wght].ttf;spectral/Spectral-Italic.ttf;spectral/Spectral-Regular.ttf;spectral/Spectral-SemiBold.ttf",False
+潮流-052,body,泰文地点／日期：稳健无衬线；品牌Logo另为资产,medium,unconfirmed,unverified-original,noto-sans-thai,"noto-sans-thai/NotoSansThai[wdth,wght].ttf",False
+潮流-052,numeric,泰文日期行含数字，原家族不能确证,medium,unconfirmed,unverified-original,noto-sans-thai;barlow,"barlow/Barlow-Bold.ttf;barlow/Barlow-Italic.ttf;barlow/Barlow-Regular.ttf;noto-sans-thai/NotoSansThai[wdth,wght].ttf",False
+潮流-053,title,NYCC：宽重无衬线；上方创作者名用高对比斜体衬线,high,unconfirmed,unverified-original,archivo-black;spectral,archivo-black/ArchivoBlack-Regular.ttf;spectral/Spectral-Italic.ttf;spectral/Spectral-Regular.ttf;spectral/Spectral-SemiBold.ttf,False
+潮流-053,subtitle,Table F20／Artist Alley：粗斜无衬线，字号差明显,medium,unconfirmed,unverified-original,barlow,barlow/Barlow-Bold.ttf;barlow/Barlow-Italic.ttf;barlow/Barlow-Regular.ttf,False
+潮流-053,body,右下地点日期：紧密小型无衬线，像素不足以确证家族,medium,unconfirmed,unverified-original,barlow,barlow/Barlow-Bold.ttf;barlow/Barlow-Italic.ttf;barlow/Barlow-Regular.ttf,False
+潮流-053,numeric,摊位F20与文字同一斜体组；日期小字独立,medium,unconfirmed,unverified-original,barlow,barlow/Barlow-Bold.ttf;barlow/Barlow-Italic.ttf;barlow/Barlow-Regular.ttf,False

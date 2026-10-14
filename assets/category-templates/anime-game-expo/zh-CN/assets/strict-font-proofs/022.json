@@ -1,0 +1,39 @@
+{
+  "case_id": "022",
+  "source_image": "assets/reference-posters/P700.jpg",
+  "source_crop_pixels": [
+    162,
+    1015,
+    535,
+    90
+  ],
+  "crop_scope": "selected visual region; not a font identity measurement",
+  "source_ink_height_pixels": 73,
+  "source_letter_height_method": "threshold red pixels for022, white for052/053; antialiasing/texture limits remain",
+  "display_source_ink_height": 88,
+  "candidate_comparison_at_equal_visible_glyph_height": true,
+  "rendered": [
+    {
+      "text": "MANGA",
+      "file": "archivo-black/ArchivoBlack-Regular.ttf",
+      "visible_height": 88,
+      "size": 123.94366197183099,
+      "visible_width": 508.900634765625
+    },
+    {
+      "text": "MANGA",
+      "file": "barlow/Barlow-Bold.ttf",
+      "visible_height": 88,
+      "size": 122.22222222222223,
+      "visible_width": 395.51324462890625
+    },
+    {
+      "text": "国漫风起",
+      "file": "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+      "visible_height": 88,
+      "size": 89.79591836734694,
+      "visible_width": 352.3438415527344
+    }
+  ],
+  "match_status": "reference comparison artifact, not exact-font confirmation"
+}

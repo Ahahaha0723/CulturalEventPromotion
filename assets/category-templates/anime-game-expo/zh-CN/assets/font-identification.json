@@ -1,0 +1,328 @@
+{
+  "exact_originals_confirmed": 0,
+  "records": [
+    {
+      "case": "潮流-014",
+      "role": "title",
+      "observed": "OTAKUTHON：宽重斜体无衬线字标；特殊字形作为品牌资产",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "brand-lettering-unconfirmed",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P692.webp"
+    },
+    {
+      "case": "潮流-014",
+      "role": "subtitle",
+      "observed": "法英副标题：竖向比例较长的斜体无衬线",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow-condensed"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P692.webp"
+    },
+    {
+      "case": "潮流-014",
+      "role": "body",
+      "observed": "介绍与场馆：细窄／粗窄无衬线，原图部分低对比",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow-condensed"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P692.webp"
+    },
+    {
+      "case": "潮流-014",
+      "role": "numeric",
+      "observed": "超大日期：极窄重黑数字，0有特殊斜向内白",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "modified-or-font-unconfirmed",
+      "candidate_families": [
+        "anton",
+        "bebas-neue"
+      ],
+      "candidate_font_ids": [
+        "anton/Anton-Regular.ttf",
+        "bebas-neue/BebasNeue-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P692.webp"
+    },
+    {
+      "case": "潮流-022",
+      "role": "title",
+      "observed": "MANGA字标：几何宽重、内白改造；BARCELONA紧密黑体",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "brand-lettering-unconfirmed",
+      "candidate_families": [
+        "archivo-black"
+      ],
+      "candidate_font_ids": [
+        "archivo-black/ArchivoBlack-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P700.jpg"
+    },
+    {
+      "case": "潮流-022",
+      "role": "subtitle",
+      "observed": "未见独立叙述副标题，活动身份由字标组合承载",
+      "style_confidence": "not-applicable",
+      "original_family_confidence": "not-applicable",
+      "identity_status": "not-applicable",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P700.jpg"
+    },
+    {
+      "case": "潮流-022",
+      "role": "body",
+      "observed": "底部场馆／官网：紧密粗无衬线，小字需另做可读检查",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow",
+        "barlow-condensed"
+      ],
+      "candidate_font_ids": [
+        "barlow-condensed/BarlowCondensed-Bold.ttf",
+        "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+        "barlow-condensed/BarlowCondensed-Regular.ttf",
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P700.jpg"
+    },
+    {
+      "case": "潮流-022",
+      "role": "numeric",
+      "observed": "日期：粗无衬线与多语言月份，不照抄字体身份",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P700.jpg"
+    },
+    {
+      "case": "潮流-044",
+      "role": "all",
+      "observed": "文件缺失",
+      "style_confidence": "not-observable",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "missing-image",
+      "candidate_families": [],
+      "candidate_font_ids": [],
+      "exact_match": false,
+      "candidate_use": "pending image restoration",
+      "source_image": null
+    },
+    {
+      "case": "潮流-052",
+      "role": "title",
+      "observed": "ARCANE WORLD：超窄重无衬线，局部破损和滴落效果",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "modified-or-font-unconfirmed",
+      "candidate_families": [
+        "bebas-neue",
+        "anton"
+      ],
+      "candidate_font_ids": [
+        "anton/Anton-Regular.ttf",
+        "bebas-neue/BebasNeue-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P705.jpg"
+    },
+    {
+      "case": "潮流-052",
+      "role": "subtitle",
+      "observed": "地点Latin为大写衬线，泰文混排；非纯英文稿",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "spectral",
+        "noto-sans-thai"
+      ],
+      "candidate_font_ids": [
+        "noto-sans-thai/NotoSansThai[wdth,wght].ttf",
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P705.jpg"
+    },
+    {
+      "case": "潮流-052",
+      "role": "body",
+      "observed": "泰文地点／日期：稳健无衬线；品牌Logo另为资产",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "noto-sans-thai"
+      ],
+      "candidate_font_ids": [
+        "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P705.jpg"
+    },
+    {
+      "case": "潮流-052",
+      "role": "numeric",
+      "observed": "泰文日期行含数字，原家族不能确证",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "noto-sans-thai",
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf",
+        "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P705.jpg"
+    },
+    {
+      "case": "潮流-053",
+      "role": "title",
+      "observed": "NYCC：宽重无衬线；上方创作者名用高对比斜体衬线",
+      "style_confidence": "high",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "archivo-black",
+        "spectral"
+      ],
+      "candidate_font_ids": [
+        "archivo-black/ArchivoBlack-Regular.ttf",
+        "spectral/Spectral-Italic.ttf",
+        "spectral/Spectral-Regular.ttf",
+        "spectral/Spectral-SemiBold.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P96.jpg"
+    },
+    {
+      "case": "潮流-053",
+      "role": "subtitle",
+      "observed": "Table F20／Artist Alley：粗斜无衬线，字号差明显",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P96.jpg"
+    },
+    {
+      "case": "潮流-053",
+      "role": "body",
+      "observed": "右下地点日期：紧密小型无衬线，像素不足以确证家族",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P96.jpg"
+    },
+    {
+      "case": "潮流-053",
+      "role": "numeric",
+      "observed": "摊位F20与文字同一斜体组；日期小字独立",
+      "style_confidence": "medium",
+      "original_family_confidence": "unconfirmed",
+      "identity_status": "unverified-original",
+      "candidate_families": [
+        "barlow"
+      ],
+      "candidate_font_ids": [
+        "barlow/Barlow-Bold.ttf",
+        "barlow/Barlow-Italic.ttf",
+        "barlow/Barlow-Regular.ttf"
+      ],
+      "exact_match": false,
+      "candidate_use": "legible alternative / construction base; compare specimen, not a claimed original",
+      "source_image": "assets/reference-posters/P96.jpg"
+    }
+  ]
+}

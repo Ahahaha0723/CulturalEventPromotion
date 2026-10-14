@@ -1,0 +1,38 @@
+{
+  "version": "anime-game-three-case-v3-2026-10-12",
+  "user_selected": true,
+  "source_ratings_unchanged": true,
+  "cases": [
+    {
+      "case_id": "022",
+      "name": "Manga Barcelona",
+      "image": "assets/reference-posters/P700.jpg",
+      "sha256": "bca562d3b47bfe4d577b114d9edc273ac091656420782b314be00f438423dbdd",
+      "suitable_scope": "broad-anime-convention",
+      "original_library_tier": "strict",
+      "exact_source_font": "unknown",
+      "role": "reference analysis, not artwork to reuse as a new poster"
+    },
+    {
+      "case_id": "052",
+      "name": "Arcane World",
+      "image": "assets/reference-posters/P705.jpg",
+      "sha256": "393cae875fc02f2caa3982ef1430bc5ed1107ea7f50254b843ddf48943509261",
+      "suitable_scope": "single-ip-experience",
+      "original_library_tier": "strict",
+      "exact_source_font": "unknown",
+      "role": "reference analysis, not artwork to reuse as a new poster"
+    },
+    {
+      "case_id": "053",
+      "name": "NYCC Artist Alley Table F20",
+      "image": "assets/reference-posters/P96.jpg",
+      "sha256": "74cbc60c2e8f47e1ddc1799a3dbdabbc57396d230929ff564b2fbadefa2ec655",
+      "suitable_scope": "creator-table-announcement",
+      "original_library_tier": "relative",
+      "exact_source_font": "unknown",
+      "role": "reference analysis, not artwork to reuse as a new poster"
+    }
+  ],
+  "new_poster_aesthetic_validation": "not-tested"
+}

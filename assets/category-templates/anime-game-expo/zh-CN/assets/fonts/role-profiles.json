@@ -1,0 +1,365 @@
+{
+  "schema_version": "1.0",
+  "profiles": {
+    "anime-character": {
+      "category": "anime-game-expo",
+      "status": "trial",
+      "purpose": "candidate typography; verify real rendered text",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "zcool-qingke-huangyou/ZCOOLQingKeHuangYou-Regular.ttf",
+            "zcool-kuaile/ZCOOLKuaiLe-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "archivo-black/ArchivoBlack-Regular.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        }
+      }
+    },
+    "game-modular": {
+      "category": "anime-game-expo",
+      "status": "trial",
+      "purpose": "candidate typography; verify real rendered text",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+            "zcool-qingke-huangyou/ZCOOLQingKeHuangYou-Regular.ttf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "rajdhani/Rajdhani-Bold.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "rajdhani/Rajdhani-Bold.ttf",
+            "archivo-black/ArchivoBlack-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "rajdhani/Rajdhani-Regular.ttf",
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "rajdhani/Rajdhani-Bold.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        }
+      }
+    },
+    "ip-portrait": {
+      "category": "anime-game-expo",
+      "status": "trial",
+      "purpose": "candidate typography; verify real rendered text",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+            "zcool-qingke-huangyou/ZCOOLQingKeHuangYou-Regular.ttf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+            "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+          ]
+        },
+        "en": {
+          "title": [
+            "bebas-neue/BebasNeue-Regular.ttf",
+            "anton/Anton-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "spectral/Spectral-SemiBold.ttf",
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+            "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+            "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+          ],
+          "numeric": [
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+            "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+          ]
+        }
+      }
+    },
+    "artist-alley": {
+      "category": "anime-game-expo",
+      "status": "trial",
+      "purpose": "candidate typography; verify real rendered text",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf",
+            "zcool-kuaile/ZCOOLKuaiLe-Regular.ttf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "archivo-black/ArchivoBlack-Regular.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "barlow/Barlow-BoldItalic.ttf",
+            "barlow-condensed/BarlowCondensed-BoldItalic.ttf",
+            "barlow/Barlow-Italic.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        }
+      }
+    },
+    "artist-signature": {
+      "category": "anime-game-expo",
+      "status": "trial",
+      "purpose": "creator signature alternative, not an identification of the source font",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "spectral/Spectral-Italic.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf"
+          ],
+          "subtitle": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        }
+      }
+    },
+    "reference-022": {
+      "category": "anime-game-expo",
+      "status": "trial",
+      "purpose": "reference 022 candidate; explicit visual comparison and font lock required",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "archivo-black/ArchivoBlack-Regular.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "archivo-black/ArchivoBlack-Regular.ttf",
+            "barlow/Barlow-Bold.ttf"
+          ],
+          "body": [
+            "barlow/Barlow-Bold.ttf",
+            "barlow-condensed/BarlowCondensed-Bold.ttf"
+          ],
+          "numeric": [
+            "archivo-black/ArchivoBlack-Regular.ttf",
+            "barlow/Barlow-Bold.ttf"
+          ]
+        }
+      },
+      "reference_case": "022",
+      "selection_policy": "coverage order is not aesthetic approval"
+    },
+    "reference-052": {
+      "category": "anime-game-expo",
+      "status": "trial",
+      "purpose": "reference 052 candidate; explicit visual comparison and font lock required",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+            "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+          ]
+        },
+        "en": {
+          "title": [
+            "anton/Anton-Regular.ttf",
+            "bebas-neue/BebasNeue-Regular.ttf"
+          ],
+          "subtitle": [
+            "spectral/Spectral-SemiBold.ttf",
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+            "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+            "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+          ],
+          "numeric": [
+            "barlow-condensed/BarlowCondensed-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf",
+            "noto-sans-thai/NotoSansThai[wdth,wght].ttf"
+          ]
+        }
+      },
+      "reference_case": "052",
+      "selection_policy": "coverage order is not aesthetic approval"
+    },
+    "reference-053": {
+      "category": "anime-game-expo",
+      "status": "trial",
+      "purpose": "reference 053 candidate; explicit visual comparison and font lock required",
+      "languages": {
+        "zh-CN": {
+          "title": [
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "source-han-sans-cn/SourceHanSansCN-Medium.otf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "body": [
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        },
+        "en": {
+          "title": [
+            "archivo-black/ArchivoBlack-Regular.ttf",
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Heavy.otf"
+          ],
+          "subtitle": [
+            "barlow/Barlow-BoldItalic.ttf",
+            "barlow-condensed/BarlowCondensed-BoldItalic.ttf"
+          ],
+          "body": [
+            "barlow/Barlow-Regular.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ],
+          "numeric": [
+            "barlow/Barlow-Bold.ttf",
+            "source-han-sans-cn/SourceHanSansCN-Regular.otf"
+          ]
+        }
+      },
+      "reference_case": "053",
+      "selection_policy": "coverage order is not aesthetic approval"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+schema_version: "1.0"
+project_id: "replace-with-project-id"
+concept_status: proposed
+selected_direction: ""
+cultural_evidence:
+  - claim_or_symbol: ""
+    source: ""
+    evidence_level: D
+    confidence: low
+    usage: reference
+design_proposition: ""
+visual_motif: ""
+composition:
+  focal_subject: ""
+  reading_path: ""
+  text_safe_areas: []
+  crop_constraints: []
+generation_prompt:
+  objective: ""
+  subject: ""
+  environment: ""
+  composition: ""
+  material_and_medium: ""
+  lighting: ""
+  color_roles: ""
+  cultural_constraints: []
+  output_ratio: "4:5"
+negative_constraints:
+  - random or illegible text
+  - fabricated logos or QR codes
+  - unrelated cultural symbols
+  - unsupported historical mixtures
+  - elements covering reserved text areas
+tool_plan: []
+human_approval:
+  concept: pending
+  cultural_elements: pending
+  asset_rights: pending
+
+reference_learning:
+  record_file: ""
+  primary_reference: ""
+  selected_mechanisms: []
+  original_adaptations: []
+  generation_reference_inputs: []
+  title_method: font-typesetting
+  comparison_criteria: []
