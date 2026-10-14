@@ -1,0 +1,366 @@
+{
+  "time": "2026-10-14T20:23:00.606058+08:00",
+  "authorization": "D26",
+  "source_archive": "S02_完整Skill.zip",
+  "source_archive_sha256": "d01d47c8e6372509888caccebe0659febd1c67cf161ab6d00ae946919381efb1",
+  "reference_final_poster": "T2_v11 accepted D24",
+  "reference_implementation": "S01/R13",
+  "note": "Exact per-case preset, not new universal default; source images are generated derivatives with existing fidelity limits",
+  "source_subject_mapping": [
+    {
+      "id": "K03",
+      "source": "基线/活动母本/文化_统一测试材料/文化_统一测试资料包/01_风筝素材/3.jpg",
+      "reference": "中间产物/I07/八源图编号参考_REF02.png",
+      "atlas": "中间产物/I07/八素材透明候选_BG06.png",
+      "atlas_region": [
+        0,
+        0,
+        385,
+        515
+      ],
+      "alpha_bbox_within_region": [
+        15,
+        25,
+        385,
+        515
+      ],
+      "sprite": "中间产物\\I07\\K03_图集派生.png",
+      "sprite_sha256": "6f16dabf9c354600d181af35f14c8b49b47b8574a043862bad735159c47997f1",
+      "fidelity": "主要形制可对应；生成式细部/极细竹骨和边缘像素可能变化，不作像素保真认证",
+      "new_candidate": false,
+      "derived_export": true
+    },
+    {
+      "id": "K05",
+      "source": "基线/活动母本/文化_统一测试材料/文化_统一测试资料包/01_风筝素材/5.jpg",
+      "reference": "中间产物/I07/八源图编号参考_REF02.png",
+      "atlas": "中间产物/I07/八素材透明候选_BG06.png",
+      "atlas_region": [
+        385,
+        0,
+        768,
+        515
+      ],
+      "alpha_bbox_within_region": [
+        1,
+        34,
+        383,
+        515
+      ],
+      "sprite": "中间产物\\I07\\K05_图集派生.png",
+      "sprite_sha256": "b1392157d2dfe428485eb86e3fd4089ba9442ebd1ce81d6d918b663d422917d4",
+      "fidelity": "主要形制可对应；生成式细部/极细竹骨和边缘像素可能变化，不作像素保真认证",
+      "new_candidate": false,
+      "derived_export": true
+    },
+    {
+      "id": "K06",
+      "source": "基线/活动母本/文化_统一测试材料/文化_统一测试资料包/01_风筝素材/6.jpg",
+      "reference": "中间产物/I07/八源图编号参考_REF02.png",
+      "atlas": "中间产物/I07/八素材透明候选_BG06.png",
+      "atlas_region": [
+        768,
+        0,
+        1185,
+        515
+      ],
+      "alpha_bbox_within_region": [
+        0,
+        19,
+        417,
+        515
+      ],
+      "sprite": "中间产物\\I07\\K06_图集派生.png",
+      "sprite_sha256": "56ee10d2d716b46cfa558eac7490654a08d270feb2a67b0773ec50b413a6c38f",
+      "fidelity": "主要形制可对应；生成式细部/极细竹骨和边缘像素可能变化，不作像素保真认证",
+      "new_candidate": false,
+      "derived_export": true
+    },
+    {
+      "id": "K07",
+      "source": "基线/活动母本/文化_统一测试材料/文化_统一测试资料包/01_风筝素材/7.jpg",
+      "reference": "中间产物/I07/八源图编号参考_REF02.png",
+      "atlas": "中间产物/I07/八素材透明候选_BG06.png",
+      "atlas_region": [
+        1185,
+        0,
+        1565,
+        515
+      ],
+      "alpha_bbox_within_region": [
+        0,
+        52,
+        366,
+        513
+      ],
+      "sprite": "中间产物\\I07\\K07_图集派生.png",
+      "sprite_sha256": "1dd4986cde302f0902bc843e062be91bad7c542de5e9fd11fb5144cfb27a107a",
+      "fidelity": "主要形制可对应；生成式细部/极细竹骨和边缘像素可能变化，不作像素保真认证",
+      "new_candidate": false,
+      "derived_export": true
+    },
+    {
+      "id": "K10",
+      "source": "基线/活动母本/文化_统一测试材料/文化_统一测试资料包/01_风筝素材/10.jpg",
+      "reference": "中间产物/I07/八源图编号参考_REF02.png",
+      "atlas": "中间产物/I07/八素材透明候选_BG06.png",
+      "atlas_region": [
+        0,
+        515,
+        390,
+        1005
+      ],
+      "alpha_bbox_within_region": [
+        0,
+        0,
+        390,
+        446
+      ],
+      "sprite": "中间产物\\I07\\K10_图集派生.png",
+      "sprite_sha256": "87e2c1e923fd4444105e01ea0493ccd9e1c20af196a537b28ed5a77aa2ee8191",
+      "fidelity": "主要形制可对应；生成式细部/极细竹骨和边缘像素可能变化，不作像素保真认证",
+      "new_candidate": false,
+      "derived_export": true
+    },
+    {
+      "id": "K12",
+      "source": "基线/活动母本/文化_统一测试材料/文化_统一测试资料包/01_风筝素材/12.jpg",
+      "reference": "中间产物/I07/八源图编号参考_REF02.png",
+      "atlas": "中间产物/I07/八素材透明候选_BG06.png",
+      "atlas_region": [
+        390,
+        515,
+        796,
+        1005
+      ],
+      "alpha_bbox_within_region": [
+        0,
+        0,
+        406,
+        490
+      ],
+      "sprite": "中间产物\\I07\\K12_图集派生.png",
+      "sprite_sha256": "dedbd71728eafd400c82f84e84b4acc364c22d9a6b53675c327f5f7d19647e99",
+      "fidelity": "主要形制可对应；生成式细部/极细竹骨和边缘像素可能变化，不作像素保真认证",
+      "new_candidate": false,
+      "derived_export": true
+    },
+    {
+      "id": "K13",
+      "source": "基线/活动母本/文化_统一测试材料/文化_统一测试资料包/01_风筝素材/13.jpg",
+      "reference": "中间产物/I07/八源图编号参考_REF02.png",
+      "atlas": "中间产物/I07/八素材透明候选_BG06.png",
+      "atlas_region": [
+        796,
+        515,
+        1182,
+        1005
+      ],
+      "alpha_bbox_within_region": [
+        0,
+        0,
+        384,
+        458
+      ],
+      "sprite": "中间产物\\I07\\K13_图集派生.png",
+      "sprite_sha256": "d9d8227f7c3443819c08c5eceec62ea2e70a173dacc8cfa24cedeb36fdc7d0c2",
+      "fidelity": "主要形制可对应；生成式细部/极细竹骨和边缘像素可能变化，不作像素保真认证",
+      "new_candidate": false,
+      "derived_export": true
+    },
+    {
+      "id": "K15",
+      "source": "基线/活动母本/文化_统一测试材料/文化_统一测试资料包/01_风筝素材/15.jpg",
+      "reference": "中间产物/I07/八源图编号参考_REF02.png",
+      "atlas": "中间产物/I07/八素材透明候选_BG06.png",
+      "atlas_region": [
+        1182,
+        515,
+        1565,
+        1005
+      ],
+      "alpha_bbox_within_region": [
+        5,
+        5,
+        383,
+        471
+      ],
+      "sprite": "中间产物\\I07\\K15_图集派生.png",
+      "sprite_sha256": "d86aa97b9f3834255e7a6332d38004a94e89007c8ded2ac4011d52fba1a9f025",
+      "fidelity": "主要形制可对应；生成式细部/极细竹骨和边缘像素可能变化，不作像素保真认证",
+      "new_candidate": false,
+      "derived_export": true
+    }
+  ],
+  "asset_copies": {
+    "paper": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/paper.png",
+      "source_project_path": "中间产物/I10/去装饰纸底候选_BG08.png",
+      "sha256": "c0a41addb7491d5857211f39869f9b5bbc04cd376855d603d255f584445a5158",
+      "original_size_px": [
+        1672,
+        941
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "background_K02_upper_third": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/background_K02_upper_third.png",
+      "source_project_path": "中间产物/I10/K02上三分之一_派生.png",
+      "sha256": "fdacdb58f545032e27396fb276fc5823fc93d52eee769e7f15d204fc66908f41",
+      "original_size_px": [
+        1109,
+        448
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "header_decoration": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/header_decoration.png",
+      "source_project_path": "中间产物/I12/顶部全宽装饰_派生.png",
+      "sha256": "b3d25b29e703e5d9aa492da388724149626d8ce5497ac8c1195c5915384c0c90",
+      "original_size_px": [
+        3840,
+        270
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "logo": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/logo.png",
+      "source_project_path": "中间产物/机构标识_原SVG渲染.png",
+      "sha256": "2a456f1a46762ce884f85434b1fdd0ee971d4f8b5a941e11bab8d48618ef1f03",
+      "original_size_px": [
+        256,
+        256
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K03": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K03.png",
+      "source_project_path": "中间产物\\I07\\K03_图集派生.png",
+      "sha256": "6f16dabf9c354600d181af35f14c8b49b47b8574a043862bad735159c47997f1",
+      "original_size_px": [
+        370,
+        490
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K05": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K05.png",
+      "source_project_path": "中间产物\\I07\\K05_图集派生.png",
+      "sha256": "b1392157d2dfe428485eb86e3fd4089ba9442ebd1ce81d6d918b663d422917d4",
+      "original_size_px": [
+        382,
+        481
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K06": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K06.png",
+      "source_project_path": "中间产物\\I07\\K06_图集派生.png",
+      "sha256": "56ee10d2d716b46cfa558eac7490654a08d270feb2a67b0773ec50b413a6c38f",
+      "original_size_px": [
+        417,
+        496
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K07": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K07.png",
+      "source_project_path": "中间产物\\I07\\K07_图集派生.png",
+      "sha256": "1dd4986cde302f0902bc843e062be91bad7c542de5e9fd11fb5144cfb27a107a",
+      "original_size_px": [
+        366,
+        461
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K10": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K10.png",
+      "source_project_path": "中间产物\\I07\\K10_图集派生.png",
+      "sha256": "87e2c1e923fd4444105e01ea0493ccd9e1c20af196a537b28ed5a77aa2ee8191",
+      "original_size_px": [
+        390,
+        446
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K12": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K12.png",
+      "source_project_path": "中间产物\\I07\\K12_图集派生.png",
+      "sha256": "dedbd71728eafd400c82f84e84b4acc364c22d9a6b53675c327f5f7d19647e99",
+      "original_size_px": [
+        406,
+        490
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K13": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K13.png",
+      "source_project_path": "中间产物\\I07\\K13_图集派生.png",
+      "sha256": "d9d8227f7c3443819c08c5eceec62ea2e70a173dacc8cfa24cedeb36fdc7d0c2",
+      "original_size_px": [
+        384,
+        458
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K15": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K15.png",
+      "source_project_path": "中间产物\\I07\\K15_图集派生.png",
+      "sha256": "d86aa97b9f3834255e7a6332d38004a94e89007c8ded2ac4011d52fba1a9f025",
+      "original_size_px": [
+        378,
+        466
+      ],
+      "copy_only_not_new_candidate": true
+    }
+  },
+  "font_files_already_in_seed": {
+    "zh-sans": {
+      "path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "axes_order": [
+        "wght"
+      ],
+      "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+    },
+    "en-sans": {
+      "path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "axes_order": [
+        "opsz",
+        "wght"
+      ],
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    "zh-headline": {
+      "path": "assets/category-templates/traditional-cultural-exhibition/zh-CN/assets/fonts/MaShanZheng-Regular.ttf",
+      "axes_order": [],
+      "actual_style": "Regular；固定字体，不能把记录的900/650称为实际字重轴",
+      "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb"
+    },
+    "en-headline": {
+      "path": "assets/category-templates/traditional-cultural-exhibition/en/assets/fonts/BodoniModa.ttf",
+      "axes_order": [
+        "wght",
+        "opsz"
+      ],
+      "sha256": "550f5e34ee0a828d7941b1fe9bc58b34e5260d3f33a61532e6d0a0114e79a5cf"
+    },
+    "zh-heritage": {
+      "path": "assets/category-templates/traditional-cultural-exhibition/zh-CN/assets/fonts/NotoSerifSC.ttf",
+      "axes_order": [
+        "wght"
+      ],
+      "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9"
+    }
+  },
+  "original_source_figure_dimensions": {
+    "background_alpha_subject": [
+      1109,
+      1345
+    ],
+    "upper_third_cutout": [
+      1109,
+      448
+    ]
+  },
+  "outputs_using_S03_at_build": []
+}

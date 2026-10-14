@@ -1,0 +1,67 @@
+{
+  "preset_id": "weifang-kite-digital-v1",
+  "content_master": {
+    "status": "pending",
+    "revision": "",
+    "user_confirmation_source": ""
+  },
+  "selection": {
+    "status": "pending",
+    "user_confirmation_source": "",
+    "selected_ids": [],
+    "sprites": []
+  },
+  "background": {
+    "source_id": "02",
+    "path": "",
+    "original_source": "",
+    "choice_mode": "default_02",
+    "user_selection_source": "",
+    "rule": "Use current asset 02 by default; user may freely choose another valid background ID; background does not consume the eight foreground slots"
+  },
+  "logo": {
+    "path": "",
+    "source": ""
+  },
+  "copy": {
+    "zh-CN": {
+      "zh-CN-T01": "",
+      "zh-CN-T02": "",
+      "zh-CN-T03": "",
+      "zh-CN-T04": "",
+      "zh-CN-T05": "",
+      "zh-CN-T06": "",
+      "zh-CN-T07": "",
+      "zh-CN-T08": "",
+      "zh-CN-T09": "",
+      "zh-CN-T10": "",
+      "zh-CN-T11": "",
+      "zh-CN-T12": "",
+      "zh-CN-T13": "",
+      "zh-CN-T14": "",
+      "zh-CN-T15": "",
+      "zh-CN-T16": "",
+      "zh-CN-T17": ""
+    },
+    "en": {
+      "en-T01": "",
+      "en-T02": "",
+      "en-T03": "",
+      "en-T04": "",
+      "en-T05": "",
+      "en-T06": "",
+      "en-T07": "",
+      "en-T08": "",
+      "en-T09": "",
+      "en-T10": "",
+      "en-T11": "",
+      "en-T12": "",
+      "en-T13": "",
+      "en-T14": "",
+      "en-T15": "",
+      "en-T16": "",
+      "en-T17": ""
+    }
+  },
+  "notes": "sprite item: {id, path, original_source}; paths relative to job.json or absolute. Keep source material and confirmed copy in the project, not inside the Skill."
+}

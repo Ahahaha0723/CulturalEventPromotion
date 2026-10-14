@@ -1,0 +1,570 @@
+{
+  "preset_id": "weifang-kite-digital-v1",
+  "language": "zh-CN",
+  "source_output": "T2_v11 / I13",
+  "source_skill": "S01",
+  "source_renderer": "R13",
+  "accepted_by": "D24",
+  "canvas_px": [
+    3840,
+    2160
+  ],
+  "coordinate_origin": "top-left; x rightwards, y downwards; units px",
+  "text_anchor": "lt; draw_xy is actual draw origin, bbox is measured glyph area",
+  "texts": [
+    {
+      "text": "城市文化中心",
+      "field": "C01",
+      "bbox": [
+        370,
+        146,
+        658,
+        192
+      ],
+      "size_px": 48,
+      "weight": 550,
+      "font_family": "NotoSansSC.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T01",
+      "draw_xy": [
+        370,
+        146
+      ],
+      "anchor": "lt",
+      "font_id": "zh-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "actual_variation_axes": [
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "left",
+      "alignment_reference_x": 370,
+      "measured_glyph_center_x": 514.0
+    },
+    {
+      "text": "数字艺术展",
+      "field": "category",
+      "bbox": [
+        3430,
+        177,
+        3640,
+        218
+      ],
+      "size_px": 42,
+      "weight": 550,
+      "font_family": "NotoSansSC.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T02",
+      "draw_xy": [
+        3430,
+        177
+      ],
+      "anchor": "lt",
+      "font_id": "zh-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "actual_variation_axes": [
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "right",
+      "alignment_reference_x": 3640,
+      "measured_glyph_center_x": 3535.0
+    },
+    {
+      "text": "风起鸢成",
+      "field": "C02",
+      "bbox": [
+        1260,
+        560,
+        2580,
+        868
+      ],
+      "size_px": 330,
+      "weight": 900,
+      "font_family": "MaShanZheng-Regular.ttf",
+      "font_role": "headline",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T03",
+      "draw_xy": [
+        1260,
+        560
+      ],
+      "anchor": "lt",
+      "font_id": "zh-headline",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/zh-CN/assets/fonts/MaShanZheng-Regular.ttf",
+      "actual_variation_axes": [],
+      "requested_weight": 900,
+      "actual_weight_note": "固定Regular；requested_weight未应用",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 1920,
+      "measured_glyph_center_x": 1920.0
+    },
+    {
+      "text": "潍坊风筝制作技艺",
+      "field": "C02",
+      "bbox": [
+        1584,
+        1010,
+        2256,
+        1093
+      ],
+      "size_px": 84,
+      "weight": 800,
+      "font_family": "NotoSansSC.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T04",
+      "draw_xy": [
+        1584,
+        1010
+      ],
+      "anchor": "lt",
+      "font_id": "zh-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "actual_variation_axes": [
+        800
+      ],
+      "requested_weight": 800,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 1920,
+      "measured_glyph_center_x": 1920.0
+    },
+    {
+      "text": "数字艺术展",
+      "field": "C02",
+      "bbox": [
+        1690,
+        1130,
+        2150,
+        1220
+      ],
+      "size_px": 92,
+      "weight": 800,
+      "font_family": "NotoSansSC.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T05",
+      "draw_xy": [
+        1690,
+        1130
+      ],
+      "anchor": "lt",
+      "font_id": "zh-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "actual_variation_axes": [
+        800
+      ],
+      "requested_weight": 800,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 1920,
+      "measured_glyph_center_x": 1920.0
+    },
+    {
+      "text": "国家级非物质文化遗产代表性项目：",
+      "field": "C03",
+      "bbox": [
+        1440,
+        1350,
+        2400,
+        1408
+      ],
+      "size_px": 60,
+      "weight": 550,
+      "font_family": "NotoSansSC.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T06",
+      "draw_xy": [
+        1440,
+        1350
+      ],
+      "anchor": "lt",
+      "font_id": "zh-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "actual_variation_axes": [
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 1920,
+      "measured_glyph_center_x": 1920.0
+    },
+    {
+      "text": "风筝制作技艺（潍坊风筝）",
+      "field": "C03",
+      "bbox": [
+        1530,
+        1440,
+        2310,
+        1503
+      ],
+      "size_px": 65,
+      "weight": 700,
+      "font_family": "NotoSerifSC.ttf",
+      "font_role": "heritage",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T07",
+      "draw_xy": [
+        1530,
+        1440
+      ],
+      "anchor": "lt",
+      "font_id": "zh-heritage",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/zh-CN/assets/fonts/NotoSerifSC.ttf",
+      "actual_variation_axes": [
+        700
+      ],
+      "requested_weight": 700,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 1920,
+      "measured_glyph_center_x": 1920.0
+    },
+    {
+      "text": "扎",
+      "field": "C04",
+      "bbox": [
+        363,
+        1560,
+        447,
+        1628
+      ],
+      "size_px": 84,
+      "weight": 650,
+      "font_family": "MaShanZheng-Regular.ttf",
+      "font_role": "headline",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T08",
+      "draw_xy": [
+        363,
+        1560
+      ],
+      "anchor": "lt",
+      "font_id": "zh-headline",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/zh-CN/assets/fonts/MaShanZheng-Regular.ttf",
+      "actual_variation_axes": [],
+      "requested_weight": 650,
+      "actual_weight_note": "固定Regular；requested_weight未应用",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 405,
+      "measured_glyph_center_x": 405.0
+    },
+    {
+      "text": "绘",
+      "field": "C04",
+      "bbox": [
+        903,
+        1560,
+        987,
+        1632
+      ],
+      "size_px": 84,
+      "weight": 650,
+      "font_family": "MaShanZheng-Regular.ttf",
+      "font_role": "headline",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T09",
+      "draw_xy": [
+        903,
+        1560
+      ],
+      "anchor": "lt",
+      "font_id": "zh-headline",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/zh-CN/assets/fonts/MaShanZheng-Regular.ttf",
+      "actual_variation_axes": [],
+      "requested_weight": 650,
+      "actual_weight_note": "固定Regular；requested_weight未应用",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 945,
+      "measured_glyph_center_x": 945.0
+    },
+    {
+      "text": "糊",
+      "field": "C04",
+      "bbox": [
+        2853,
+        1560,
+        2937,
+        1628
+      ],
+      "size_px": 84,
+      "weight": 650,
+      "font_family": "MaShanZheng-Regular.ttf",
+      "font_role": "headline",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T10",
+      "draw_xy": [
+        2853,
+        1560
+      ],
+      "anchor": "lt",
+      "font_id": "zh-headline",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/zh-CN/assets/fonts/MaShanZheng-Regular.ttf",
+      "actual_variation_axes": [],
+      "requested_weight": 650,
+      "actual_weight_note": "固定Regular；requested_weight未应用",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 2895,
+      "measured_glyph_center_x": 2895.0
+    },
+    {
+      "text": "放",
+      "field": "C04",
+      "bbox": [
+        3393,
+        1560,
+        3477,
+        1631
+      ],
+      "size_px": 84,
+      "weight": 650,
+      "font_family": "MaShanZheng-Regular.ttf",
+      "font_role": "headline",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T11",
+      "draw_xy": [
+        3393,
+        1560
+      ],
+      "anchor": "lt",
+      "font_id": "zh-headline",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/zh-CN/assets/fonts/MaShanZheng-Regular.ttf",
+      "actual_variation_axes": [],
+      "requested_weight": 650,
+      "actual_weight_note": "固定Regular；requested_weight未应用",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 3435,
+      "measured_glyph_center_x": 3435.0
+    },
+    {
+      "text": "2026.12.12 — 2027.03.14",
+      "field": "C05",
+      "bbox": [
+        180,
+        1790,
+        1471,
+        1872
+      ],
+      "size_px": 105,
+      "weight": 800,
+      "font_family": "NotoSansSC.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T12",
+      "draw_xy": [
+        180,
+        1790
+      ],
+      "anchor": "lt",
+      "font_id": "zh-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "actual_variation_axes": [
+        800
+      ],
+      "requested_weight": 800,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "left",
+      "alignment_reference_x": 180,
+      "measured_glyph_center_x": 825.5
+    },
+    {
+      "text": "免费参观 · 须提前预约",
+      "field": "C07",
+      "bbox": [
+        180,
+        1950,
+        808,
+        2008
+      ],
+      "size_px": 60,
+      "weight": 550,
+      "font_family": "NotoSansSC.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T13",
+      "draw_xy": [
+        180,
+        1950
+      ],
+      "anchor": "lt",
+      "font_id": "zh-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "actual_variation_axes": [
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "left",
+      "alignment_reference_x": 180,
+      "measured_glyph_center_x": 494.0
+    },
+    {
+      "text": "周二至周日 10:00–20:00",
+      "field": "C06",
+      "bbox": [
+        2977,
+        1790,
+        3640,
+        1844
+      ],
+      "size_px": 60,
+      "weight": 550,
+      "font_family": "NotoSansSC.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T14",
+      "draw_xy": [
+        2977,
+        1790
+      ],
+      "anchor": "lt",
+      "font_id": "zh-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "actual_variation_axes": [
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "right",
+      "alignment_reference_x": 3640,
+      "measured_glyph_center_x": 3308.5
+    },
+    {
+      "text": "19:00停止入场",
+      "field": "C06",
+      "bbox": [
+        3242,
+        1870,
+        3640,
+        1928
+      ],
+      "size_px": 60,
+      "weight": 550,
+      "font_family": "NotoSansSC.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T15",
+      "draw_xy": [
+        3242,
+        1870
+      ],
+      "anchor": "lt",
+      "font_id": "zh-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "actual_variation_axes": [
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "right",
+      "alignment_reference_x": 3640,
+      "measured_glyph_center_x": 3441.0
+    },
+    {
+      "text": "周一闭馆",
+      "field": "C06",
+      "bbox": [
+        3400,
+        1950,
+        3640,
+        2008
+      ],
+      "size_px": 60,
+      "weight": 550,
+      "font_family": "NotoSansSC.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "zh-CN-T16",
+      "draw_xy": [
+        3400,
+        1950
+      ],
+      "anchor": "lt",
+      "font_id": "zh-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "actual_variation_axes": [
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "right",
+      "alignment_reference_x": 3640,
+      "measured_glyph_center_x": 3520.0
+    },
+    {
+      "text": "课程测试 · 非真实机构主办",
+      "field": null,
+      "bbox": [
+        180,
+        2090,
+        566,
+        2120
+      ],
+      "size_px": 31,
+      "weight": 400,
+      "font_family": "NotoSansSC.ttf",
+      "font_role": "sans",
+      "color": "#5C6863",
+      "plate": false,
+      "id": "zh-CN-T17",
+      "draw_xy": [
+        180,
+        2090
+      ],
+      "anchor": "lt",
+      "font_id": "zh-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "actual_variation_axes": [
+        400
+      ],
+      "requested_weight": 400,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "left",
+      "alignment_reference_x": 180,
+      "measured_glyph_center_x": 373.0
+    }
+  ],
+  "expected_original_pixel_sha256": "044dd3cb3a2dcdd38def8b25468650b7ada0b00229a557fc7c2f36054499597d",
+  "expected_original_png_sha256": "e73af4ad54102a8bb58815f9d28a859f8e49785097da6a07ac7e99e6587f0730",
+  "copy_and_layout_fixed": true
+}

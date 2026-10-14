@@ -1,0 +1,597 @@
+{
+  "preset_id": "weifang-kite-digital-v1",
+  "language": "en",
+  "source_output": "T2_v11 / I13",
+  "source_skill": "S01",
+  "source_renderer": "R13",
+  "accepted_by": "D24",
+  "canvas_px": [
+    3840,
+    2160
+  ],
+  "coordinate_origin": "top-left; x rightwards, y downwards; units px",
+  "text_anchor": "lt; draw_xy is actual draw origin, bbox is measured glyph area",
+  "texts": [
+    {
+      "text": "City Cultural Center",
+      "field": "C01",
+      "bbox": [
+        370,
+        146,
+        805,
+        190
+      ],
+      "size_px": 48,
+      "weight": 550,
+      "font_family": "Inter.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T01",
+      "draw_xy": [
+        370,
+        146
+      ],
+      "anchor": "lt",
+      "font_id": "en-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "actual_variation_axes": [
+        32,
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "left",
+      "alignment_reference_x": 370,
+      "measured_glyph_center_x": 587.5
+    },
+    {
+      "text": "DIGITAL ART",
+      "field": "category",
+      "bbox": [
+        3388,
+        177,
+        3640,
+        207
+      ],
+      "size_px": 42,
+      "weight": 550,
+      "font_family": "Inter.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T02",
+      "draw_xy": [
+        3388,
+        177
+      ],
+      "anchor": "lt",
+      "font_id": "en-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "actual_variation_axes": [
+        32,
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "right",
+      "alignment_reference_x": 3640,
+      "measured_glyph_center_x": 3514.0
+    },
+    {
+      "text": "Where Wind",
+      "field": "C02",
+      "bbox": [
+        1266,
+        470,
+        2574,
+        636
+      ],
+      "size_px": 215,
+      "weight": 650,
+      "font_family": "BodoniModa.ttf",
+      "font_role": "headline",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T03",
+      "draw_xy": [
+        1266,
+        470
+      ],
+      "anchor": "lt",
+      "font_id": "en-headline",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/en/assets/fonts/BodoniModa.ttf",
+      "actual_variation_axes": [
+        650,
+        72
+      ],
+      "requested_weight": 650,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 1920,
+      "measured_glyph_center_x": 1920.0
+    },
+    {
+      "text": "Takes Form",
+      "field": "C02",
+      "bbox": [
+        1319,
+        745,
+        2521,
+        909
+      ],
+      "size_px": 215,
+      "weight": 650,
+      "font_family": "BodoniModa.ttf",
+      "font_role": "headline",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T04",
+      "draw_xy": [
+        1319,
+        745
+      ],
+      "anchor": "lt",
+      "font_id": "en-headline",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/en/assets/fonts/BodoniModa.ttf",
+      "actual_variation_axes": [
+        650,
+        72
+      ],
+      "requested_weight": 650,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 1920,
+      "measured_glyph_center_x": 1920.0
+    },
+    {
+      "text": "A Digital Art Exhibition of",
+      "field": "C02",
+      "bbox": [
+        1529,
+        1100,
+        2311,
+        1162
+      ],
+      "size_px": 66,
+      "weight": 750,
+      "font_family": "Inter.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T05",
+      "draw_xy": [
+        1530,
+        1100
+      ],
+      "anchor": "lt",
+      "font_id": "en-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "actual_variation_axes": [
+        32,
+        750
+      ],
+      "requested_weight": 750,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 1920,
+      "measured_glyph_center_x": 1920.0
+    },
+    {
+      "text": "Weifang Kite-Making Craft",
+      "field": "C02",
+      "bbox": [
+        1500,
+        1200,
+        2341,
+        1262
+      ],
+      "size_px": 66,
+      "weight": 750,
+      "font_family": "Inter.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T06",
+      "draw_xy": [
+        1500,
+        1200
+      ],
+      "anchor": "lt",
+      "font_id": "en-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "actual_variation_axes": [
+        32,
+        750
+      ],
+      "requested_weight": 750,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 1920,
+      "measured_glyph_center_x": 1920.5
+    },
+    {
+      "text": "National-level Intangible Cultural Heritage:",
+      "field": "C03",
+      "bbox": [
+        1356,
+        1390,
+        2485,
+        1446
+      ],
+      "size_px": 60,
+      "weight": 550,
+      "font_family": "Inter.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T07",
+      "draw_xy": [
+        1356,
+        1390
+      ],
+      "anchor": "lt",
+      "font_id": "en-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "actual_variation_axes": [
+        32,
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 1920,
+      "measured_glyph_center_x": 1920.5
+    },
+    {
+      "text": "Weifang Kite-Making Craft",
+      "field": "C03",
+      "bbox": [
+        1520,
+        1475,
+        2319,
+        1535
+      ],
+      "size_px": 65,
+      "weight": 650,
+      "font_family": "Inter.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T08",
+      "draw_xy": [
+        1520,
+        1475
+      ],
+      "anchor": "lt",
+      "font_id": "en-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "actual_variation_axes": [
+        32,
+        650
+      ],
+      "requested_weight": 650,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 1920,
+      "measured_glyph_center_x": 1919.5
+    },
+    {
+      "text": "frame,",
+      "field": "C04",
+      "bbox": [
+        312,
+        1570,
+        497,
+        1625
+      ],
+      "size_px": 60,
+      "weight": 650,
+      "font_family": "BodoniModa.ttf",
+      "font_role": "headline",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T09",
+      "draw_xy": [
+        312,
+        1570
+      ],
+      "anchor": "lt",
+      "font_id": "en-headline",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/en/assets/fonts/BodoniModa.ttf",
+      "actual_variation_axes": [
+        650,
+        72
+      ],
+      "requested_weight": 650,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 405,
+      "measured_glyph_center_x": 404.5
+    },
+    {
+      "text": "paint,",
+      "field": "C04",
+      "bbox": [
+        864,
+        1570,
+        1027,
+        1631
+      ],
+      "size_px": 60,
+      "weight": 650,
+      "font_family": "BodoniModa.ttf",
+      "font_role": "headline",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T10",
+      "draw_xy": [
+        864,
+        1570
+      ],
+      "anchor": "lt",
+      "font_id": "en-headline",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/en/assets/fonts/BodoniModa.ttf",
+      "actual_variation_axes": [
+        650,
+        72
+      ],
+      "requested_weight": 650,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 945,
+      "measured_glyph_center_x": 945.5
+    },
+    {
+      "text": "paste and",
+      "field": "C04",
+      "bbox": [
+        2758,
+        1570,
+        3032,
+        1630
+      ],
+      "size_px": 60,
+      "weight": 650,
+      "font_family": "BodoniModa.ttf",
+      "font_role": "headline",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T11",
+      "draw_xy": [
+        2758,
+        1570
+      ],
+      "anchor": "lt",
+      "font_id": "en-headline",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/en/assets/fonts/BodoniModa.ttf",
+      "actual_variation_axes": [
+        650,
+        72
+      ],
+      "requested_weight": 650,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 2895,
+      "measured_glyph_center_x": 2895.0
+    },
+    {
+      "text": "fly",
+      "field": "C04",
+      "bbox": [
+        3395,
+        1570,
+        3475,
+        1632
+      ],
+      "size_px": 60,
+      "weight": 650,
+      "font_family": "BodoniModa.ttf",
+      "font_role": "headline",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T12",
+      "draw_xy": [
+        3395,
+        1570
+      ],
+      "anchor": "lt",
+      "font_id": "en-headline",
+      "font_path": "assets/category-templates/traditional-cultural-exhibition/en/assets/fonts/BodoniModa.ttf",
+      "actual_variation_axes": [
+        650,
+        72
+      ],
+      "requested_weight": 650,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "center",
+      "alignment_reference_x": 3435,
+      "measured_glyph_center_x": 3435.0
+    },
+    {
+      "text": "12 DEC 2026 — 14 MAR 2027",
+      "field": "C05",
+      "bbox": [
+        180,
+        1790,
+        1389,
+        1858
+      ],
+      "size_px": 89,
+      "weight": 800,
+      "font_family": "Inter.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T13",
+      "draw_xy": [
+        180,
+        1790
+      ],
+      "anchor": "lt",
+      "font_id": "en-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "actual_variation_axes": [
+        32,
+        800
+      ],
+      "requested_weight": 800,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "left",
+      "alignment_reference_x": 180,
+      "measured_glyph_center_x": 784.5
+    },
+    {
+      "text": "Free admission with advance reservation",
+      "field": "C07",
+      "bbox": [
+        180,
+        1950,
+        1276,
+        1995
+      ],
+      "size_px": 60,
+      "weight": 550,
+      "font_family": "Inter.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T14",
+      "draw_xy": [
+        180,
+        1950
+      ],
+      "anchor": "lt",
+      "font_id": "en-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "actual_variation_axes": [
+        32,
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "left",
+      "alignment_reference_x": 180,
+      "measured_glyph_center_x": 728.0
+    },
+    {
+      "text": "Tuesday–Sunday 10:00–20:00",
+      "field": "C06",
+      "bbox": [
+        2816,
+        1790,
+        3640,
+        1846
+      ],
+      "size_px": 60,
+      "weight": 550,
+      "font_family": "Inter.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T15",
+      "draw_xy": [
+        2816,
+        1790
+      ],
+      "anchor": "lt",
+      "font_id": "en-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "actual_variation_axes": [
+        32,
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "right",
+      "alignment_reference_x": 3640,
+      "measured_glyph_center_x": 3228.0
+    },
+    {
+      "text": "Last entry 19:00 · Closed Mondays",
+      "field": "C06",
+      "bbox": [
+        2714,
+        1939,
+        3640,
+        1995
+      ],
+      "size_px": 60,
+      "weight": 550,
+      "font_family": "Inter.ttf",
+      "font_role": "sans",
+      "color": "#172A29",
+      "plate": false,
+      "id": "en-T16",
+      "draw_xy": [
+        2714,
+        1939
+      ],
+      "anchor": "lt",
+      "font_id": "en-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "actual_variation_axes": [
+        32,
+        550
+      ],
+      "requested_weight": 550,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "right",
+      "alignment_reference_x": 3640,
+      "measured_glyph_center_x": 3177.0
+    },
+    {
+      "text": "Course test · Institution is fictional",
+      "field": null,
+      "bbox": [
+        180,
+        2090,
+        643,
+        2112
+      ],
+      "size_px": 31,
+      "weight": 400,
+      "font_family": "Inter.ttf",
+      "font_role": "sans",
+      "color": "#5C6863",
+      "plate": false,
+      "id": "en-T17",
+      "draw_xy": [
+        180,
+        2090
+      ],
+      "anchor": "lt",
+      "font_id": "en-sans",
+      "font_path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "actual_variation_axes": [
+        32,
+        400
+      ],
+      "requested_weight": 400,
+      "actual_weight_note": "以actual_variation_axes为准",
+      "letter_spacing": "Pillow字体默认；未另加字距",
+      "alignment": "left",
+      "alignment_reference_x": 180,
+      "measured_glyph_center_x": 411.5
+    }
+  ],
+  "expected_original_pixel_sha256": "fa978efb59471ac3f4b59d5af4f37bbeb5b72a57788dced8263c794ac4bbb384",
+  "expected_original_png_sha256": "677a5ccb14ad2cfa6fc36d7e0f28d09753df62c0c20b8d79f370169ccc928de4",
+  "copy_and_layout_fixed": true
+}

@@ -1,0 +1,482 @@
+{
+  "preset_id": "weifang-kite-digital-v1",
+  "canvas_px": [
+    3840,
+    2160
+  ],
+  "output_mode": "RGB",
+  "png_dpi": [
+    144,
+    144
+  ],
+  "bbox_convention": "[left,top,right,bottom]; Pillow rectangle drawing includes its endpoint pixels",
+  "palette": {
+    "paper": "#EEEDE6",
+    "ink": "#172A29",
+    "accent": "#E87500",
+    "white": "#FCFCF7",
+    "gray": "#5C6863"
+  },
+  "fonts": {
+    "zh-sans": {
+      "path": "assets/category-templates/digital-art-exhibition/zh-CN/assets/fonts/NotoSansSC.ttf",
+      "axes_order": [
+        "wght"
+      ],
+      "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+    },
+    "en-sans": {
+      "path": "assets/category-templates/digital-art-exhibition/en/assets/fonts/Inter.ttf",
+      "axes_order": [
+        "opsz",
+        "wght"
+      ],
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    "zh-headline": {
+      "path": "assets/category-templates/traditional-cultural-exhibition/zh-CN/assets/fonts/MaShanZheng-Regular.ttf",
+      "axes_order": [],
+      "actual_style": "Regular；固定字体，不能把记录的900/650称为实际字重轴",
+      "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb"
+    },
+    "en-headline": {
+      "path": "assets/category-templates/traditional-cultural-exhibition/en/assets/fonts/BodoniModa.ttf",
+      "axes_order": [
+        "wght",
+        "opsz"
+      ],
+      "sha256": "550f5e34ee0a828d7941b1fe9bc58b34e5260d3f33a61532e6d0a0114e79a5cf"
+    },
+    "zh-heritage": {
+      "path": "assets/category-templates/traditional-cultural-exhibition/zh-CN/assets/fonts/NotoSerifSC.ttf",
+      "axes_order": [
+        "wght"
+      ],
+      "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9"
+    }
+  },
+  "assets": {
+    "paper": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/paper.png",
+      "source_project_path": "中间产物/I10/去装饰纸底候选_BG08.png",
+      "sha256": "c0a41addb7491d5857211f39869f9b5bbc04cd376855d603d255f584445a5158",
+      "original_size_px": [
+        1672,
+        941
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "background_K02_upper_third": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/background_K02_upper_third.png",
+      "source_project_path": "中间产物/I10/K02上三分之一_派生.png",
+      "sha256": "fdacdb58f545032e27396fb276fc5823fc93d52eee769e7f15d204fc66908f41",
+      "original_size_px": [
+        1109,
+        448
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "header_decoration": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/header_decoration.png",
+      "source_project_path": "中间产物/I12/顶部全宽装饰_派生.png",
+      "sha256": "b3d25b29e703e5d9aa492da388724149626d8ce5497ac8c1195c5915384c0c90",
+      "original_size_px": [
+        3840,
+        270
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "logo": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/logo.png",
+      "source_project_path": "中间产物/机构标识_原SVG渲染.png",
+      "sha256": "2a456f1a46762ce884f85434b1fdd0ee971d4f8b5a941e11bab8d48618ef1f03",
+      "original_size_px": [
+        256,
+        256
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K03": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K03.png",
+      "source_project_path": "中间产物\\I07\\K03_图集派生.png",
+      "sha256": "6f16dabf9c354600d181af35f14c8b49b47b8574a043862bad735159c47997f1",
+      "original_size_px": [
+        370,
+        490
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K05": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K05.png",
+      "source_project_path": "中间产物\\I07\\K05_图集派生.png",
+      "sha256": "b1392157d2dfe428485eb86e3fd4089ba9442ebd1ce81d6d918b663d422917d4",
+      "original_size_px": [
+        382,
+        481
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K06": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K06.png",
+      "source_project_path": "中间产物\\I07\\K06_图集派生.png",
+      "sha256": "56ee10d2d716b46cfa558eac7490654a08d270feb2a67b0773ec50b413a6c38f",
+      "original_size_px": [
+        417,
+        496
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K07": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K07.png",
+      "source_project_path": "中间产物\\I07\\K07_图集派生.png",
+      "sha256": "1dd4986cde302f0902bc843e062be91bad7c542de5e9fd11fb5144cfb27a107a",
+      "original_size_px": [
+        366,
+        461
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K10": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K10.png",
+      "source_project_path": "中间产物\\I07\\K10_图集派生.png",
+      "sha256": "87e2c1e923fd4444105e01ea0493ccd9e1c20af196a537b28ed5a77aa2ee8191",
+      "original_size_px": [
+        390,
+        446
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K12": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K12.png",
+      "source_project_path": "中间产物\\I07\\K12_图集派生.png",
+      "sha256": "dedbd71728eafd400c82f84e84b4acc364c22d9a6b53675c327f5f7d19647e99",
+      "original_size_px": [
+        406,
+        490
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K13": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K13.png",
+      "source_project_path": "中间产物\\I07\\K13_图集派生.png",
+      "sha256": "d9d8227f7c3443819c08c5eceec62ea2e70a173dacc8cfa24cedeb36fdc7d0c2",
+      "original_size_px": [
+        384,
+        458
+      ],
+      "copy_only_not_new_candidate": true
+    },
+    "K15": {
+      "path": "assets/layout-presets/weifang-kite-digital-v1/images/K15.png",
+      "source_project_path": "中间产物\\I07\\K15_图集派生.png",
+      "sha256": "d86aa97b9f3834255e7a6332d38004a94e89007c8ded2ac4011d52fba1a9f025",
+      "original_size_px": [
+        378,
+        466
+      ],
+      "copy_only_not_new_candidate": true
+    }
+  },
+  "layer_order": [
+    "paper",
+    "background_K02_upper_third",
+    "quiet_overlay",
+    "header_decoration",
+    "foreground_K03_K05_K06_K07_K10_K12_K13_K15",
+    "orange_process_tracks",
+    "logo",
+    "text_C01",
+    "orange_header_bar",
+    "remaining_texts"
+  ],
+  "paper": {
+    "asset": "paper",
+    "resize_px": [
+      3840,
+      2160
+    ],
+    "resampling": "LANCZOS",
+    "retain_print_texture": true
+  },
+  "background": {
+    "asset": "background_K02_upper_third",
+    "bbox": [
+      0,
+      609,
+      3840,
+      2160
+    ],
+    "resize_px": [
+      3840,
+      1551
+    ],
+    "opacity_multiplier": 0.2,
+    "crop": "actual alpha-subject upper third, already saved as asset",
+    "source_full_alpha_bbox_size": [
+      1109,
+      1345
+    ],
+    "source_crop_size": [
+      1109,
+      448
+    ],
+    "mirror": false
+  },
+  "quiet_overlay": {
+    "rectangle": [
+      1150,
+      350,
+      2690,
+      1060
+    ],
+    "fill": "#EEEDE6",
+    "mask_alpha": 130,
+    "blur_radius": 90
+  },
+  "header_decoration": {
+    "asset": "header_decoration",
+    "bbox": [
+      0,
+      0,
+      3840,
+      270
+    ],
+    "opacity_multiplier": 0.2,
+    "source_alpha_crop_bbox": [
+      34,
+      211,
+      2152,
+      524
+    ],
+    "source_crop_threshold": 8,
+    "threshold_used_for_boundary_only": true,
+    "nonuniform_resize_to": [
+      3840,
+      270
+    ],
+    "bottom_align_to_logo_y": 270
+  },
+  "foreground": [
+    {
+      "id": "K03",
+      "slot": [
+        180,
+        380,
+        630,
+        920
+      ],
+      "bbox": [
+        220,
+        405,
+        590,
+        895
+      ],
+      "mirrored": false,
+      "asset_key": "K03",
+      "fit_method": "Pillow thumbnail LANCZOS, no upscaling; center in slot with round()"
+    },
+    {
+      "id": "K05",
+      "slot": [
+        720,
+        380,
+        1170,
+        920
+      ],
+      "bbox": [
+        754,
+        410,
+        1136,
+        891
+      ],
+      "mirrored": false,
+      "asset_key": "K05",
+      "fit_method": "Pillow thumbnail LANCZOS, no upscaling; center in slot with round()"
+    },
+    {
+      "id": "K06",
+      "slot": [
+        2670,
+        380,
+        3120,
+        920
+      ],
+      "bbox": [
+        2686,
+        402,
+        3103,
+        898
+      ],
+      "mirrored": false,
+      "asset_key": "K06",
+      "fit_method": "Pillow thumbnail LANCZOS, no upscaling; center in slot with round()"
+    },
+    {
+      "id": "K07",
+      "slot": [
+        3210,
+        380,
+        3660,
+        920
+      ],
+      "bbox": [
+        3252,
+        420,
+        3618,
+        881
+      ],
+      "mirrored": false,
+      "asset_key": "K07",
+      "fit_method": "Pillow thumbnail LANCZOS, no upscaling; center in slot with round()"
+    },
+    {
+      "id": "K10",
+      "slot": [
+        180,
+        990,
+        630,
+        1530
+      ],
+      "bbox": [
+        210,
+        1037,
+        600,
+        1483
+      ],
+      "mirrored": false,
+      "asset_key": "K10",
+      "fit_method": "Pillow thumbnail LANCZOS, no upscaling; center in slot with round()"
+    },
+    {
+      "id": "K12",
+      "slot": [
+        720,
+        990,
+        1170,
+        1530
+      ],
+      "bbox": [
+        742,
+        1015,
+        1148,
+        1505
+      ],
+      "mirrored": false,
+      "asset_key": "K12",
+      "fit_method": "Pillow thumbnail LANCZOS, no upscaling; center in slot with round()"
+    },
+    {
+      "id": "K13",
+      "slot": [
+        2670,
+        990,
+        3120,
+        1530
+      ],
+      "bbox": [
+        2703,
+        1031,
+        3087,
+        1489
+      ],
+      "mirrored": false,
+      "asset_key": "K13",
+      "fit_method": "Pillow thumbnail LANCZOS, no upscaling; center in slot with round()"
+    },
+    {
+      "id": "K15",
+      "slot": [
+        3210,
+        990,
+        3660,
+        1530
+      ],
+      "bbox": [
+        3246,
+        1027,
+        3624,
+        1493
+      ],
+      "mirrored": false,
+      "asset_key": "K15",
+      "fit_method": "Pillow thumbnail LANCZOS, no upscaling; center in slot with round()"
+    }
+  ],
+  "process_tracks": [
+    {
+      "center_x": 405,
+      "rectangle": [
+        310,
+        1650,
+        500,
+        1661
+      ],
+      "fill": "#E87500"
+    },
+    {
+      "center_x": 945,
+      "rectangle": [
+        850,
+        1650,
+        1040,
+        1661
+      ],
+      "fill": "#E87500"
+    },
+    {
+      "center_x": 2895,
+      "rectangle": [
+        2800,
+        1650,
+        2990,
+        1661
+      ],
+      "fill": "#E87500"
+    },
+    {
+      "center_x": 3435,
+      "rectangle": [
+        3340,
+        1650,
+        3530,
+        1661
+      ],
+      "fill": "#E87500"
+    }
+  ],
+  "logo": {
+    "asset": "logo",
+    "bbox": [
+      140,
+      70,
+      340,
+      270
+    ],
+    "resize_px": [
+      200,
+      200
+    ],
+    "resampling": "LANCZOS"
+  },
+  "header_bar": {
+    "rectangle": [
+      3260,
+      124,
+      3640,
+      137
+    ],
+    "fill": "#E87500"
+  },
+  "separator_dashes": false,
+  "separator_square_nodes": false,
+  "white_title_plates": false,
+  "orange_ticket_plate": false,
+  "headline_separator_colon_visible": false,
+  "fixed_primary_text_center_x": 1920,
+  "fixed_right_alignment_x": 3640,
+  "known_limits": [
+    "E23 atlas slicing/fine-edge fidelity risk",
+    "E33 internal paper-color areas remain in decoration",
+    "font rendering may vary across Pillow/FreeType versions; verify glyph bboxes and pixel hashes"
+  ]
+}
