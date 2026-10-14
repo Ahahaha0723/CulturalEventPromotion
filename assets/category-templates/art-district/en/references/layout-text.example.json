@@ -1,0 +1,53 @@
+{
+  "title_lines": [
+    "Fresh",
+    "Corners"
+  ],
+  "subtitle_lines": [
+    "Wutongli Arts District",
+    "Co-creation Days"
+  ],
+  "date": "Nov 21-22, 2026",
+  "opening_hours": "Daily 10:00-19:00",
+  "slogan_lines": [
+    "Roam the",
+    [
+      {
+        "text": "lanes,",
+        "bold": true
+      },
+      {
+        "text": " let",
+        "bold": false
+      }
+    ],
+    [
+      {
+        "text": "creativity",
+        "bold": true
+      }
+    ],
+    "happen nearby."
+  ],
+  "organizer": "Wutongli Arts District Operations Center",
+  "activity_labels": [
+    "Street Photography",
+    "Courtyard Concert",
+    "Pre-loved Item Swap",
+    "Printmaking Experience"
+  ],
+  "footer_left_lines": [
+    "Wutongli Arts District",
+    "East Gate Service Station",
+    "26 Jiuchang St, Hexi District, Wuzhou"
+  ],
+  "footer_right_lines": [
+    "Free public access",
+    "Selected activities require advance booking",
+    "Start at East Gate; collect your co-creation map"
+  ],
+  "booking_notes": [
+    "Book printmaking and photography in advance; join the item swap and concert on site.",
+    "For sessions and booking details, ask the East Gate Service Station."
+  ]
+}

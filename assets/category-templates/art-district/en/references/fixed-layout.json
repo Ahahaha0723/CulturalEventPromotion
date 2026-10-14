@@ -1,0 +1,470 @@
+{
+  "version": "english-layout-v3-tilted-overlapping-title-near-scene-labels-muted-notes",
+  "canvas": {
+    "width": 2400,
+    "height": 3000,
+    "ratio": "4:5"
+  },
+  "colors": {
+    "background": "#FFFFFF",
+    "silhouette": "#018F69",
+    "title": "#2D2D2D",
+    "text": "#4B4B4B",
+    "labelBackground": "#018F69",
+    "labelText": "#FFFFFF",
+    "grid": "#858585",
+    "outline": "#858585",
+    "paperFront": "#FFFFFF",
+    "paperBack": "#018F69",
+    "decorative": "#018F69",
+    "bookingNotes": "#858585"
+  },
+  "text": {
+    "subtitle": [
+      {
+        "align": "right",
+        "right": 2250,
+        "inkTop": 150,
+        "size": 58,
+        "font": "HB",
+        "maxWidth": 750
+      },
+      {
+        "align": "right",
+        "right": 2250,
+        "size": 58,
+        "font": "HB",
+        "maxWidth": 750,
+        "baselineOffset": 80
+      }
+    ],
+    "organizer": {
+      "inkLeft": 150,
+      "inkTop": 150,
+      "size": 46,
+      "font": "HR",
+      "maxWidth": 850,
+      "align": "left"
+    },
+    "date": {
+      "x": 150,
+      "baseline": 450,
+      "size": 68,
+      "font": "HM",
+      "maxWidth": 950,
+      "inkLeft": 150,
+      "align": "left"
+    },
+    "opening_hours": {
+      "x": 150,
+      "baseline": 555,
+      "size": 60,
+      "font": "HR",
+      "maxWidth": 750,
+      "inkLeft": 150,
+      "align": "left"
+    },
+    "slogan": [
+      {
+        "x": 850,
+        "baseline": 1090,
+        "size": 100,
+        "font": "HR",
+        "maxWidth": 450
+      },
+      {
+        "x": 920,
+        "baseline": 1230,
+        "size": 100,
+        "font": "HR",
+        "maxWidth": 600
+      },
+      {
+        "x": 820,
+        "baseline": 1370,
+        "size": 100,
+        "font": "HR",
+        "maxWidth": 480
+      },
+      {
+        "x": 920,
+        "baseline": 1510,
+        "size": 100,
+        "font": "HR",
+        "maxWidth": 520
+      }
+    ],
+    "title": [
+      {
+        "x": 150,
+        "baseline": 2000,
+        "size": 240,
+        "font": "DY",
+        "maxWidth": 900
+      },
+      {
+        "x": 580,
+        "size": 240,
+        "font": "DY",
+        "maxWidth": 820,
+        "preferredBaseline": 2320,
+        "baselineMode": "derive-from-paper-overlap"
+      }
+    ],
+    "activity_labels": [
+      {
+        "x": 1100,
+        "baseline": 765,
+        "size": 52,
+        "font": "HB",
+        "maxWidth": 1000
+      },
+      {
+        "x": 1880,
+        "baseline": 935,
+        "size": 52,
+        "font": "HB",
+        "maxWidth": 1000
+      },
+      {
+        "x": 150,
+        "baseline": 1665,
+        "size": 52,
+        "font": "HB",
+        "maxWidth": 1000
+      },
+      {
+        "x": 1570,
+        "baseline": 2360,
+        "size": 52,
+        "font": "HB",
+        "maxWidth": 1000
+      }
+    ],
+    "footer_left": [
+      {
+        "inkLeft": 150,
+        "align": "left",
+        "baseline": 2555,
+        "size": 52,
+        "font": "HM",
+        "maxWidth": 900
+      },
+      {
+        "inkLeft": 150,
+        "align": "left",
+        "baseline": 2640,
+        "size": 48,
+        "font": "HR",
+        "maxWidth": 900
+      },
+      {
+        "inkLeft": 150,
+        "align": "left",
+        "baseline": 2725,
+        "size": 44,
+        "font": "HR",
+        "maxWidth": 900
+      }
+    ],
+    "footer_right": [
+      {
+        "right": 2250,
+        "align": "right",
+        "baseline": 2555,
+        "size": 52,
+        "font": "HM",
+        "maxWidth": 900
+      },
+      {
+        "right": 2250,
+        "align": "right",
+        "baseline": 2640,
+        "size": 48,
+        "font": "HR",
+        "maxWidth": 900
+      },
+      {
+        "right": 2250,
+        "align": "right",
+        "baseline": 2725,
+        "size": 44,
+        "font": "HR",
+        "maxWidth": 900
+      }
+    ],
+    "booking_notes": [
+      {
+        "inkLeft": 150,
+        "align": "left",
+        "baseline": 2830,
+        "size": 36,
+        "font": "HR",
+        "maxWidth": 2100
+      },
+      {
+        "inkLeft": 150,
+        "align": "left",
+        "baseline": 2895,
+        "size": 36,
+        "font": "HR",
+        "maxWidth": 2100
+      }
+    ]
+  },
+  "grid": {
+    "spacing": 145,
+    "xStart": 130,
+    "xEnd": 2310,
+    "yStart": 90,
+    "yEnd": 2910,
+    "strokeWidth": 1.8,
+    "opacity": 0.17,
+    "masked": true
+  },
+  "silhouettes": {
+    "innerStrokeWidth": 2,
+    "outerStrokeWidth": 1.3,
+    "strokeOpacity": 0.65,
+    "innerOffset": 14,
+    "outerOffset": 28,
+    "fadeWidthRange": [
+      40,
+      90
+    ],
+    "contourStyle": "natural-human-outline-with-simplified-interior",
+    "contourBasis": "unfaded-natural-human-shape",
+    "fadeWidthDefault": 60,
+    "fadeWidthUnits": "final-canvas-px-for-torso-and-broad-regions",
+    "fadeWidthBodyShortSideRatio": [
+      0.15,
+      0.25
+    ],
+    "fadeInwardRatio": 0.9,
+    "fadeOutwardRatio": 0.1,
+    "fadeAlphaStops": [
+      [
+        0,
+        0.95
+      ],
+      [
+        0.35,
+        0.75
+      ],
+      [
+        0.7,
+        0.3
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "coreAlphaRange": [
+      0.9,
+      1.0
+    ],
+    "adaptFadeForNarrowParts": true,
+    "blurContourStrokes": false
+  },
+  "scene_slots": [
+    {
+      "id": "cropped-walker",
+      "x": 0,
+      "y": -270,
+      "width": 380,
+      "height": 371,
+      "opacity": 0.8,
+      "label": null
+    },
+    {
+      "id": "top-middle",
+      "x": 1032,
+      "y": 80,
+      "width": 360,
+      "height": 579,
+      "opacity": 0.88,
+      "label": 0
+    },
+    {
+      "id": "upper-right",
+      "x": 2050,
+      "y": 390,
+      "width": 350,
+      "height": 518,
+      "opacity": 0.84,
+      "label": 1
+    },
+    {
+      "id": "left-middle",
+      "x": 140,
+      "y": 840,
+      "width": 400,
+      "height": 742,
+      "opacity": 0.86,
+      "label": 2
+    },
+    {
+      "id": "lower-right",
+      "x": 1530,
+      "y": 1270,
+      "width": 950,
+      "height": 991,
+      "opacity": 1,
+      "label": 3
+    }
+  ],
+  "decorations": {
+    "sloganCornerLine": false
+  },
+  "language": "en",
+  "englishFit": {
+    "minScale": 0.6,
+    "roundFontSizeTo": 0.1,
+    "labelMaxLines": 2,
+    "labelLineHeightRatio": 1.15,
+    "labelBaselineAnchor": "last-line",
+    "recordAdjustments": true
+  },
+  "fontFiles": {
+    "DY": [
+      "Trajan Bold.ttf",
+      700
+    ],
+    "HB": [
+      "FuturaStd-Bold.otf",
+      700
+    ],
+    "HM": [
+      "FuturaStd-Medium.otf",
+      500
+    ],
+    "HR": [
+      "FuturaStd-Book.otf",
+      400
+    ],
+    "NB": [
+      "HarmonyOS_Sans_SC_Bold.ttf",
+      700
+    ],
+    "NM": [
+      "HarmonyOS_Sans_SC_Medium.ttf",
+      400
+    ],
+    "NR": [
+      "HarmonyOS_Sans_SC_Regular.ttf",
+      400
+    ]
+  },
+  "digitFontByAlias": {
+    "DY": "NB",
+    "HB": "NB",
+    "HM": "NM",
+    "HR": "NR"
+  },
+  "fontPolicy": {
+    "nonDigits": "Trajan Bold for main title; Futura Std elsewhere",
+    "digits": "HarmonyOS Sans SC",
+    "digitPattern": "[0-9]",
+    "punctuation": "Inherit text role: Trajan in main title, Futura Std elsewhere",
+    "sameBaselineWithinLine": true,
+    "preserveSpacing": true
+  },
+  "titlePaper": {
+    "sharedSize": true,
+    "nominalSize": 240,
+    "minimumSize": 120,
+    "paddingX": 50,
+    "paddingY": 50,
+    "backOffsetX": -18,
+    "backOffsetY": 15,
+    "backExtraWidth": 20,
+    "backExtraHeight": 16,
+    "frontAngles": [
+      -1,
+      1.5
+    ],
+    "backAngles": [
+      -4,
+      4
+    ],
+    "generatedOutput": "title-paper-layers.svg",
+    "textRotatesWithFront": true,
+    "groupOverlap": 40,
+    "minimumGroupOverlap": 20,
+    "avoidUpperTitleCoverage": true
+  },
+  "labelRules": {
+    "preferSingleLine": true,
+    "size": 52,
+    "paddingX": 18,
+    "paddingY": 12,
+    "safeLeft": 150,
+    "safeRight": 2250,
+    "maximumTextWidth": 1000,
+    "maximumLinesAfterRelocation": 2,
+    "uniformSingleLineHeight": true,
+    "windowGap": 24,
+    "windowBounds": {
+      "left": 1460,
+      "top": 330,
+      "right": 1830,
+      "bottom": 905
+    },
+    "decorativeObstacles": [
+      {
+        "left": 716,
+        "top": 286,
+        "right": 764,
+        "bottom": 334
+      },
+      {
+        "left": 972,
+        "top": 1612,
+        "right": 1028,
+        "bottom": 1668
+      },
+      {
+        "left": 1948,
+        "top": 1158,
+        "right": 1992,
+        "bottom": 1202
+      }
+    ],
+    "attachToScene": true,
+    "attachmentGap": 20,
+    "maximumPreferredGap": 40,
+    "sceneBoundsField": "scene_bounds",
+    "defaultPlacement": "below-outline-with-horizontal-overlap"
+  },
+  "footerRules": {
+    "maximumGroupRows": 3,
+    "leftInkEdge": 150,
+    "leftMaxRight": 1050,
+    "rightInkEdge": 2250,
+    "rightMinLeft": 1350,
+    "columnGap": 300,
+    "maximumNotesRows": 2,
+    "groupMinimumSize": 42,
+    "notesMinimumSize": 34,
+    "notesAlignment": "left"
+  },
+  "artworkStyleLock": {
+    "reference": "assets/layout/silhouette-soft-reference.png",
+    "referenceScope": "people and principal prop silhouettes only; ignore text/paper/grid placement in reference",
+    "target": "natural human silhouette with broad soft internal-to-transparent fade",
+    "reject": [
+      "hard-edge vector cutout",
+      "mostly opaque body with thin blur ring",
+      "anatomical line drawing",
+      "outlined furniture illustration",
+      "thick white keyline",
+      "photorealism",
+      "round-head stick figures"
+    ],
+    "retainApprovedAssetsForTypographyChanges": true,
+    "reuseWhenSourceActivitiesMatch": true,
+    "newActivityGenerationMustMatchStyle": true,
+    "objectDetail": "one minimal principal prop plus necessary support; no full structural furniture drawing"
+  }
+}
