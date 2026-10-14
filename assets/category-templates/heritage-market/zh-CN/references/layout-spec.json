@@ -1,0 +1,118 @@
+{
+  "canvas": {
+    "width": 2400,
+    "height": 3000,
+    "ratio": "4:5"
+  },
+  "fontDirectory": "fonts",
+  "fontRoles": {
+    "ExtraLight": 250,
+    "Light": 300,
+    "Regular": 400,
+    "Medium": 500,
+    "SemiBold": 600,
+    "Bold": 700,
+    "ExtraBold": 800,
+    "Black": 900,
+    "Ximai": 400
+  },
+  "safeMargins": {
+    "left": 140,
+    "right": 140,
+    "top": 100,
+    "bottom": 120
+  },
+  "nominalSizes": {
+    "title": 320,
+    "subtitle": 80,
+    "slogan": 52,
+    "details": 42
+  },
+  "leading": {
+    "title": 1.25,
+    "body": 1.45
+  },
+  "inkGroupGaps": {
+    "titleToSubtitle": [
+      48,
+      80
+    ],
+    "copyToImage": [
+      64,
+      100
+    ]
+  },
+  "heroRegion": {
+    "x": 140,
+    "y": 720,
+    "width": 2120,
+    "height": 1540
+  },
+  "imageRequiredForFinal": true,
+  "printTexture": {
+    "fullCanvasPaper": true,
+    "lightTextureInTextZones": true,
+    "misregistrationOnTypography": false,
+    "typographyInkTexture": true,
+    "preserveGlyphStructure": true,
+    "inkDensityVariation": {
+      "title": 0.09,
+      "body": 0.04
+    },
+    "microDropoutProbability": {
+      "title": 0.002,
+      "body": 0.0005
+    }
+  },
+  "delivery": {
+    "formats": [
+      "png"
+    ],
+    "opaquePaperBackground": true
+  },
+  "headerAlignment": {
+    "title": "center",
+    "subtitle": "center",
+    "slogan": "center",
+    "actualCenter": 1200,
+    "sizeOrder": [
+      "title",
+      "subtitle",
+      "slogan"
+    ]
+  },
+  "detailColumns": {
+    "count": 3,
+    "width": 640,
+    "gap": 100,
+    "top": 2400,
+    "sharedFontSize": 42,
+    "hierarchy": "font-weight-only",
+    "headingsFont": "Bold",
+    "bodyFont": "Medium",
+    "columns": [
+      {
+        "id": "time",
+        "left": 140,
+        "right": 780,
+        "align": "left",
+        "anchor": 140
+      },
+      {
+        "id": "venue",
+        "left": 880,
+        "right": 1520,
+        "align": "center",
+        "anchor": 1200
+      },
+      {
+        "id": "organizer",
+        "left": 1620,
+        "right": 2260,
+        "align": "right",
+        "anchor": 2260
+      }
+    ],
+    "equalOuterMargins": 140
+  }
+}
