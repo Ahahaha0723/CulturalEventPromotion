@@ -1,0 +1,279 @@
+[
+  {
+    "file": "HarmonyOS_Sans_SC_Regular.ttf",
+    "family": "HarmonyOS Sans SC",
+    "style": "Regular",
+    "weight": 400,
+    "license_metadata": null,
+    "license_url_metadata": null,
+    "sha256": "297b088424be212207df2ce8b98e335468b782aa6b96832af0b8b773d711e2b1",
+    "paths": [
+      "assets/category-templates/art-district/zh-CN/assets/fonts/HarmonyOS_Sans_SC_Regular.ttf",
+      "assets/category-templates/art-district/en/assets/fonts/HarmonyOS_Sans_SC_Regular.ttf",
+      "assets/category-templates/workshop/zh-CN/fonts/HarmonyOS_Sans_SC_Regular.ttf",
+      "assets/category-templates/workshop/en/fonts/HarmonyOS_Sans_SC_Regular.ttf",
+      "assets/category-templates/sports/zh-CN/fonts/HarmonyOS_Sans_SC_Regular.ttf",
+      "assets/category-templates/sports/en/fonts/HarmonyOS_Sans_SC_Regular.ttf"
+    ]
+  },
+  {
+    "file": "FuturaMaxi-Book.otf",
+    "family": "Futura Maxi Book",
+    "style": "Regular",
+    "weight": 400,
+    "license_metadata": "This font software is the property of Monotype Imaging Inc., or one of its affiliated entities (collectively, Monotype) and its use by you is covered under the terms of a license agreement. You have obtained this font software either directly from Monotype or together with software distributed by one of the licensees of Monotype. This software is a valuable asset of Monotype. Unless you have entered into a specific license agreement granting you additional rights, your use of this software is limited by the terms of the actual license agreement you have entered into with Monotype. You may not copy or distribute this software. If you have any questions concerning your rights you should review the license agreement you received with the software. You can learn more about Monotype by clicking here: www.monotype.com.",
+    "license_url_metadata": "http://www.monotype.com",
+    "sha256": "3eeabf19832db6a701c0eea0013a75a2c50e2341a4b707dd597956bb3a912327",
+    "paths": [
+      "assets/category-templates/art-district/zh-CN/assets/fonts/FuturaMaxi-Book.otf",
+      "assets/category-templates/art-district/en/assets/fonts/FuturaMaxi-Book.otf"
+    ]
+  },
+  {
+    "file": "FuturaMaxi-Bold.otf",
+    "family": "Futura Maxi Book",
+    "style": "Bold",
+    "weight": 700,
+    "license_metadata": "This font software is the property of Monotype Imaging Inc., or one of its affiliated entities (collectively, Monotype) and its use by you is covered under the terms of a license agreement. You have obtained this font software either directly from Monotype or together with software distributed by one of the licensees of Monotype. This software is a valuable asset of Monotype. Unless you have entered into a specific license agreement granting you additional rights, your use of this software is limited by the terms of the actual license agreement you have entered into with Monotype. You may not copy or distribute this software. If you have any questions concerning your rights you should review the license agreement you received with the software. You can learn more about Monotype by clicking here: www.monotype.com.",
+    "license_url_metadata": "http://www.monotype.com",
+    "sha256": "96bbd2c960c6858c869ff36392bbfb1070516f098aa85d291a0ad9aa07eadce7",
+    "paths": [
+      "assets/category-templates/art-district/zh-CN/assets/fonts/FuturaMaxi-Bold.otf",
+      "assets/category-templates/art-district/en/assets/fonts/FuturaMaxi-Bold.otf"
+    ]
+  },
+  {
+    "file": "HarmonyOS_Sans_SC_Light.ttf",
+    "family": "HarmonyOS Sans SC",
+    "style": "Light",
+    "weight": 300,
+    "license_metadata": null,
+    "license_url_metadata": null,
+    "sha256": "dd366290b40861bc6ced85801e850ab66d6fe4c5b33bc43095a9747fa29288d8",
+    "paths": [
+      "assets/category-templates/art-district/zh-CN/assets/fonts/HarmonyOS_Sans_SC_Light.ttf",
+      "assets/category-templates/art-district/en/assets/fonts/HarmonyOS_Sans_SC_Light.ttf",
+      "assets/category-templates/workshop/zh-CN/fonts/HarmonyOS_Sans_SC_Light.ttf",
+      "assets/category-templates/workshop/en/fonts/HarmonyOS_Sans_SC_Light.ttf",
+      "assets/category-templates/sports/zh-CN/fonts/HarmonyOS_Sans_SC_Light.ttf",
+      "assets/category-templates/sports/en/fonts/HarmonyOS_Sans_SC_Light.ttf"
+    ]
+  },
+  {
+    "file": "FuturaMaxi-Demi.otf",
+    "family": "Futura Maxi Demi",
+    "style": "Regular",
+    "weight": 600,
+    "license_metadata": "This font software is the property of Monotype Imaging Inc., or one of its affiliated entities (collectively, Monotype) and its use by you is covered under the terms of a license agreement. You have obtained this font software either directly from Monotype or together with software distributed by one of the licensees of Monotype. This software is a valuable asset of Monotype. Unless you have entered into a specific license agreement granting you additional rights, your use of this software is limited by the terms of the actual license agreement you have entered into with Monotype. You may not copy or distribute this software. If you have any questions concerning your rights you should review the license agreement you received with the software. You can learn more about Monotype by clicking here: www.monotype.com.",
+    "license_url_metadata": "http://www.monotype.com",
+    "sha256": "33a00ad0096d3d8e1c5fbae00fb12e8f7bd8253f2bcfdfec83a7eafface99f3e",
+    "paths": [
+      "assets/category-templates/art-district/zh-CN/assets/fonts/FuturaMaxi-Demi.otf",
+      "assets/category-templates/art-district/en/assets/fonts/FuturaMaxi-Demi.otf"
+    ]
+  },
+  {
+    "file": "HarmonyOS_Sans_SC_Black.ttf",
+    "family": "HarmonyOS Sans SC",
+    "style": "Black",
+    "weight": 900,
+    "license_metadata": null,
+    "license_url_metadata": null,
+    "sha256": "5de9560908e88820df2e0a5ed9465bc44644ae2ce1cd6c194b76f2ed8e8f186e",
+    "paths": [
+      "assets/category-templates/art-district/zh-CN/assets/fonts/HarmonyOS_Sans_SC_Black.ttf",
+      "assets/category-templates/art-district/en/assets/fonts/HarmonyOS_Sans_SC_Black.ttf",
+      "assets/category-templates/workshop/zh-CN/fonts/HarmonyOS_Sans_SC_Black.ttf",
+      "assets/category-templates/workshop/en/fonts/HarmonyOS_Sans_SC_Black.ttf",
+      "assets/category-templates/sports/zh-CN/fonts/HarmonyOS_Sans_SC_Black.ttf",
+      "assets/category-templates/sports/en/fonts/HarmonyOS_Sans_SC_Black.ttf"
+    ]
+  },
+  {
+    "file": "HarmonyOS_Sans_SC_Bold.ttf",
+    "family": "HarmonyOS Sans SC",
+    "style": "Bold",
+    "weight": 700,
+    "license_metadata": null,
+    "license_url_metadata": null,
+    "sha256": "43a424b85e47fb53a17b3b32026a71801f86f8e022ca6798d186b47d39fa5f01",
+    "paths": [
+      "assets/category-templates/art-district/zh-CN/assets/fonts/HarmonyOS_Sans_SC_Bold.ttf",
+      "assets/category-templates/art-district/en/assets/fonts/HarmonyOS_Sans_SC_Bold.ttf",
+      "assets/category-templates/workshop/zh-CN/fonts/HarmonyOS_Sans_SC_Bold.ttf",
+      "assets/category-templates/workshop/en/fonts/HarmonyOS_Sans_SC_Bold.ttf",
+      "assets/category-templates/sports/zh-CN/fonts/HarmonyOS_Sans_SC_Bold.ttf",
+      "assets/category-templates/sports/en/fonts/HarmonyOS_Sans_SC_Bold.ttf"
+    ]
+  },
+  {
+    "file": "HarmonyOS_Sans_SC_Thin.ttf",
+    "family": "HarmonyOS Sans SC",
+    "style": "Thin",
+    "weight": 250,
+    "license_metadata": null,
+    "license_url_metadata": null,
+    "sha256": "a88d9065dc144bf462e6553e308e9d5256bfe1a068abb47a3ee1081d636ea91a",
+    "paths": [
+      "assets/category-templates/art-district/zh-CN/assets/fonts/HarmonyOS_Sans_SC_Thin.ttf",
+      "assets/category-templates/art-district/en/assets/fonts/HarmonyOS_Sans_SC_Thin.ttf",
+      "assets/category-templates/workshop/zh-CN/fonts/HarmonyOS_Sans_SC_Thin.ttf",
+      "assets/category-templates/workshop/en/fonts/HarmonyOS_Sans_SC_Thin.ttf",
+      "assets/category-templates/sports/zh-CN/fonts/HarmonyOS_Sans_SC_Thin.ttf",
+      "assets/category-templates/sports/en/fonts/HarmonyOS_Sans_SC_Thin.ttf"
+    ]
+  },
+  {
+    "file": "HarmonyOS_Sans_SC_Medium.ttf",
+    "family": "HarmonyOS Sans SC",
+    "style": "Medium",
+    "weight": 500,
+    "license_metadata": null,
+    "license_url_metadata": null,
+    "sha256": "6ed1553edccddc48eb27ff25d134a4a715cf54211238d4840b3038576cba1944",
+    "paths": [
+      "assets/category-templates/art-district/zh-CN/assets/fonts/HarmonyOS_Sans_SC_Medium.ttf",
+      "assets/category-templates/art-district/en/assets/fonts/HarmonyOS_Sans_SC_Medium.ttf",
+      "assets/category-templates/workshop/zh-CN/fonts/HarmonyOS_Sans_SC_Medium.ttf",
+      "assets/category-templates/workshop/en/fonts/HarmonyOS_Sans_SC_Medium.ttf",
+      "assets/category-templates/sports/zh-CN/fonts/HarmonyOS_Sans_SC_Medium.ttf",
+      "assets/category-templates/sports/en/fonts/HarmonyOS_Sans_SC_Medium.ttf"
+    ]
+  },
+  {
+    "file": "澹雅明体DYmingB.ttf",
+    "family": "DYming ",
+    "style": "Medium",
+    "weight": 400,
+    "license_metadata": "IPA Open Font License v1.0",
+    "license_url_metadata": "http://ipafont.ipa.go.jp/ipa_font_license_v1.html",
+    "sha256": "96d7158174b600bc2e8c99257339aa8a368e5e0a7ee9f6e285b2b212e4a57a97",
+    "paths": [
+      "assets/category-templates/art-district/zh-CN/assets/fonts/澹雅明体DYmingB.ttf",
+      "assets/category-templates/art-district/en/assets/fonts/澹雅明体DYmingB.ttf"
+    ]
+  },
+  {
+    "file": "FuturaMaxi-Light.otf",
+    "family": "Futura Maxi Light",
+    "style": "Regular",
+    "weight": 300,
+    "license_metadata": "This font software is the property of Monotype Imaging Inc., or one of its affiliated entities (collectively, Monotype) and its use by you is covered under the terms of a license agreement. You have obtained this font software either directly from Monotype or together with software distributed by one of the licensees of Monotype. This software is a valuable asset of Monotype. Unless you have entered into a specific license agreement granting you additional rights, your use of this software is limited by the terms of the actual license agreement you have entered into with Monotype. You may not copy or distribute this software. If you have any questions concerning your rights you should review the license agreement you received with the software. You can learn more about Monotype by clicking here: www.monotype.com.",
+    "license_url_metadata": "http://www.monotype.com",
+    "sha256": "fcf76896fe4d7713da593c96af540e15a7bcde3abae1326be29e9967842ea7b7",
+    "paths": [
+      "assets/category-templates/art-district/zh-CN/assets/fonts/FuturaMaxi-Light.otf",
+      "assets/category-templates/art-district/en/assets/fonts/FuturaMaxi-Light.otf"
+    ]
+  },
+  {
+    "file": "FuturaStd-Heavy.otf",
+    "family": "Futura Std",
+    "style": "Heavy",
+    "weight": 650,
+    "license_metadata": null,
+    "license_url_metadata": "http://www.adobe.com/type/legal.html",
+    "sha256": "ee27521742fcebb3316632b340f93aea68f77376c117acaf6bf45010ed1bfe21",
+    "paths": [
+      "assets/category-templates/art-district/en/assets/fonts/FuturaStd-Heavy.otf"
+    ]
+  },
+  {
+    "file": "FuturaStd-Light.otf",
+    "family": "Futura Std",
+    "style": "Light",
+    "weight": 300,
+    "license_metadata": null,
+    "license_url_metadata": "http://www.adobe.com/type/legal.html",
+    "sha256": "938ad3be33800ad6be8a73d4d6396e019ad98b9e125c8a12cbae358709438d8a",
+    "paths": [
+      "assets/category-templates/art-district/en/assets/fonts/FuturaStd-Light.otf"
+    ]
+  },
+  {
+    "file": "Trajan Bold.ttf",
+    "family": "Trajan",
+    "style": "Bold",
+    "weight": 700,
+    "license_metadata": null,
+    "license_url_metadata": null,
+    "sha256": "fcb5e43cbc702488a1bcfe2ce449b0d1824422e3463d79b699b4e3a1b75fc64b",
+    "paths": [
+      "assets/category-templates/art-district/en/assets/fonts/Trajan Bold.ttf"
+    ]
+  },
+  {
+    "file": "FuturaStd-Book.otf",
+    "family": "Futura Std",
+    "style": "Book",
+    "weight": 400,
+    "license_metadata": null,
+    "license_url_metadata": "http://www.adobe.com/type/legal.html",
+    "sha256": "61f2af8ff6f2c88182142524af5c321547ea30dcc9bce77726856a45b0381fb7",
+    "paths": [
+      "assets/category-templates/art-district/en/assets/fonts/FuturaStd-Book.otf"
+    ]
+  },
+  {
+    "file": "FuturaStd-ExtraBold.otf",
+    "family": "Futura Std",
+    "style": "Extra Bold",
+    "weight": 750,
+    "license_metadata": null,
+    "license_url_metadata": "http://www.adobe.com/type/legal.html",
+    "sha256": "a4265fc326fd8b70219b84d29144e8fe160d4d3fc6c435ea780816350598568b",
+    "paths": [
+      "assets/category-templates/art-district/en/assets/fonts/FuturaStd-ExtraBold.otf"
+    ]
+  },
+  {
+    "file": "FuturaStd-Bold.otf",
+    "family": "Futura Std",
+    "style": "Bold",
+    "weight": 700,
+    "license_metadata": null,
+    "license_url_metadata": "http://www.adobe.com/type/legal.html",
+    "sha256": "215c175ce595d0f42bc1f703ef94ecbf6f45dc875cdbfd7ea59d9d8b28467cf9",
+    "paths": [
+      "assets/category-templates/art-district/en/assets/fonts/FuturaStd-Bold.otf"
+    ]
+  },
+  {
+    "file": "FuturaStd-Medium.otf",
+    "family": "Futura Std",
+    "style": "Medium",
+    "weight": 500,
+    "license_metadata": null,
+    "license_url_metadata": "http://www.adobe.com/type/legal.html",
+    "sha256": "9da271dbdb87e9fb65e66649187e87181e9585ca4b1af115e1d5549d73a5a673",
+    "paths": [
+      "assets/category-templates/art-district/en/assets/fonts/FuturaStd-Medium.otf"
+    ]
+  },
+  {
+    "file": "Trajan Regular.ttf",
+    "family": "Trajan",
+    "style": "Regular",
+    "weight": 400,
+    "license_metadata": null,
+    "license_url_metadata": null,
+    "sha256": "b4fc050b87e1fbae8ab2cd196858f8234aba6d838ce907b740ac1e3bf38b30f1",
+    "paths": [
+      "assets/category-templates/art-district/en/assets/fonts/Trajan Regular.ttf"
+    ]
+  },
+  {
+    "file": "江城律动黑.ttf",
+    "family": "江城律动黑",
+    "style": "Regular",
+    "weight": 900,
+    "license_metadata": null,
+    "license_url_metadata": null,
+    "sha256": "54f8dd5400fbc3cd540f08dd8831c173ea5e3f99218b96175511fd510aeddf68",
+    "paths": [
+      "assets/category-templates/sports/zh-CN/fonts/江城律动黑.ttf",
+      "assets/category-templates/sports/en/fonts/江城律动黑.ttf"
+    ],
+    "source": "用户提供的小组成员体育赛事包；许可未另行核验"
+  }
+]
