@@ -1,0 +1,23 @@
+{
+  "sourceType": "fictional-cyanotype-workshop-test",
+  "evidence": [
+    {
+      "field": "theme",
+      "value": "botanical cyanotype, exposure, rinse",
+      "effect": "Vivid blue reflects the cyanotype process."
+    },
+    {
+      "field": "activity",
+      "value": "leaf arrangement and exposure projection",
+      "effect": "A continuous abstract exposure band with rounded negative space; no literal leaf."
+    }
+  ],
+  "palette": {
+    "primary": "#304FFE",
+    "secondary": null,
+    "reason": "Vivid cyanotype blue, supported by this source only; not a universal palette."
+  },
+  "abstractMechanism": "A single continuous natural cubic-spline band; tangent and curvature continuity, broad turns, no angular cutouts or rigid fragments.",
+  "textSafety": "White only where actual glyph portions overlap dark art; maintain at least 4.5 white contrast.",
+  "status": "fictional-review; booking channel pending"
+}

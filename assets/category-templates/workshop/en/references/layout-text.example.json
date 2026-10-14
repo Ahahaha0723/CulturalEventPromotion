@@ -1,0 +1,127 @@
+{
+  "main_title_lines": [
+    "PRINT",
+    "THE LIGHT"
+  ],
+  "right_title_lines": [
+    "BOTANICAL",
+    "CYANOTYPE",
+    "WORKSHOP"
+  ],
+  "left_support_lines": [
+    "With a single leaf,",
+    "keep the shape of sunlight."
+  ],
+  "left_process_lines": [
+    "Materials → Composition",
+    "Exposure → Rinse → Share"
+  ],
+  "date": "28 NOV 2026",
+  "time": "SAT 14:00–16:30",
+  "detail_groups": [
+    {
+      "id": "venue",
+      "lines": [
+        {
+          "text": "Shiguang Creative Space",
+          "role": "general",
+          "emphasis": true
+        },
+        {
+          "text": "Experimental Studio, 2nd Floor",
+          "role": "general",
+          "emphasis": false
+        },
+        {
+          "text": "32 Zhichang Rd, Yunchuan District,",
+          "role": "small",
+          "emphasis": false
+        },
+        {
+          "text": "Qinghe",
+          "role": "small",
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "id": "tutor",
+      "lines": [
+        {
+          "text": "Tutor: Lin Zhi",
+          "role": "general",
+          "emphasis": true
+        },
+        {
+          "text": "Independent visual creator;",
+          "role": "small",
+          "emphasis": false
+        },
+        {
+          "text": "botanical cyanotype workshop tutor",
+          "role": "small",
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "id": "booking",
+      "lines": [
+        {
+          "text": "Book by 25 NOV, 18:00",
+          "role": "general",
+          "emphasis": true
+        },
+        {
+          "text": "Closes early if full. No walk-ins.",
+          "role": "general",
+          "emphasis": false
+        },
+        {
+          "text": "Your place is confirmed after notice",
+          "role": "general",
+          "emphasis": false
+        },
+        {
+          "text": "and payment.",
+          "role": "general",
+          "emphasis": false
+        },
+        {
+          "text": "Booking link and QR code pending.",
+          "role": "small",
+          "emphasis": false
+        }
+      ]
+    }
+  ],
+  "footer_lines": [
+    "Organized by Shiguang Creative Space",
+    "Materials supplied; bring dry, flat leaves if desired.",
+    "Please arrive 10 minutes early.",
+    "Rainy day: indoor exposure equipment.",
+    "Cancel 48h ahead; later, ask to transfer your place."
+  ],
+  "lower_right_participation_lines": [
+    {
+      "text": "CNY 128 / person | 16 places",
+      "emphasis": true
+    },
+    {
+      "text": "Ages 16+; no experience needed",
+      "emphasis": false
+    },
+    {
+      "text": "Guidance, tools and materials included",
+      "emphasis": false
+    },
+    {
+      "text": "Make two A5 cyanotype prints;",
+      "emphasis": false
+    },
+    {
+      "text": "turn one into a postcard.",
+      "emphasis": false
+    }
+  ]
+}
