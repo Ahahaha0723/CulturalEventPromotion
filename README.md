@@ -1,6 +1,6 @@
 # 秩绘 skill（cultural-event-poster skill）V3.1
 
-> 有秩序的生成，才配叫智慧。
+> 每一次生成都有章可循。
 
 「秩绘」（cultural-event-poster）是一个面向 Codex 的文化活动宣传海报 Skill，用于从 PDF、Word、Excel、图片及混合资料包中提取活动信息，建立可追踪的内容母本，识别活动类型，并进一步完成中英文海报的视觉策略、生成、排版与质量检查。
 
