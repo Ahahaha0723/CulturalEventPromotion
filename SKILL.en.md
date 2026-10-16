@@ -1,9 +1,9 @@
 ---
 name: cultural-event-poster
-description: Organize mixed materials for exhibitions, performances, festivals, lectures, workshops, reading events, screenings, and hybrid cultural programs; build a traceable content master; plan communication and visual strategies; and coordinate bilingual poster generation, controlled typography, quality checks, and targeted iteration. Use for cultural-event posters or key visuals.
+description: Organize mixed materials for exhibitions, performances, festivals, lectures, workshops, reading events, screenings, and hybrid cultural programs; build a traceable content master; plan communication and visual strategies; and coordinate bilingual poster generation, controlled typography, quality checks, and targeted iteration. Use for cultural-event posters or key visuals. Chinese name: 秩绘 (ZhiHui).
 ---
 
-# Cultural Event Poster
+# 秩绘 · Cultural Event Poster
 
 Turn cultural-event materials into accurate, legible, engaging, and traceable poster deliverables. Confirm facts and communication goals before choosing a strategy, generating imagery, typesetting official copy, and reviewing the result. Do not jump from isolated keywords directly to a visual style or final image.
 

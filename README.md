@@ -1,6 +1,8 @@
-# Cultural Event Promotion Skill V3.1
+# 秩绘 skill（cultural-event-poster skill）V3.1
 
-一个面向 Codex 的文化活动宣传海报 Skill，用于从 PDF、Word、Excel、图片及混合资料包中提取活动信息，建立可追踪的内容母本，识别活动类型，并进一步完成中英文海报的视觉策略、生成、排版与质量检查。
+> 有秩序的生成，才配叫智慧。
+
+「秩绘」（cultural-event-poster）是一个面向 Codex 的文化活动宣传海报 Skill，用于从 PDF、Word、Excel、图片及混合资料包中提取活动信息，建立可追踪的内容母本，识别活动类型，并进一步完成中英文海报的视觉策略、生成、排版与质量检查。
 
 > Skill 的正式入口是 [`SKILL.md`](SKILL.md)；英文入口见 [`SKILL.en.md`](SKILL.en.md)。本 README 仅用于介绍、安装和协作。
 
@@ -60,14 +62,14 @@
 将仓库直接克隆到 Codex Skills 目录：
 
 ```bash
-git clone git@github.com:dengyuchen658-lab/CulturalEventPromotion_Skills.git \
+git clone git@github.com:Ahahaha0723/cultural-event-poster.git \
   ~/.codex/skills/cultural-event-poster
 ```
 
 也可以使用 HTTPS：
 
 ```bash
-git clone https://github.com/dengyuchen658-lab/CulturalEventPromotion_Skills.git \
+git clone https://github.com/Ahahaha0723/cultural-event-poster.git \
   ~/.codex/skills/cultural-event-poster
 ```
 
@@ -110,4 +112,4 @@ python3 -m pip install -r requirements.txt
 
 ## English summary
 
-This repository contains a Codex skill for extracting traceable event facts from mixed source packages, classifying cultural activities, planning category-specific visual strategies, and producing quality-controlled Chinese and English poster variants. Start with [`SKILL.en.md`](SKILL.en.md) for the English instructions.
+This repository contains 秩绘 (cultural-event-poster), a Codex skill for extracting traceable event facts from mixed source packages, classifying cultural activities, planning category-specific visual strategies, and producing quality-controlled Chinese and English poster variants. Start with [`SKILL.en.md`](SKILL.en.md) for the English instructions.
